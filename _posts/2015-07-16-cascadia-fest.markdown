@@ -14,18 +14,21 @@ The conference was divided up into three days: July 8th was CSS day, July 9th wa
 
 July 8th: CascadiaCSS
 =====================
-This was the first ever CascadiaCSS. I had been feeling kind of down about CSS before I attended, so I was totally inspired by the talks and now really, really want to experiment with Sass.
+This was the first ever CascadiaCSS. I had been feeling kind of down about CSS before I attended, so I was totally inspired by the talks and now really, really want to experiment with Sass. In fact, I'm exploring Sass right now with this very blog, which is made with [Jekyll](http://www.jekyllrb.com).
 
-So far I haven't ever used Sass or Less or any CSS preprocessors. Alan M.'s talk "Css is Dead. Long Live CSS!" talked about how preprocessors are great for testing new concepts but that CSS is making headway at accomodating a lot of
+Some highlights:
+* [Alan Mooiman](http://www.alanmoo.com) talked about how preprocessors are great for testing new concepts but that CSS is making headway at accommodating a lot of ideas preprocessors have paved the way for.
 
-Jeff Lembeck!!! Jeff
+* [JEFF LEMBECK!](http://www.jefflembeck.com/) (all caps cuz I know Jeff, and he was also captain of the Hacker Train that took me to the conference!!!) talked about the design of developing and ways to develop and work as a team to make things that you want others to enjoy. "Be conservative in what you do, be liberal in what you accept from others...unless what they're doing is totally absurd..."
 
+* [Amy Lynn Taylor](https://twitter.com/amydearest) talked about ways to build the connections in a mostly remote-working team. Also, she said to "Use emoji. It's science.", which I will remember pretty much forever :-)
+
+* [Gregor Adams](http://www.pixelass) talked about fractals, went over some fractal patterns as well as fractal systems, demonstrating some sweet, sweet animated fractals with Sass.
+
+* [Una Kravets](http://unakravets.com/) discussed her open source design and its lack of diversity and went over practices and ways to make open source design more accessible (like setting detailed feedback guidelines).
 Gregor Adams talked about fractals.
 
-I played CSS Layering Tennis with Allie, Kathy, Kristina, and Elle.
-
-Side note:
-Design, front-end development, and art are all kind of tricky words and have complex meanings to me. Part of this is because they are all complex fields, and part of this is because I used to work in art and have an interest in both design and front-end development (but also full-stack development). When I hear "art" in tech, a part of me sometimes cringes depending on how it's used. It usually is a bad word to me, but I've been thinking more and more that I really should just go with the flow of the popular meaning of "art" and stop being such a grump.
+I played CSS Layering Tennis with Allie, Kathy, Kristina, and Elle in the afternoon during CascadiaCSS, too :-)
 
 A side highlight:
 
@@ -33,3 +36,9 @@ A side highlight:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/nrrrdcore">@nrrrdcore</a> &#10;dark room of strangers&#10;Badges made from tree corpses&#10;CSS is goth</p>&mdash; stephanie kwak (@kwakstop) <a href="https://twitter.com/kwakstop/status/618920275669684224">July 8, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+July 9th: Browser Day
+=====================
+
+July 10th: Server Day
+=====================
