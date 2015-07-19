@@ -23,10 +23,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 $orange-color:     #ff8862;
 // Width of the content area
-$content-width:    800px;
+$content-width:    1000px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1000px;
 
 
 
@@ -51,3 +51,13 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.profile-pic {
+  margin-left: 25%;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.squiggle {
+  list-style-image: url('/assets/smile3.png');
+}
