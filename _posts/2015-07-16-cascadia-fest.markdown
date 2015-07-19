@@ -2,6 +2,7 @@
 layout: post
 title:  "CascadiaJS/CascadiaFest 2015"
 date:   2015-07-16 09:58:03
+
 categories: jekyll update
 ---
 
@@ -9,8 +10,7 @@ This was my first real conference I've ever attended. I was able to attend [Casc
 
 Right before I left for the conference, I finished up a JavaScript-intensive project at internship, so the conference was perfectly timed for me to get to know the community out there, as well as cosmically expand my mind on the cool things that can be done with JavaScript.
 
-The conference was divided up into three days: July 8th was CSS day, July 9th was Browser Day, and July 10th was Server Day. Here are some highlights:
-
+The conference was divided up into three days: July 8th was CSS day, July 9th was Browser Day, and July 10th was Server Day. Here's a quick wrap-up.
 
 
 July 8th: CascadiaCSS
