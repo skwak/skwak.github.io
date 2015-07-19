@@ -18,6 +18,7 @@ July 8th: CascadiaCSS
 This was the first ever CascadiaCSS. I had been feeling kind of down about CSS before I attended, so I was totally inspired by the talks and now really, really want to experiment with Sass. In fact, I'm exploring Sass right now with this very blog, which is made with [Jekyll](http://www.jekyllrb.com). I'm also attempting to use Vim right now to edit this, so my computing life is getting fitter...happier? *cool shrug*
 
 Some highlights:
+
 * [Alan Mooiman](http://www.alanmoo.com) talked about how preprocessors are great for testing new concepts but that CSS is making headway at accommodating a lot of ideas preprocessors have paved the way for.
 
 * [JEFF LEMBECK!](http://www.jefflembeck.com/) (all caps cuz I know Jeff, and he was also captain of the Hacker Train that took me to the conference!!!) talked about the design of developing and ways to develop and work as a team to make things that you want others to enjoy. "Be conservative in what you do, be liberal in what you accept from others...unless what they're doing is totally absurd..."
@@ -55,7 +56,7 @@ Highlights of Browser/Bowser/Bower Day:
 * [Allen Pike](https://twitter.com/apike) went over JavaScript Framework Fatigue, which is Real and growing Real every day. He discussed reasons for why there are so many frameworks, a lot of which has to do with the rapid changes and developments happening with browsers.
 
  * [Andrei Kashca](https://github.com/anvaka) blew everybody's minds with his [amazing galaxies graphing package managers](http://anvaka.github.io/pm/#/). His [secret GitHub visualization](http://anvaka.github.io/pm/#/galaxy/github?l=1) is my favorite :-)
-     
+
 July 10th: Server Day
 =====================
 
@@ -66,4 +67,3 @@ I was pretty tired on the last day, so my notes are a bit scattered. That being 
 * [Kevin Dela Rosa](https://twitter.com/kevd1337) went over ways to use machine learning in JavaScript applications. Probably one of the easiest-to-understand explanation of machine learning I've heard, and he made machine learning algorithms seem accessible!
 
 * [N Parashuram](http://nparashuram.com/) talked about how to automate performance tests on the browser. He demonstrated how to use [browser-perf](https://github.com/axemclion/browser-perf), and I made a note to "USE BROWSER-PERF ONE DAY."
-
