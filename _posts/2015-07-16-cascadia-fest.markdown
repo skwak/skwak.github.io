@@ -6,14 +6,14 @@ categories: jekyll update
 ---
 
 This was my first real conference I've ever attended. I was able to attend [CascadiaFest](http://2015.cascadiajs.com/) on a Diversity Scholarship, and I'm really happy I was able to make my first ever conference such a friendly and engaging one.
-I had only heard good things about CascadiaFest/JS, so I feel very fortunate to have been able to attend and be a part of an open and interesting community.
 
-Right before I left for the conference, I finished up a JavaScript-intensive project at [my internship company](http://www.nordstrom.com). I've always had fond memories of JavaScript --- though I do appreciate some light-hearted digs. Back when I was first digging into programming and exploring [Codecademy](http://www.codecademy.com/), I remember finding Python very frustrating, Ruby somewhat frustrating, and JavaScript confusing but the most fun. These first beginnings in JavaScript planted the seeds and interest in taking on a big project in JavaScript during my internship, and the conference was perfectly timed for me to get to know the community out there, as well as cosmically expand my mind on the cool things that can be done with JavaScript.
+Right before I left for the conference, I finished up a JavaScript-intensive project at internship, so the conference was perfectly timed for me to get to know the community out there, as well as cosmically expand my mind on the cool things that can be done with JavaScript.
 
 The conference was divided up into three days: July 8th was CSS day, July 9th was Browser Day, and July 10th was Server Day. Here are some highlights:
 
-July 8th: CascadiaCSS
 
+
+July 8th: CascadiaCSS
 =====================
 This was the first ever CascadiaCSS. I had been feeling kind of down about CSS before I attended, so I was totally inspired by the talks and now really, really want to experiment with Sass. In fact, I'm exploring Sass right now with this very blog, which is made with [Jekyll](http://www.jekyllrb.com). I'm also attempting to use Vim right now to edit this, so my computing life is getting fitter...happier? *cool shrug*
 
