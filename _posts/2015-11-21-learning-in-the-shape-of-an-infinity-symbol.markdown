@@ -16,7 +16,7 @@ I have a bunch of goals of things I want to learn. React, Clojure, Node, Express
 Through the generosity of [Strange Loop](http://www.thestrangeloop.com), I have a one-year subscription to Code School. I've gone through the SQL path, just finished the Node.js path, and am planning on doing various Ruby (I want to go back to my coding roots!) and JavaScript paths.
 
 * [NODESCHOOL](http://nodeschool.io/)
-I've done the [https://github.com/workshopper/learnyounode](Learn You Node) workshopper,
+I've done the [Learn You Node](https://github.com/workshopper/learnyounode) workshopper,
 and the "Juggling Async" problem [slayed me!](https://github.com/skwak/learnyounode-answers) and also was that little lightbulb in my head that went off.
 
 * Beautiful books
