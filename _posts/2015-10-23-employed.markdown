@@ -1,8 +1,0 @@
---- layout: post
-title: "EMPLOYED"
-date:  2015-10-23 23:59:99
-
-categories: jekyll update
----
-
-ICYMI, and you probably did miss it because I never announced it here, I am officially employed in my first real developer job. 
