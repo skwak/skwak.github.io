@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Patti Smith Is My Programming Hero"
-date:   2015-02-15 13:00:00
+date:   2016-02-15 13:00:00
 
 categories: jekyll update
 ---
