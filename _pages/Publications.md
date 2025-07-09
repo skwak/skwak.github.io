@@ -3,6 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+
+## ORCID 
+
 1. An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation. Hyundong Kim, Seokjun Ham, **Soobin Kwak**, Junseok Kim. *Computer Physics Communications* 315 (2025) 109712. [DOI](https://doi.org/10.1016/j.cpc.2025.109712)
 
 1. Calibration of Local Volatility Surfaces from Observed Market Call and Put Option Prices. Changwoo Yoo, **Soobin Kwak**, Youngjin Hwang, Hanbyeol Jang, Hyundong Kim, Junseok Kim. *Computational Economics* 65(3) (2025) 115010 1147–1168. [DOI](https://doi.org/10.1007/s10614-024-10590-9)
