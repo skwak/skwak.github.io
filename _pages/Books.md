@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 <div class=pull-left>
-<img src="./9791194145226.ipg", width="100px">
+<img src=".images/9791194145226.ipg", width="100px">
 </div>
 <div class=pull-right>
 1. 챗GPT를 활용한 영어과학논문작성법 (개정판)<br>
