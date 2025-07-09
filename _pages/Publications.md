@@ -14,7 +14,7 @@ permalink: /publications/
 	726–741,
 	[doi](10.47176/jafm.17.4.2305)
 
-- Yang, Junxiang, Lee, Chaeyoung, Kwak, Soobin, Choi, Yongho, Kim, Junseok,
+1. Yang, Junxiang, Lee, Chaeyoung, Kwak, Soobin, Choi, Yongho, Kim, Junseok,
 	A conservative, stable explicit finite difference scheme for the diffusion equation,
 	(2021),
 	56,
