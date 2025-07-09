@@ -3,480 +3,152 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+1. An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation. Hyundong Kim, Seokjun Ham, Soobin Kwak, Junseok Kim. *Computer Physics Communications* 315 (2025) 109712. [DOI](https://doi.org/10.1016/j.cpc.2025.109712)
 
+1. Calibration of Local Volatility Surfaces from Observed Market Call and Put Option Prices. Changwoo Yoo, Soobin Kwak, Youngjin Hwang, Hanbyeol Jang, Hyundong Kim, Junseok Kim. *Computational Economics* 65(3) (2025) 1150101147-1168. [DOI](https://doi.org/10.1007/s10614-024-10590-9)
 
-## Publications
-
-1. Jyoti, Kwak, Soobin, Ham, Seokjun, Kim, Junseok,
-	Dispersion, Phase Exchange Process of Chemically Reactive Solute Through Circular Tube,
-	(2024),
-	17(4),
-	726–741,
-	[doi](https://doi.org/10.47176/jafm.17.4.2305)
-
-1. Yang, Junxiang, Lee, Chaeyoung, Kwak, Soobin, Choi, Yongho, Kim, Junseok,
-	A conservative, stable explicit finite difference scheme for the diffusion equation,
-	(2021),
-	56,
-	[doi](https://doi.org/10.1016/j.jocs.2021.101491)
-
-1. Hwang, Youngjin, Yang, Junxiang, Lee, Gyeongyu, Ham, Seokjun, Kang, Seungyoon, Kwak, Soobin, Kim, Junseok,
-	Fast, efficient numerical method for solving the Allen–Cahn equation on the cubic surface,
-	(2024),
-	215,
-	338–356,
-	[doi](https://doi.org/10.1016/j.matcom.2023.07.024)
-
-1. Kwak, Soobin, Lee, Hyun Geun, Li, Yibao, Yang, Junxiang, Lee, Chaeyoung, Kim, Hyundong, Kang, Seungyoon, Kim, Junseok,
-	Motion by Mean Curvature with Constraints Using a Modified Allen–Cahn Equation,
-	(2022),
-	92(1),
-	[doi](https://doi.org/10.1007/s10915-022-01862-3)
-
-1. Lee, Seunggyu, Yoon, Sungha, Lee, Chaeyoung, Kim, Sangkwon, Kim, Hyundong, Yang, Junxiang, Kwak, Soobin, Hwang, Youngjin, Kim, Junseok,
-	Effective time step analysis for the Allen–Cahn equation with a high-order polynomial free energy,
-	(2022),
-	123(19),
-	4726–4743,
-	[doi](https://doi.org/10.1002/nme.7053)
-
-1. Kwak, Soobin, Hwang, Youngjin, Choi, Yongho, Wang, Jian, Kim, Sangkwon, Kim, Junseok,
-	Reconstructing the Local Volatility Surface from Market Option Prices,
-	(2022),
-	10(14),
-	[doi](https://doi.org/10.3390/math10142537)
-
-1. Hwang, Youngjin, Lee, Chaeyoung, Kwak, Soobin, Choi, Yongho, Ham, Seokjun, Kang, Seungyoon, Yang, Junxiang, Kim, Junseok,
-	Benchmark Problems for the Numerical Schemes of the Phase-Field Equations,
-	(2022),
-	2022,
-	[doi](https://doi.org/10.1155/2022/2751592)
-
-1. Kim, Hyundong, Ham, Seokjun, Kwak, Soobin, Kim, Junseok,
-	An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation,
-	(2025),
-	315,
-	[doi](https://doi.org/10.1016/j.cpc.2025.109712)
-
-1. Kwak, Soobin, Kang, Seungyoon, Ham, Seokjun, Hwang, Youngjin, Lee, Gyeonggyu, Kim, Junseok,
-	An Unconditionally Stable Difference Scheme for the Two-Dimensional Modified Fisher-Kolmogorov-Petrovsky-Piscounov Equation,
-	(2023),
-	2023,
-	[doi](https://doi.org/10.1155/2023/5527728)
-
-1. Lee, Chaeyoung, Kim, Sangkwon, Kwak, Soobin, Hwang, Youngjin, Ham, Seokjun, Kang, Seungyoon, Kim, Junseok,
-	Semi-automatic fingerprint image restoration algorithm using a partial differential equation,
-	(2023),
-	8(11),
-	27528–27541,
-	[doi](https://doi.org/10.3934/math.20231408)
-
-1. Chen, Mengxin, Kwak, Soobin, Ham, Seokjun, Hwang, Youngjin, Kim, Junseok,
-	Global stability analysis of an extended SUC epidemic mathematical model,
-	(2024),
-	79(11),
-	1033–1040,
-	[doi](https://doi.org/10.1515/zna-2024-0152)
-
-1. Kim, Sangkwon, Lee, Chaeyoung, Lee, Hyun Geun, Kim, Hyundong, Kwak, Soobin, Hwang, Youngjin, Kang, Seungyoon, Ham, Seokjun, Kim, Junseok,
-	An Unconditionally Stable Positivity-Preserving Scheme for the One-Dimensional Fisher-Kolmogorov-Petrovsky-Piskunov Equation,
-	(2021),
-	2021,
-	[doi](https://doi.org/10.1155/2021/7300471)
-
-1. Yoo, Changwoo, Kwak, Soobin, Hwang, Youngjin, Jang, Hanbyeol, Kim, Hyundong, Kim, Junseok,
-	Calibration of Local Volatility Surfaces from Observed Market Call, Put Option Prices,
-	(2025),
-	65(3),
-	1147–1168,
-	[doi](https://doi.org/10.1007/s10614-024-10590-9)
-
-1. Kwak, Soobin, Nam, Yunjae, Kang, Seungyoon, Kim, Junseok,
-	Computational analysis of a normalized time-fractional Fisher equation,
-	(2025),
-	166,
-	[doi](https://doi.org/10.1016/j.aml.2025.109542)
-
-1. Li, Yibao, Yu, Qian, Ham, Seokjun, Kwak, Soobin, Lee, Chaeyoung, Kim, Junseok,
-	A phase-field model without artificial curvature effect for the crystal growth simulation,
-	(2023),
-	203,
-	[doi](https://doi.org/10.1016/j.ijheatmasstransfer.2023.123847)
-
-1. Hwang, Youngjin, Lee, Taehee, Kwak, Soobin, Kang, Seungyoon, Ham, Seokjun, Kim, Junseok,
-	Robust, accurate reconstruction of the time-dependent continuous volatility from option prices,
-	(2024),
-	43(5),
-	[doi](https://doi.org/10.1007/s40314-024-02837-w)
-
-1. Yang, Junxiang, Kang, Seungyoon, Kwak, Soobin, Kim, Junseok,
-	The Allen–Cahn equation with a space-dependent mobility, a source term for general motion by mean curvature,
-	(2024),
-	77,
-	[doi](https://doi.org/10.1016/j.jocs.2024.102252)
-
-1. Kim, Hyundong, Yang, Junxiang, Kim, Sangkwon, Lee, Chaeyoung, Yoon, Sungha, Kwak, Soobin, Kim, Junseok,
-	Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate,
-	(2022),
-	36(3),
-	423–433,
-	[doi](https://doi.org/10.1007/s00162-021-00602-x)
-
-1. Park, Eunchae, Lyu, Jisang, Kim, Sangkwon, Lee, Chaeyoung, Lee, Wonjin, Choi, Yongho, Kwak, Soobin, Yoo, Changwoo, Hwang, Hyeongseok, Kim, Junseok,
-	Calibration of the temporally varying volatility, interest rate functions,
-	(2022),
-	99(5),
-	1066–1079,
-	[doi](https://doi.org/10.1080/00207160.2021.1948539)
-
-1. Lee, Donghun, Kim, Sangkwon, Lee, Hyun Geun, Kwak, Soobin, Wang, Jian, Kim, Junseok,
-	Classification of ternary data using the ternary Allen-Cahn system for small datasets,
-	(2022),
-	12(6),
-	[doi](https://doi.org/10.1063/5.0094551)
-
-1. Jeong, Darae, Ham, Seokjun, Yang, Junxiang, Hwang, Youngjin, Kwak, Soobin, Hua, Haobo, Xin, Xuan, Kim, Junseok,
-	Numerical Study of an Indicator Function for Front-Tracking Methods,
-	(2022),
-	2022,
-	[doi](https://doi.org/10.1155/2022/7381115)
-
-1. Yang, Junxiang, Tan, Zhijun, Kim, Sangkwon, Lee, Chaeyoung, Kwak, Soobin, Kim, Junseok,
-	Finite volume scheme for the lattice Boltzmann method on curved surfaces in 3D,
-	(2022),
-	38(6),
-	5507–5518,
-	[doi](https://doi.org/10.1007/s00366-022-01671-0)
-
-1. Li, Yibao, Xia, Qing, Kang, Seungyoon, Kwak, Soobin, Kim, Junseok,
-	A practical algorithm for the design of multiple-sized porous scaffolds with triply periodic structures,
-	(2024),
-	220,
-	481–495,
-	[doi](https://doi.org/10.1016/j.matcom.2024.02.004)
-
-1. Kim, Hyundong, Lee, Chaeyoung, Kwak, Soobin, Hwang, Youngjin, Kim, Sangkwon, Choi, Yongho, Kim, Junseok,
-	Three-dimensional volume reconstruction from multi-slice data using a shape transformation[Formula presented],
-	(2022),
-	113,
-	52–58,
-	[doi](https://doi.org/10.1016/j.camwa.2022.03.018)
-
-1. Yang, Junxiang, Kang, Seungyoon, Hwang, Youngjin, Kwak, Soobin, Ham, Seokjun, Kim, Junseok,
-	Lattice Boltzmann method for variable viscous fluid flow on spherical surface,
-	(2024),
-	165,
-	[doi](https://doi.org/10.1016/j.enganabound.2024.105781)
-
-1. Ham, Seokjun, Kwak, Soobin, Lee, Chaeyoung, Lee, Gyeonggyu, Kim, Junseok,
-	A Second-order Time-Accurate Unconditionally Stable Method for a Gradient Flow for the Modica–Mortola Functional,
-	(2023),
-	95(2),
-	[doi](https://doi.org/10.1007/s10915-023-02198-2)
-
-1. Kim, Hyundong, Kwak, Soobin, Mohammed, Moumni, Kang, Seungyoon, Ham, Seokjun, Kim, Junseok,
-	An Efficient, Accurate Adaptive Time-Stepping Method for the Landau–Lifshitz Equation,
-	(2025),
-	18(1),
-	[doi](https://doi.org/10.3390/a18010001)
-
-1. Ham, Seokjun, Li, Yibao, Jeong, Darae, Lee, Chaeyoung, Kwak, Soobin, Hwang, Youngjin, Kim, Junseok,
-	An Explicit Adaptive Finite Difference Method for the Cahn–Hilliard Equation,
-	(2022),
-	32(6),
-	[doi](https://doi.org/10.1007/s00332-022-09844-3)
-
-1. Hwang, Youngjin, Kwak, Soobin, Jyoti, Kim, Junseok,
-	Optimal time-dependent SUC model for COVID-19 pandemic in India,
-	(2024),
-	24(1),
-	[doi](https://doi.org/10.1186/s12879-024-09961-2)
-
-1. Lee, Chaeyoung, Park, Jintae, Kwak, Soobin, Kim, Sangkwon, Choi, Yongho, Ham, Seokjun, Kim, Junseok,
-	An Adaptive Time-Stepping Algorithm for the Allen-Cahn Equation,
-	(2022),
-	2022,
-	[doi](https://doi.org/10.1155/2022/2731593)
-
-1. Lee, Chaeyoung, Kwak, Soobin, Hwang, Youngjin, Kim, Junseok,
-	Accurate, Efficient Finite Difference Method for the Black–Scholes Model with No Far-Field Boundary Conditions,
-	(2023),
-	61(3),
-	1207–1224,
-	[doi](https://doi.org/10.1007/s10614-022-10242-w)
-
-1. Park, Jintae, Lee, Chaeyoung, Choi, Yongho, Lee, Hyun Geun, Kwak, Soobin, Hwang, Youngjin, Kim, Junseok,
-	An unconditionally stable splitting method for the Allen–Cahn equation with logarithmic free energy,
-	(2022),
-	132(1),
-	[doi](https://doi.org/10.1007/s10665-021-10203-6)
-
-1. Hwang, Youngjin, Kim, Ildoo, Kwak, Soobin, Ham, Seokjun, Kim, Sangkwon, Kim, Junseok,
-	Unconditionally stable monte carlo simulation for solving the multi-dimensional Allen–Cahn equation,
-	(2023),
-	31(8),
-	5104–5123,
-	[doi](https://doi.org/10.3934/era.2023261)
-
-1. Ham, Seokjun, Jeong, Darae, Kim, Hyundong, Lee, Chaeyoung, Kwak, Soobin, Hwang, Youngjin, Kim, Junseok,
-	Linear Stability Analysis of the Cahn-Hilliard Equation in Spinodal Region,
-	(2022),
-	2022,
-	[doi](https://doi.org/10.1155/2022/2970876)
-
-1. Ham, Seokjun, Kim, Hyundong, Hwang, Youngjin, Kwak, Soobin, Jyoti, Wang, Jian, Xu, Heming, Jiang, Wenjing, Kim, Junseok,
-	A novel phase-field model for three-dimensional shape transformation,
-	(2024),
-	176,
-	67–76,
-	[doi](https://doi.org/10.1016/j.camwa.2024.09.006,)
-
-1. Kwak, Soobin, Choi, Yongho, Wang, Jian, Nam, Yunjae, Kim, Junseok,
-	Phase-field modeling for curvature-dependent tissue growth on surfaces,
-	(2025),
-	171,
-	[doi](https://doi.org/10.1016/j.enganabound.2024.106090)
-
-1. Lee, Gyeonggyu, Kwak, Soobin, Choi, Yongho, Lee, Seunggyu, Kang, Seungyoon, Ham, Seokjun, Kim, Junseok,
-	An operator splitting method for the Cahn–Hilliard equation on nonuniform grids,
-	(2024),
-	167,
-	207–216,
-	[doi](https://doi.org/10.1016/j.camwa.2024.05.021)
-
-1. Choi, Jaeyong, Ham, Seokjun, Kwak, Soobin, Hwang, Youngjin, Kim, Junseok,
-	Stability analysis of an explicit numerical scheme for the Allen-Cahn equation with high-order polynomial potentials,
-	(2024),
-	9(7),
-	19332–19344,
-	[doi](https://doi.org/10.3934/math.2024941)
-
-1. Hwang, Youngjin, Kwak, Soobin, Kim, Junseok,
-	Long-Time Analysis of a Time-Dependent SUC Epidemic Model for the COVID-19 Pandemic,
-	(2021),
-	2021,
-	[doi](https://doi.org/10.1155/2021/5877217)
-
-1. Luo, Mengyu, Lee, Chaeyoung, Wang, Jian, Kwak, Soobin, Kim, Hyundong, Kim, Junseok,
-	Designing Team Projects for Envy-Free Group Collaboration to Overcome Free-Rider Problem,
-	(2025),
-	2025(1),
-	[doi](https://doi.org/10.1155/ddns/3370833)
-
-1. Hwang, Youngjin, Jyoti, Kwak, Soobin, Kim, Hyundong, Kim, Junseok,
-	An explicit numerical method for the conservative Allen–Cahn equation on a cubic surface,
-	(2024),
-	9(12),
-	34447–34465,
-	[doi](https://doi.org/10.3934/math.20241641)
-
-1. Yoon, Sungha, Lee, Chaeyoung, Kwak, Soobin, Kang, Seungyoon, Kim, Junseok,
-	Fast numerical algorithm for the reaction-diffusion equations using an interpolating method,
-	(2025),
-	44(1),
-	[doi](https://doi.org/10.1007/s40314-024-03024-7)
-
-1. Yang, Junxiang, Li, Yibao, Lee, Chaeyoung, Lee, Hyun Geun, Kwak, Soobin, Hwang, Youngjin, Xin, Xuan, Kim, Junseok,
-	An explicit conservative Saul'yev scheme for the Cahn–Hilliard equation,
-	(2022),
-	217,
-	[doi](https://doi.org/10.1016/j.ijmecsci.2021.106985)
-
-1. Lee, Chaeyoung, Ham, Seokjun, Hwang, Youngjin, Kwak, Soobin, Kim, Junseok,
-	An explicit fourth-order accurate compact method for the Allen-Cahn equation,
-	(2024),
-	9(1),
-	735–762,
-	[doi](https://doi.org/10.3934/math.2024038)
-
-1. Kang, Seungyoon, Kwak, Soobin, Hwang, Youngjin, Kim, Junseok,
-	Positivity preserving, unconditionally stable numerical scheme for the three-dimensional modified Fisher–Kolmogorov–Petrovsky–Piskunov equation,
-	(2025),
-	457,
-	[doi](https://doi.org/10.1016/j.cam.2024.116273)
-
-1. Yang, Junxiang, Wang, Jian, Kwak, Soobin, Ham, Seokjun, Kim, Junseok,
-	A modified Allen–Cahn equation with a mesh size-dependent interfacial parameter on a triangular mesh,
-	(2024),
-	304,
-	[doi](https://doi.org/10.1016/j.cpc.2024.109301)
-
-1. Ham, Seokjun, Li, Yibao, Kwak, Soobin, Jeong, Darae, Kim, Junseok,
-	An efficient, fast adaptive numerical method for a novel phase-field model of crystal growth,
-	(2024),
-	131,
-	[doi](https://doi.org/10.1016/j.cnsns.2024.107822)
-
-1. Lee, Chaeyoung, Kwak, Soobin, Kim, Sangkwon, Hwang, Youngjin, Choi, Yongho, Kim, Junseok,
-	Robust optimal parameter estimation for the susceptible-unidentified infected-confirmed model,
-	(2021),
-	153,
-	[doi](https://doi.org/10.1016/j.chaos.2021.111556)
-
-1. Ham, Seokjun, Choi, Jaeyong, Kwak, Soobin, Kim, Junseok,
-	A structure-preserving explicit numerical scheme for the Allen–Cahn equation with a logarithmic potential,
-	(2024),
-	538(1),
-	[doi](https://doi.org/10.1016/j.jmaa.2024.128425)
-
-1. Kim, Junseok, Kwak, Soobin, Lee, Hyun Geun, Hwang, Youngjin, Ham, Seokjun,
-	A maximum principle of the Fourier spectral method for diffusion equations,
-	(2023),
-	31(9),
-	5396–5405,
-	[doi](https://doi.org/10.3934/ERA.2023273)
-
-1. Lee, Chaeyoung, Kim, Hyundong, Yoon, Sungha, Kim, Sangkwon, Lee, Dongsun, Park, Jinate, Kwak, Soobin, Yang, Junxiang, Wang, Jian, Kim, Junseok,
-	An unconditionally stable scheme for the Allen–Cahn equation with high-order polynomial free energy,
-	(2021),
-	95,
-	[doi](https://doi.org/10.1016/j.cnsns.2020.105658)
-
-1. Yang, Junxiang, Kang, Seungyoon, Kim, Sangkwon, Hwang, Youngjin, Kwak, Soobin, Ham, Seokjun, Kim, Junseok,
-	An efficient computational method for simulating incompressible fluid flows on a virtual cubic surface,
-	(2025),
-	144,
-	[doi](https://doi.org/10.1016/j.cnsns.2025.108676)
-
-1. Lee, Hyun Geun, Kwak, Soobin, Jyoti, Nam, Yunjae, Kim, Junseok,
-	A normalized time-fractional Korteweg–de Vries equation,
-	(2025),
-	125,
-	83–89,
-	[doi](https://doi.org/10.1016/j.aej.2025.03.137)
-
-1. Lee, Hyun Geun, Kwak, Soobin, Ham, Seokjun, Hwang, Youngjin, Kim, Junseok,
-	The normalized time-fractional Cahn–Hilliard equation,
-	(2025),
-	198,
-	[doi](https://doi.org/10.1016/j.chaos.2025.116450)
-
-1. Lee, Chaeyoung, Kwak, Soobin, Kim, Junseok,
-	Controlling COVID-19 outbreaks with financial incentives,
-	(2021),
-	18(2),
-	1–13,
-	[doi](https://doi.org/10.3390/ijerph18020724)
-
-1. Lee, Chaeyoung, Yoon, Sungha, Park, Jintae, Kim, Hyundong, Li, Yibao, Jeong, Darae, Kim, Sangkwon, Kwak, Soobin, Kim, Junseok,
-	Phase-field computations of anisotropic ice crystal growth on a spherical surface,
-	(2022),
-	125,
-	25–33,
-	[doi](https://doi.org/10.1016/j.camwa.2022.08.035)
-
-1. Ham, Seokjun, Hwang, Youngjin, Kwak, Soobin, Kim, Junseok,
-	Unconditionally stable second-order accurate scheme for a parabolic sine-Gordon equation,
-	(2022),
-	12(2),
-	[doi](https://doi.org/10.1063/5.0081229)
-
-1. Jyoti, Kwak, Soobin, Ham, Seokjun, Hwang, Youngjin, Kang, Seungyoon, Kim, Junseok,
-	Analysis of the effect of inert gas on alveolar/venous blood partial pressure by using the operator splitting method,
-	(2024),
-	40(8),
-	[doi](https://doi.org/10.1002/cnm.3839)
-
-1. Jin, Yuzi, Kwak, Soobin, Ham, Seokjun, Kim, Junseok,
-	A fast, efficient numerical algorithm for image segmentation, denoising,
-	(2024),
-	9(2),
-	5015–5027,
-	[doi](https://doi.org/10.3934/math.2024243)
-
-1. Kwak, Soobin, Ham, Seokjun, Hwang, Youngjin, Kim, Junseok,
-	Estimation, prediction of the multiply exponentially decaying daily case fatality rate of COVID-19,
-	(2023),
-	79(10),
-	11159–11169,
-	[doi](https://doi.org/10.1007/s11227-023-05119-0)
-
-1. Li, Yibao, Song, Xin, Kwak, Soobin, Kim, Junseok,
-	Weighted 3D volume reconstruction from series of slice data using a modified Allen–Cahn equation,
-	(2022),
-	132,
-	[doi](https://doi.org/10.1016/j.patcog.2022.108914)
-
-1. Kwak, Soobin, Ham, Seokjun, Wang, Jian, Kim, Hyundong, Kim, Junseok,
-	Effective perpendicular boundary conditions in phase-field models using Dirichlet boundary conditions,
-	(2025),
-	[doi](https://doi.org/10.1007/s00366-025-02109-z)
-
-1. Hwang, Youngjin, Kim, Sangkwon, Lee, Chaeyoung, Kwak, Soobin, Lee, Gyeonggyu, Kim, Junseok,
-	Monte Carlo simulation of the coffee-ring effect on porous papers,
-	(2023),
-	37(5),
-	627–637,
-	[doi](https://doi.org/10.1007/s00162-023-00662-1)
-
-1. Kang, Seungyoon, Kwak, Soobin, Lee, Gyeonggyu, Hwang, Yougjin, Ham, Seokjun, Kim, Junseok,
-	A Convergent Fourth-Order Finite Difference Scheme for the Black–Scholes Equation,
-	(2025),
-	[doi](https://doi.org/10.1007/s10614-025-10945-w)
-
-1. Kim, Hyundong, Jyoti, Kwak, Soobin, Ham, Seokjun, Kim, Junseok,
-	In silico investigation of the formation of multiple intense zebra stripes using extending domain,
-	(2024),
-	225,
-	648–658,
-	[doi](https://doi.org/10.1016/j.matcom.2024.06.010)
-
-1. Yoon, Sungha, Park, Jintae, Lee, Chaeyoung, Kim, Sangkwon, Choi, Yongho, Kwak, Soobin, Kim, Hyundong, Kim, Junseok,
-	Optimal Orientation of Solar Panels for Multi-Apartment Buildings,
-	(2023),
-	11(4),
-	[doi](https://doi.org/10.3390/math11040938)
-
-1. Kwak, Soobin, Yang, Junxiang, Kim, Junseok,
-	A conservative Allen–Cahn equation with a curvature-dependent Lagrange multiplier,
-	(2022),
-	126,
-	[doi](https://doi.org/10.1016/j.aml.2021.107838)
-
-1. Ham, Seokjun, Kang, Seungyoon, Hwang, Youngjin, Lee, Gyeonggyu, Kwak, Soobin, Jyoti, Kim, Junseok,
-	A fourth-order finite difference method for the Allen–Cahn equation,
-	(2025),
-	453,
-	[doi](https://doi.org/10.1016/j.cam.2024.116159)
-
-1. Choi, Yongho, Hwang, Youngjin, Kwak, Soobin, Ham, Seokjun, Jyoti, Kim, Hyundong, Kim, Junseok,
-	A cell structure implementation of the multigrid method for the two-dimensional diffusion equation,
-	(2025),
-	15(1),
-	[doi](https://doi.org/10.1063/5.0247042)
-
-1. Kim, Sangkwon, Lee, Chaeyoung, Lee, Wonjin, Kwak, Soobin, Jeong, Darae, Kim, Junseok,
-	Nonuniform Finite Difference Scheme for the Three-Dimensional Time-Fractional Black-Scholes Equation,
-	(2021),
-	2021,
-	[doi](https://doi.org/10.1155/2021/9984473)
-
-1. Kim, Sangkwon, Kwak, Soobin, Ham, Seokjun, Hwang, Youngjin, Kim, Junseok,
-	Simulation of dendritic growth on a spherical surface using a multi-component phase-field model,
-	(2025),
-	167,
-	[doi](https://doi.org/10.1016/j.icheatmasstransfer.2025.109195)
-
-1. Kim, Sangkwon, Hwang, Youngjin, Lee, Chaeyoung, Kwak, Soobin, Kim, Junseok,
-	Estimation of Total Cost Required in Controlling COVID-19 Outbreaks by Financial Incentives,
-	(2023),
-	20(2),
-	[doi](https://doi.org/10.3390/ijerph20021217)
-
-1. Lee, Hyun Geun, Li, Yibao, Yang, Junxiang, Kwak, Soobin, Hwang, Youngjin, Ham, Seokjun, Kim, Hyundong, Jyoti, Nam, Yunjae, Kim, Junseok,
-	A review of the numerical methods for solving the binary Allen–Cahn equation,
-	(2025),
-	670,
-	[doi](https://doi.org/10.1016/j.physa.2025.130625)
-
-1. Kim, Sangkwon, Park, Jintae, Lee, Chaeyoung, Jeong, Darae, Choi, Yongho, Kwak, Soobin, Kim, Junseok,
-	Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains,
-	(2020),
-	139,
-	[doi](https://doi.org/10.1016/j.chaos.2020.110300)
-
-1. Yang, Junxiang, Lee, Dongsun, Kwak, Soobin, Ham, Seokjun, Kim, Junseok,
-	The Allen–Cahn model with a time-dependent parameter for motion by mean curvature up to the singularity,
-	(2024),
-	182,
-	[doi](https://doi.org/10.1016/j.chaos.2024.114803)
+1. Computational analysis of a normalized time-fractional Fisher equation. Soobin Kwak, Yunjae Nam, Seungyoon Kang, Junseok Kim. *Applied Mathematics Letters* 166 (2025) 109542. [DOI](https://doi.org/10.1016/j.aml.2025.109542)
+
+1. An Efficient and Accurate Adaptive Time-Stepping Method for the Landau–Lifshitz Equation. Hyundong Kim, Soobin Kwak, Moumni Mohammed, Seungyoon Kang, Seokjun Ham, Junseok Kim. *Algorithms* 18(1) (2025) 1. [DOI](https://doi.org/10.3390/a18010001)
+
+1. Phase-field modeling for curvature-dependent tissue growth on surfaces. Soobin Kwak, Yongho Choi, Jian Wang, Yunjae Nam, Junseok Kim. *Engineering Analysis with Boundary Elements* 171 (2025) 106090. [DOI](https://doi.org/10.1016/j.enganabound.2024.106090)
+
+1. Designing Team Projects for Envy-Free Group Collaboration to Overcome Free-Rider Problem. Mengyu Luo, Chaeyoung Lee, Jian Wang, Soobin Kwak, Hyundong Kim, Junseok Kim. *Discrete Dynamics in Nature and Society* 2025(1) (2025) 3370833. [DOI](https://doi.org/10.1155/ddns/3370833)
+
+1. Fast numerical algorithm for the reaction-diffusion equations using an interpolating method. Sungha Yoon, Chaeyoung Lee, Soobin Kwak, Seungyoon Kang, Junseok Kim. *Computational and Applied Mathematics* 44(1) (2025) 51. [DOI](https://doi.org/10.1007/s40314-024-03024-7)
+
+1. Positivity preserving and unconditionally stable numerical scheme for the three-dimensional modified Fisher–Kolmogorov–Petrovsky–Piskunov equation. Seungyoon Kang, Soobin Kwak, Youngjin Hwang, Junseok Kim. *Journal of Computational and Applied Mathematics* 457 (2025) 116273. [DOI](https://doi.org/10.1016/j.cam.2024.116273)
+
+1. An efficient computational method for simulating incompressible fluid flows on a virtual cubic surface. Junxiang Yang, Seungyoon Kang, Sangkwon Kim, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Junseok Kim. *Communications in Nonlinear Science and Numerical Simulation* 144 (2025) 108676. [DOI](https://doi.org/10.1016/j.cnsns.2025.108676)
+
+1. A normalized time-fractional Korteweg–de Vries equation. Hyun Geun Lee, Soobin Kwak, Jyoti, Yunjae Nam, Junseok Kim. *Alexandria Engineering Journal* 125 (2025) 83-89. [DOI](https://doi.org/10.1016/j.aej.2025.03.137)
+
+1. The normalized time-fractional Cahn–Hilliard equation. Hyun Geun Lee, Soobin Kwak, Seokjun Ham, Youngjin Hwang, Junseok Kim. *Chaos, Solitons and Fractals* 198 (2025) 116450. [DOI](https://doi.org/10.1016/j.chaos.2025.116450)
+
+1. Effective perpendicular boundary conditions in phase-field models using Dirichlet boundary conditions. Soobin Kwak, Seokjun Ham, Jian Wang, Hyundong Kim, Junseok Kim. *Engineering with Computers*  (2025) 107179. [DOI](https://doi.org/10.1007/s00366-025-02109-z)
+
+1. A Convergent Fourth-Order Finite Difference Scheme for the Black–Scholes Equation. Seungyoon Kang, Soobin Kwak, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim. *Computational Economics*  (2025) 127168. [DOI](https://doi.org/10.1007/s10614-025-10945-w)
+
+1. A fourth-order finite difference method for the Allen–Cahn equation. Seokjun Ham, Seungyoon Kang, Youngjin Hwang, Gyeonggyu Lee, Soobin Kwak, Jyoti, Junseok Kim. *Journal of Computational and Applied Mathematics* 453 (2025) 116159. [DOI](https://doi.org/10.1016/j.cam.2024.116159)
+
+1. A cell structure implementation of the multigrid method for the two-dimensional diffusion equation. Yongho Choi, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Jyoti, Hyundong Kim, Junseok Kim. *AIP Advances* 15(1) (2025) 15019. [DOI](https://doi.org/10.1063/5.0247042)
+
+1. Simulation of dendritic growth on a spherical surface using a multi-component phase-field model. Sangkwon Kim, Soobin Kwak, Seokjun Ham, Youngjin Hwang, Junseok Kim. *International Communications in Heat and Mass Transfer* 167 (2025) 109195. [DOI](https://doi.org/10.1016/j.icheatmasstransfer.2025.109195)
+
+1. A review of the numerical methods for solving the binary Allen–Cahn equation. Hyun Geun Lee, Yibao Li, Junxiang Yang, Soobin Kwak, Youngjin Hwang, Seokjun Ham, Hyundong Kim, Jyoti, Yunjae Nam, Junseok Kim. *Physica A: Statistical Mechanics and its Applications* 670 (2025) 130625. [DOI](https://doi.org/10.1016/j.physa.2025.130625)
+
+1. Dispersion and Phase Exchange Process of Chemically Reactive Solute Through Circular Tube. Jyoti, Soobin Kwak, Seokjun Ham, Junseok Kim. *Journal of Applied Fluid Mechanics* 17(4) (2024) 726-741. [DOI](https://doi.org/10.47176/jafm.17.4.2305)
+
+1. Fast and efficient numerical method for solving the Allen–Cahn equation on the cubic surface. Youngjin Hwang, Junxiang Yang, Gyeongyu Lee, Seokjun Ham, Seungyoon Kang, Soobin Kwak, Junseok Kim. *Mathematics and Computers in Simulation* 215 (2024) 338-356. [DOI](https://doi.org/10.1016/j.matcom.2023.07.024)
+
+1. Global stability analysis of an extended SUC epidemic mathematical model. Mengxin Chen, Soobin Kwak, Seokjun Ham, Youngjin Hwang, Junseok Kim. *Zeitschrift fur Naturforschung - Section A Journal of Physical Sciences* 79(11) (2024) 1033-1040. [DOI](https://doi.org/10.1515/zna-2024-0152)
+
+1. Robust and accurate reconstruction of the time-dependent continuous volatility from option prices. Youngjin Hwang, Taehee Lee, Soobin Kwak, Seungyoon Kang, Seokjun Ham, Junseok Kim. *Computational and Applied Mathematics* 43(5) (2024) 307. [DOI](https://doi.org/10.1007/s40314-024-02837-w)
+
+1. The Allen–Cahn equation with a space-dependent mobility and a source term for general motion by mean curvature. Junxiang Yang, Seungyoon Kang, Soobin Kwak, Junseok Kim. *Journal of Computational Science* 77 (2024) 102252. [DOI](https://doi.org/10.1016/j.jocs.2024.102252)
+
+1. A practical algorithm for the design of multiple-sized porous scaffolds with triply periodic structures. Yibao Li, Qing Xia, Seungyoon Kang, Soobin Kwak, Junseok Kim. *Mathematics and Computers in Simulation* 220 (2024) 481-495. [DOI](https://doi.org/10.1016/j.matcom.2024.02.004)
+
+1. Lattice Boltzmann method for variable viscous fluid flow on spherical surface. Junxiang Yang, Seungyoon Kang, Youngjin Hwang, Soobin Kwak, Seokjun Ham, Junseok Kim. *Engineering Analysis with Boundary Elements* 165 (2024) 105781. [DOI](https://doi.org/10.1016/j.enganabound.2024.105781)
+
+1. Optimal time-dependent SUC model for COVID-19 pandemic in India. Youngjin Hwang, Soobin Kwak, Jyoti, Junseok Kim. *BMC Infectious Diseases* 24(1) (2024) 1031. [DOI](https://doi.org/10.1186/s12879-024-09961-2)
+
+1. A novel phase-field model for three-dimensional shape transformation. Seokjun Ham, Hyundong Kim, Youngjin Hwang, Soobin Kwak, Jyoti, Jian Wang, Heming Xu, Wenjing Jiang, Junseok Kim. *Computers and Mathematics with Applications* 176 (2024) 67-76. [DOI](https://doi.org/10.1016/j.camwa.2024.09.006)
+
+1. An operator splitting method for the Cahn–Hilliard equation on nonuniform grids. Gyeonggyu Lee, Soobin Kwak, Yongho Choi, Seunggyu Lee, Seungyoon Kang, Seokjun Ham, Junseok Kim. *Computers and Mathematics with Applications* 167 (2024) 207-216. [DOI](https://doi.org/10.1016/j.camwa.2024.05.021)
+
+1. Stability analysis of an explicit numerical scheme for the Allen-Cahn equation with high-order polynomial potentials. Jaeyong Choi, Seokjun Ham, Soobin Kwak, Youngjin Hwang, Junseok Kim. *AIMS Mathematics* 9(7) (2024) 19332-19344. [DOI](https://doi.org/10.3934/math.2024941)
+
+1. An explicit numerical method for the conservative Allen–Cahn equation on a cubic surface. Youngjin Hwang, Jyoti, Soobin Kwak, Hyundong Kim, Junseok Kim. *AIMS Mathematics* 9(12) (2024) 34447-34465. [DOI](https://doi.org/10.3934/math.20241641)
+
+1. An explicit fourth-order accurate compact method for the Allen-Cahn equation. Chaeyoung Lee, Seokjun Ham, Youngjin Hwang, Soobin Kwak, Junseok Kim. *AIMS Mathematics* 9(1) (2024) 735-762. [DOI](https://doi.org/10.3934/math.2024038)
+
+1. A modified Allen–Cahn equation with a mesh size-dependent interfacial parameter on a triangular mesh. Junxiang Yang, Jian Wang, Soobin Kwak, Seokjun Ham, Junseok Kim. *Computer Physics Communications* 304 (2024) 109301. [DOI](https://doi.org/10.1016/j.cpc.2024.109301)
+
+1. An efficient and fast adaptive numerical method for a novel phase-field model of crystal growth. Seokjun Ham, Yibao Li, Soobin Kwak, Darae Jeong, Junseok Kim. *Communications in Nonlinear Science and Numerical Simulation* 131 (2024) 107822. [DOI](https://doi.org/10.1016/j.cnsns.2024.107822)
+
+1. A structure-preserving explicit numerical scheme for the Allen–Cahn equation with a logarithmic potential. Seokjun Ham, Jaeyong Choi, Soobin Kwak, Junseok Kim. *Journal of Mathematical Analysis and Applications* 538(1) (2024) 128425. [DOI](https://doi.org/10.1016/j.jmaa.2024.128425)
+
+1. Analysis of the effect of inert gas on alveolar/venous blood partial pressure by using the operator splitting method. Jyoti, Soobin Kwak, Seokjun Ham, Youngjin Hwang, Seungyoon Kang, Junseok Kim. *International Journal for Numerical Methods in Biomedical Engineering* 40(8) (2024) e3839. [DOI](https://doi.org/10.1002/cnm.3839)
+
+1. A fast and efficient numerical algorithm for image segmentation and denoising. Yuzi Jin, Soobin Kwak, Seokjun Ham, Junseok Kim. *AIMS Mathematics* 9(2) (2024) 5015-5027. [DOI](https://doi.org/10.3934/math.2024243)
+
+1. In silico investigation of the formation of multiple intense zebra stripes using extending domain. Hyundong Kim, Jyoti, Soobin Kwak, Seokjun Ham, Junseok Kim. *Mathematics and Computers in Simulation* 225 (2024) 648-658. [DOI](https://doi.org/10.1016/j.matcom.2024.06.010)
+
+1. The Allen–Cahn model with a time-dependent parameter for motion by mean curvature up to the singularity. Junxiang Yang, Dongsun Lee, Soobin Kwak, Seokjun Ham, Junseok Kim. *Chaos, Solitons and Fractals* 182 (2024) 114803. [DOI](https://doi.org/10.1016/j.chaos.2024.114803)
+
+1. An Unconditionally Stable Difference Scheme for the Two-Dimensional Modified Fisher-Kolmogorov-Petrovsky-Piscounov Equation. Soobin Kwak, Seungyoon Kang, Seokjun Ham, Youngjin Hwang, Gyeonggyu Lee, Junseok Kim. *Journal of Mathematics* 2023 (2023) 5527728. [DOI](https://doi.org/10.1155/2023/5527728)
+
+1. Semi-automatic fingerprint image restoration algorithm using a partial differential equation. Chaeyoung Lee, Sangkwon Kim, Soobin Kwak, Youngjin Hwang, Seokjun Ham, Seungyoon Kang, Junseok Kim. *AIMS Mathematics* 8(11) (2023) 27528-27541. [DOI](https://doi.org/10.3934/math.20231408)
+
+1. A phase-field model without artificial curvature effect for the crystal growth simulation. Yibao Li, Qian Yu, Seokjun Ham, Soobin Kwak, Chaeyoung Lee, Junseok Kim. *International Journal of Heat and Mass Transfer* 203 (2023) 123847. [DOI](https://doi.org/10.1016/j.ijheatmasstransfer.2023.123847)
+
+1. A Second-order Time-Accurate Unconditionally Stable Method for a Gradient Flow for the Modica–Mortola Functional. Seokjun Ham, Soobin Kwak, Chaeyoung Lee, Gyeonggyu Lee, Junseok Kim. *Journal of Scientific Computing* 95(2) (2023) 63. [DOI](https://doi.org/10.1007/s10915-023-02198-2)
+
+1. Accurate and Efficient Finite Difference Method for the Black–Scholes Model with No Far-Field Boundary Conditions. Chaeyoung Lee, Soobin Kwak, Youngjin Hwang, Junseok Kim. *Computational Economics* 61(3) (2023) 1207-1224. [DOI](https://doi.org/10.1007/s10614-022-10242-w)
+
+1. Unconditionally stable monte carlo simulation for solving the multi-dimensional Allen–Cahn equation. Youngjin Hwang, Ildoo Kim, Soobin Kwak, Seokjun Ham, Sangkwon Kim, Junseok Kim. *Electronic Research Archive* 31(8) (2023) 5104-5123. [DOI](https://doi.org/10.3934/era.2023261)
+
+1. A maximum principle of the Fourier spectral method for diffusion equations. Junseok Kim, Soobin Kwak, Hyun Geun Lee, Youngjin Hwang, Seokjun Ham. *Electronic Research Archive* 31(9) (2023) 5396-5405. [DOI](https://doi.org/10.3934/ERA.2023273)
+
+1. Estimation and prediction of the multiply exponentially decaying daily case fatality rate of COVID-19. Soobin Kwak, Seokjun Ham, Youngjin Hwang, Junseok Kim. *Journal of Supercomputing* 79(10) (2023) 11159-11169. [DOI](https://doi.org/10.1007/s11227-023-05119-0)
+
+1. Monte Carlo simulation of the coffee-ring effect on porous papers. Youngjin Hwang, Sangkwon Kim, Chaeyoung Lee, Soobin Kwak, Gyeonggyu Lee, Junseok Kim. *Theoretical and Computational Fluid Dynamics* 37(5) (2023) 627-637. [DOI](https://doi.org/10.1007/s00162-023-00662-1)
+
+1. Optimal Orientation of Solar Panels for Multi-Apartment Buildings. Sungha Yoon, Jintae Park, Chaeyoung Lee, Sangkwon Kim, Yongho Choi, Soobin Kwak, Hyundong Kim, Junseok Kim . *Mathematics* 11(4) (2023) 938. [DOI](https://doi.org/10.3390/math11040938)
+
+1. Estimation of Total Cost Required in Controlling COVID-19 Outbreaks by Financial Incentives. Sangkwon Kim, Youngjin Hwang, Chaeyoung Lee, Soobin Kwak, Junseok Kim. *International Journal of Environmental Research and Public Health* 20(2) (2023) 1217. [DOI](https://doi.org/10.3390/ijerph20021217)
+
+1. Motion by Mean Curvature with Constraints Using a Modified Allen–Cahn Equation. Soobin Kwak, Hyun Geun Lee, Yibao Li, Junxiang Yang, Chaeyoung Lee, Hyundong Kim, Seungyoon Kang, Junseok Kim. *Journal of Scientific Computing* 92(1) (2022) 16. [DOI](https://doi.org/10.1007/s10915-022-01862-3)
+
+1. Effective time step analysis for the Allen–Cahn equation with a high-order polynomial free energy. Seunggyu Lee, Sungha Yoon, Chaeyoung Lee, Sangkwon Kim, Hyundong Kim, Junxiang Yang, Soobin Kwak, Youngjin Hwang, Junseok Kim. *International Journal for Numerical Methods in Engineering* 123(19) (2022) 4726-4743. [DOI](https://doi.org/10.1002/nme.7053)
+
+1. Reconstructing the Local Volatility Surface from Market Option Prices. Soobin Kwak, Youngjin Hwang, Yongho Choi, Jian Wang, Sangkwon Kim, Junseok Kim. *Mathematics* 10(14) (2022) 2537. [DOI](https://doi.org/10.3390/math10142537)
+
+1. Benchmark Problems for the Numerical Schemes of the Phase-Field Equations. Youngjin Hwang, Chaeyoung Lee, Soobin Kwak, Yongho Choi, Seokjun Ham, Seungyoon Kang, Junxiang Yang, Junseok Kim. *Discrete Dynamics in Nature and Society* 2022 (2022) 2751592. [DOI](https://doi.org/10.1155/2022/2751592)
+
+1. Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate. Hyundong Kim, Junxiang Yang, Sangkwon Kim, Chaeyoung Lee, Sungha Yoon, Soobin Kwak, Junseok Kim. *Theoretical and Computational Fluid Dynamics* 36(3) (2022) 423-433. [DOI](https://doi.org/10.1007/s00162-021-00602-x)
+
+1. Calibration of the temporally varying volatility and interest rate functions. Eunchae Park, Jisang Lyu, Sangkwon Kim, Chaeyoung Lee, Wonjin Lee, Yongho Choi, Soobin Kwak, Changwoo Yoo, Hyeongseok Hwang, Junseok Kim. *International Journal of Computer Mathematics* 99(5) (2022) 1066-1079. [DOI](https://doi.org/10.1080/00207160.2021.1948539)
+
+1. Classification of ternary data using the ternary Allen-Cahn system for small datasets. Donghun Lee, Sangkwon Kim, Hyun Geun Lee, Soobin Kwak, Jian Wang, Junseok Kim. *AIP Advances* 12(6) (2022) 65324. [DOI](https://doi.org/10.1063/5.0094551)
+
+1. Numerical Study of an Indicator Function for Front-Tracking Methods. Darae Jeong, Seokjun Ham, Junxiang Yang, Youngjin Hwang, Soobin Kwak, Haobo Hua, Xuan Xin, Junseok Kim. *Mathematical Problems in Engineering* 2022 (2022) 7381115. [DOI](https://doi.org/10.1155/2022/7381115)
+
+1. Finite volume scheme for the lattice Boltzmann method on curved surfaces in 3D. Junxiang Yang, Zhijun Tan, Sangkwon Kim, Chaeyoung Lee, Soobin Kwak, Junseok Kim. *Engineering with Computers* 38(6) (2022) 5507-5518. [DOI](https://doi.org/10.1007/s00366-022-01671-0)
+
+1. Three-dimensional volume reconstruction from multi-slice data using a shape transformation[Formula presented]. Hyundong Kim, Chaeyoung Lee, Soobin Kwak, Youngjin Hwang, Sangkwon Kim, Yongho Choi, Junseok Kim. *Computers and Mathematics with Applications* 113 (2022) 52-58. [DOI](https://doi.org/10.1016/j.camwa.2022.03.018)
+
+1. An Explicit Adaptive Finite Difference Method for the Cahn–Hilliard Equation. Seokjun Ham, Yibao Li, Darae Jeong, Chaeyoung Lee, Soobin Kwak, Youngjin Hwang, Junseok Kim. *Journal of Nonlinear Science* 32(6) (2022) 80. [DOI](https://doi.org/10.1007/s00332-022-09844-3)
+
+1. An Adaptive Time-Stepping Algorithm for the Allen-Cahn Equation. Chaeyoung Lee, Jintae Park, Soobin Kwak, Sangkwon Kim, Yongho Choi, Seokjun Ham, Junseok Kim. *Journal of Function Spaces* 2022 (2022) 2731593. [DOI](https://doi.org/10.1155/2022/2731593)
+
+1. An unconditionally stable splitting method for the Allen–Cahn equation with logarithmic free energy. Jintae Park, Chaeyoung Lee, Yongho Choi, Hyun Geun Lee, Soobin Kwak, Youngjin Hwang, Junseok Kim. *Journal of Engineering Mathematics* 132(1) (2022) 18. [DOI](https://doi.org/10.1007/s10665-021-10203-6)
+
+1. Linear Stability Analysis of the Cahn-Hilliard Equation in Spinodal Region. Seokjun Ham, Darae Jeong, Hyundong Kim, Chaeyoung Lee, Soobin Kwak, Youngjin Hwang, Junseok Kim. *Journal of Function Spaces* 2022 (2022) 2970876. [DOI](https://doi.org/10.1155/2022/2970876)
+
+1. An explicit conservative Saul'yev scheme for the Cahn–Hilliard equation. Junxiang Yang, Yibao Li, Chaeyoung Lee, Hyun Geun Lee, Soobin Kwak, Youngjin Hwang, Xuan Xin, Junseok Kim. *International Journal of Mechanical Sciences* 217 (2022) 106985. [DOI](https://doi.org/10.1016/j.ijmecsci.2021.106985)
+
+1. Phase-field computations of anisotropic ice crystal growth on a spherical surface. Chaeyoung Lee, Sungha Yoon, Jintae Park, Hyundong Kim, Yibao Li, Darae Jeong, Sangkwon Kim, Soobin Kwak, Junseok Kim. *Computers and Mathematics with Applications* 125 (2022) 25-33. [DOI](https://doi.org/10.1016/j.camwa.2022.08.035)
+
+1. Unconditionally stable second-order accurate scheme for a parabolic sine-Gordon equation. Seokjun Ham, Youngjin Hwang, Soobin Kwak, Junseok Kim. *AIP Advances* 12(2) (2022) 25203. [DOI](https://doi.org/10.1063/5.0081229)
+
+1. Weighted 3D volume reconstruction from series of slice data using a modified Allen–Cahn equation. Yibao Li, Xin Song, Soobin Kwak, Junseok Kim. *Pattern Recognition* 132 (2022) 108914. [DOI](https://doi.org/10.1016/j.patcog.2022.108914)
+
+1. A conservative Allen–Cahn equation with a curvature-dependent Lagrange multiplier. Soobin Kwak, Junxiang Yang, Junseok Kim. *Applied Mathematics Letters* 126 (2022) 107838. [DOI](https://doi.org/10.1016/j.aml.2021.107838)
+
+1. A conservative and stable explicit finite difference scheme for the diffusion equation. Junxiang Yang, Chaeyoung Lee, Soobin Kwak, Yongho Choi, Junseok Kim. *Journal of Computational Science* 56 (2021) 101491. [DOI](https://doi.org/10.1016/j.jocs.2021.101491)
+
+1. An Unconditionally Stable Positivity-Preserving Scheme for the One-Dimensional Fisher-Kolmogorov-Petrovsky-Piskunov Equation. Sangkwon Kim, Chaeyoung Lee, Hyun Geun Lee, Hyundong Kim, Soobin Kwak, Youngjin Hwang, Seungyoon Kang, Seokjun Ham, Junseok Kim. *Discrete Dynamics in Nature and Society* 2021 (2021) 7300471. [DOI](https://doi.org/10.1155/2021/7300471)
+
+1. Long-Time Analysis of a Time-Dependent SUC Epidemic Model for the COVID-19 Pandemic. Youngjin Hwang, Soobin Kwak, Junseok Kim. *Journal of Healthcare Engineering* 2021 (2021) 5877217. [DOI](https://doi.org/10.1155/2021/5877217)
+
+1. Robust optimal parameter estimation for the susceptible-unidentified infected-confirmed model. Chaeyoung Lee, Soobin Kwak, Sangkwon Kim, Youngjin Hwang, Yongho Choi, Junseok Kim. *Chaos, Solitons and Fractals* 153 (2021) 111556. [DOI](https://doi.org/10.1016/j.chaos.2021.111556)
+
+1. An unconditionally stable scheme for the Allen–Cahn equation with high-order polynomial free energy. Chaeyoung Lee, Hyundong Kim, Sungha Yoon, Sangkwon Kim, Dongsun Lee, Jinate Park, Soobin Kwak, Junxiang Yang, Jian Wang, Junseok Kim. *Communications in Nonlinear Science and Numerical Simulation* 95 (2021) 105658. [DOI](https://doi.org/10.1016/j.cnsns.2020.105658)
+
+1. Controlling COVID-19 outbreaks with financial incentives. Chaeyoung Lee, Soobin Kwak, Junseok Kim. *International Journal of Environmental Research and Public Health* 18(2) (2021) 7241-13. [DOI](https://doi.org/10.3390/ijerph18020724)
+
+1. Nonuniform Finite Difference Scheme for the Three-Dimensional Time-Fractional Black-Scholes Equation. Sangkwon Kim, Chaeyoung Lee, Wonjin Lee, Soobin Kwak, Darae Jeong, Junseok Kim. *Journal of Function Spaces* 2021 (2021) 9984473. [DOI](https://doi.org/10.1155/2021/9984473)
+
+1. Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains. Sangkwon Kim, Jintae Park, Chaeyoung Lee, Darae Jeong, Yongho Choi, Soobin Kwak, Junseok Kim. *Chaos, Solitons and Fractals* 139 (2020) 110300. [DOI](https://doi.org/10.1016/j.chaos.2020.110300)
