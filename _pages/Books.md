@@ -3,10 +3,11 @@ layout: page
 title: Books
 permalink: /books/
 ---
-1. 
+<ol>
+<li>
 <div style="display: flex; align-items: center;">
-  <div style="flex: 0 0 10%;">
-    <img src="./images/ISBN_9791194145226.jpg" alt="Image" style="width: 100%;">
+  <div>
+    <img src="./images/ISBN_9791194145226.jpg" alt="Image" style="width: 10vw;">
   </div>
 
   <div style="flex: 1; padding-left: 20px;">
@@ -16,6 +17,8 @@ permalink: /books/
   </ol>
   </div>
 </div>
+</li>
+</ol>
 
 ![그림](./images/ISBN_9791194145226.jpg)
 
