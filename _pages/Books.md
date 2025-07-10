@@ -7,7 +7,7 @@ permalink: /books/
 <div style="display: flex; align-items: center;">
 
   <div style="flex: 0 0 10%;">
-    <img src="./images/9791194145226.jpg" alt="Image" style="width: 100%;">
+    <img src="./images/ISBN_9791194145226.jpg" alt="Image" style="width: 100%;">
   </div>
 
   <div style="flex: 1; padding-left: 20px;">
