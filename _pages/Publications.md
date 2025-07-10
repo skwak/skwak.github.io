@@ -7,7 +7,6 @@ permalink: /publications/
 
 <div style="text-align: center;">
 <a href="https://orcid.org/0000-0001-7693-8992">0000-0001-7693-8992</a><br>
-[0000-0001-7693-8992](https://orcid.org/0000-0001-7693-8992)
 </div>
 
 1. An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation. Hyundong Kim, Seokjun Ham, **Soobin Kwak**, Junseok Kim. *Computer Physics Communications* 315 (2025) 109712. [DOI](https://doi.org/10.1016/j.cpc.2025.109712)
