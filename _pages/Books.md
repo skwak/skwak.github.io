@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 <div class=pull-left>
-<img src=".images/9791194145226.jpg" width="100px">
+<img src="./images/9791194145226.jpg" width="100px">
 </div>
 
 <div class=pull-right>
