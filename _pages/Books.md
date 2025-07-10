@@ -17,6 +17,7 @@ permalink: /books/
 
 </li>
 </ol>
+<img src="./images/ISBN_9791194145226.jpg">
 
 ![그림](./images/ISBN_9791194145226.jpg)
 
