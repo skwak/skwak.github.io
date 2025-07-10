@@ -7,7 +7,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="https://github.com/skwak/skwak.github.io/_pages/images/ISBN_9791194145226.jpg" alt="Image" style="width: 10vw; height: auto;">
+    <img src="./images/ISBN_9791194145226.jpg" alt="Image" style="width: 10vw; height: auto;">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   챗GPT를 활용한 영어과학논문작성법 (개정판)<br>
