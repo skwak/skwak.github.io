@@ -4,6 +4,20 @@ title: Books
 permalink: /books/
 ---
 
+<div style="display: flex; align-items: center;">
+
+  <div style="flex: 0 0 10%;">
+    <img src="./images/9791194145226.jpg" alt="Image" style="width: 100%;">
+  </div>
+
+  <div style="flex: 1; padding-left: 20px;">
+    1. 챗GPT를 활용한 영어과학논문작성법 (개정판)<br>
+**곽수빈**, 최용호, 김현동, 남윤재, 마주호, 김준석 | *지오북스* | 2025. 04. 01. | ISBN: 9791194145226
+  </div>
+
+</div>
+
+
 <div class=pull-left>
 <img src="./images/9791194145226.jpg" width="100px">
 </div>
