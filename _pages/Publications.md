@@ -6,7 +6,7 @@ permalink: /publications/
 ## ORCID
 
 <div style="text-align: center;">
-
+<a href="https://orcid.org/0000-0001-7693-8992">0000-0001-7693-8992</a><br>
 [0000-0001-7693-8992](https://orcid.org/0000-0001-7693-8992)
 </div>
 
