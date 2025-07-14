@@ -99,18 +99,6 @@ permalink: /books/
   </div>
 </div>
 </li>
-
-<li>
-<div style="display: flex; align-items: center;">
-  <div>
-    <img src="../images/9791191346046.jpg" alt="Image" style="width: 20vw; height: auto;">
-  </div>
-  <div style="flex: 1; padding-left: 20px;">
-  텐서플로 25시간만에 배우는 머신러닝 예제<br>
-  김상권, 김현동, <b>곽수빈</b>, 한현수, 장한별, 김준석 | <em>지오아카데미</em> | 2021. 05. 01. | ISBN: 9791191346046
-  </div>
-</div>
-</li>
 <li>
 <div style="display: flex; align-items: center;">
   <div>
@@ -122,6 +110,4 @@ permalink: /books/
   </div>
 </div>
 </li>
-
-
 </ol>
