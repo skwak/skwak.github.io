@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 <ol>
-<li style="display: flex; align-items: center;>
+<li style="display: flex; align-items: center;">
 <div style="display: flex; align-items: center;">
   <div>
     <img src="../images/ISBN_9791194145226.jpg" alt="Image" style="width: 20vw; height: auto;">
