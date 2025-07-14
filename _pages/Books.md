@@ -4,7 +4,8 @@ title: Books
 permalink: /books/
 ---
 <ol>
-<li style="display: flex; align-items: center;">
+<!-- <li style="display: flex; align-items: center;"> -->
+<li>
 <div style="display: flex; align-items: center;">
   <div>
     <img src="../images/ISBN_9791194145226.jpg" alt="Image" style="width: 20vw; height: auto;">
@@ -59,7 +60,7 @@ permalink: /books/
   </div>
   <div style="flex: 1; padding-left: 20px;">
   코딩수학 파이썬 1<br>
-김상권, 김현동, <b>곽수빈</b>*, 황영진, 김준석 | <em>지오아카데미</em> | 2021. 09. 01. | ISBN: 9791191346077
+  김상권, 김현동, <b>곽수빈</b>*, 황영진, 김준석 | <em>지오아카데미</em> | 2021. 09. 01. | ISBN: 9791191346077
   </div>
 </div>
 </li>
@@ -71,7 +72,7 @@ permalink: /books/
   </div>
   <div style="flex: 1; padding-left: 20px;">
   수학적 모델링 콘텐츠 파이썬 1<br>
-김준석, 김상권, 이채영, 최용호, <b>곽수빈</b>, 황영진 | <em>지오북스</em> | 2021. 09. 01. | ISBN: 9791191346091
+  김준석, 김상권, 이채영, 최용호, <b>곽수빈</b>, 황영진 | <em>지오북스</em> | 2021. 09. 01. | ISBN: 9791191346091
   </div>
 </div>
 </li>
@@ -83,7 +84,7 @@ permalink: /books/
   </div>
   <div style="flex: 1; padding-left: 20px;">
   텐서플로 25시간만에 배우는 머신러닝 예제<br>
-김상권, 김현동, <b>곽수빈</b>, 한현수, 장한별, 김준석 | <em>지오아카데미</em> | 2021. 05. 01. | ISBN: 9791191346046
+  김상권, 김현동, <b>곽수빈</b>, 한현수, 장한별, 김준석 | <em>지오아카데미</em> | 2021. 05. 01. | ISBN: 9791191346046
   </div>
 </div>
 </li>
@@ -94,7 +95,7 @@ permalink: /books/
   </div>
   <div style="flex: 1; padding-left: 20px;">
   보르노이 다이어그램<br>
-김준석, <b>곽수빈</b>, 김상권, 윤성하, 김현동, 문현, 이채영 | <em>지오북스</em> | 2020. 11. 01. | ISBN: 9791187541943
+  김준석, <b>곽수빈</b>, 김상권, 윤성하, 김현동, 문현, 이채영 | <em>지오북스</em> | 2020. 11. 01. | ISBN: 9791187541943
   </div>
 </div>
 </li>
@@ -106,7 +107,7 @@ permalink: /books/
   </div>
   <div style="flex: 1; padding-left: 20px;">
   텐서플로 25시간만에 배우는 머신러닝 예제<br>
-김상권, 김현동, <b>곽수빈</b>, 한현수, 장한별, 김준석 | <em>지오아카데미</em> | 2021. 05. 01. | ISBN: 9791191346046
+  김상권, 김현동, <b>곽수빈</b>, 한현수, 장한별, 김준석 | <em>지오아카데미</em> | 2021. 05. 01. | ISBN: 9791191346046
   </div>
 </div>
 </li>
@@ -117,7 +118,7 @@ permalink: /books/
   </div>
   <div style="flex: 1; padding-left: 20px;">
   파이썬 활용 산업응용수학의 기본<br>
-김준석, 김상권, 이채영, 정다래, 최용호, <b>곽수빈</b> | <em>지오북스</em> | 2020. 09. 10. | ISBN: 9791187541882
+  김준석, 김상권, 이채영, 정다래, 최용호, <b>곽수빈</b> | <em>지오북스</em> | 2020. 09. 10. | ISBN: 9791187541882
   </div>
 </div>
 </li>
