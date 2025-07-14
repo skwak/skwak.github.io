@@ -7,7 +7,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/ISBN_9791194145226.jpg" alt="Image" style="width: 10vw; height: auto;">
+    <img src="../images/ISBN_9791194145226.jpg" alt="Image" style="width: 20vw; height: auto;">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   챗GPT를 활용한 영어과학논문작성법 (개정판)<br>
@@ -15,14 +15,16 @@ permalink: /books/
   </div>
 </div>
 
-</li>
-</ol>
-<img src="./images/ISBN_9791194145226.jpg">
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="../images/ISBN_9791191346626.jpg" alt="Image" style="width: 20vw; height: auto;">
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+  챗GPT를 활용한 영어과학논문작성법<br>
+  <b>곽수빈</b>,  최용호, 김준석 | <em>지오북스</em> | 2023. 07. 01. | ISBN: 9791191346626
+  </div>
+</div>
 
-<!-- ![그림](./images/ISBN_9791194145226.jpg) -->
-
-1. 챗GPT를 활용한 영어과학논문작성법 (개정판)<br>
-**곽수빈**, 최용호, 김현동, 남윤재, 마주호, 김준석 | *지오북스* | 2025. 04. 01. | ISBN: 9791194145226
 
 1. 챗GPT를 활용한 영어과학논문작성법<br>
 **곽수빈**, 최용호, 김준석 | *지오북스* | 2023. 07. 01. | ISBN: 9791191346626
