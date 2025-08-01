@@ -6,11 +6,11 @@ permalink: /publications/
 ## ORCID
 
 <div style="text-align: center;">
-<a href="https://orcid.org/0000-0001-7693-8992">0000-0001-7693-8992</a><br>
+<a href="https://orcid.org/0000-0001-7693-8992">0000-0001-7693-8992</a>
 </div>
-<br>
 
 ## Dissertation
+
 Various numerical schemes and analysis for the conservative Allen–Cahn equation. **Soobin Kwak**. (2024). [[PDF]](../papers/000000289434_20250801133251.pdf)
 
 ## Publications
