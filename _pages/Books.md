@@ -2,6 +2,7 @@
 layout: page
 title: Books
 permalink: /books/
+hide_title: true
 ---
 
 <ol>

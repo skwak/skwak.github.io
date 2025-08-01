@@ -2,6 +2,7 @@
 layout: page
 title: Experience
 permalink: /experience/
+hide_title: true
 ---
 ## Presentations
 
