@@ -2,25 +2,19 @@
 layout: page
 title: Books
 permalink: /books/
-hide_title: true
+hide_title:
 ---
 
 <style>
   .book-list {
-    list-style-position: inside; /* 번호를 왼쪽에 붙임 */
-    counter-reset: book-counter;
-    padding-left: 0;
+    list-style-type: decimal;
+    padding-left: 1.5em;
   }
 
   .book-list li {
     display: flex;
     align-items: flex-start;
     margin-bottom: 20px;
-  }
-
-  .book-list li::marker {
-    font-weight: bold;
-    font-size: 18px;
   }
 
   .book-cover {
