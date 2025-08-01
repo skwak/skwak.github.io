@@ -10,7 +10,7 @@ hide_title: true
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/ISBN_9791194145226.jpg" alt="Image" sclass="book-cover">
+    <img src="../images/ISBN_9791194145226.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   챗GPT를 활용한 영어과학논문작성법 (개정판)<br>
