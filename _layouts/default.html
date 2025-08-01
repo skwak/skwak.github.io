@@ -45,6 +45,9 @@
 
       <div class="wrapper-main">
         <div id="main" role="main" class="container">
+          {% if page.title and page.hide_title != true %}
+            <h1>{{ page.title }}</h1>
+          {% endif %}
           {{ content }}
         </div>
       </div>
