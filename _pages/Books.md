@@ -18,8 +18,10 @@ hide_title:
   }
 
   .book-cover {
-    width: 100px;
+    width: 5%;
     height: auto;
+    min-width:100px;
+    max-width:300px;
     margin-right: 20px;
   }
 
