@@ -1,49 +1,36 @@
 ---
 layout: default
+title: Welcome
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+<div class="home-intro">
+  <h1>Ph. D. Soobin Kwak (곽수빈)</h1>
+  <p>
+    Postdoctorial researcher.<br>
+    Department of Mathematics, Korea University.
+  </p>
 
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+  <section>
+    <h2>Reaserch interests</h2>
+    <ul>
+      <li><strong>Scientific computing</strong></li>
+      <li><strong>Mathematical modeling</strong></li>
+      <li><strong>Numerical analaysis</strong></li>
+    </ul>
+  </section>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+  <section>
+    <h2>Contact</h2>
 
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
+    <dl class="indent-list">
+      <dt><strong>Email:</strong></dt>
+      <dd>
+        soobin23@korea.ac.kr <br>
+        sbkwak16@gmail.com
+      </dd>
+    </dl>
 
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
-  {% endif %}
+    <!-- <p>GitHub: <a href="https://github.com/skwak">skwak</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/soobin-kwak-929065342">soobin-kwak</a></p> -->
+  </section>
 </div>
