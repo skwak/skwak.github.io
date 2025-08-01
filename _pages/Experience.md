@@ -3,8 +3,6 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-# Experience
-
 ## Presentations
 
 - Estimating unconfirmed infected population with SUC model. *2020 KMS Annual Meeting*

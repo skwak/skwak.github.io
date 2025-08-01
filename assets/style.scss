@@ -37,6 +37,13 @@ body {
   margin: 0 auto;
 }
 
+.book-cover {
+  width: 10%;
+  height: auto;
+  max-width: 100px;
+  margin-right: 20px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;

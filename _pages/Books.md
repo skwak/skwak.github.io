@@ -3,13 +3,13 @@ layout: page
 title: Books
 permalink: /books/
 ---
-# Books
+
 <ol>
 <!-- <li style="display: flex; align-items: center;"> -->
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/ISBN_9791194145226.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/ISBN_9791194145226.jpg" alt="Image" sclass="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   챗GPT를 활용한 영어과학논문작성법 (개정판)<br>
@@ -21,7 +21,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/ISBN_9791191346626.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/ISBN_9791191346626.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   챗GPT를 활용한 영어과학논문작성법<br>
@@ -33,7 +33,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/9791191346572.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/9791191346572.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   다상 유체 유동에 대한 상태장 모델링과 멀티그리드 수치기법<br>
@@ -45,7 +45,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/9791191346374.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/9791191346374.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   MATLAB 활용 수치해석<br>
@@ -57,7 +57,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/9791191346077.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/9791191346077.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   코딩수학 파이썬 1<br>
@@ -69,7 +69,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/9791191346091.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/9791191346091.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   수학적 모델링 콘텐츠 파이썬 1<br>
@@ -81,7 +81,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/9791191346046.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/9791191346046.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   텐서플로 25시간만에 배우는 머신러닝 예제<br>
@@ -92,7 +92,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/9791187541943.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/9791187541943.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   보르노이 다이어그램<br>
@@ -103,7 +103,7 @@ permalink: /books/
 <li>
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="../images/9791187541882.jpg" alt="Image" style="width: 20vw; height: auto;">
+    <img src="../images/9791187541882.jpg" alt="Image" class="book-cover">
   </div>
   <div style="flex: 1; padding-left: 20px;">
   파이썬 활용 산업응용수학의 기본<br>
