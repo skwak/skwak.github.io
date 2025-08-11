@@ -52,7 +52,7 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 1. <span style="color:#808080; font-weight: bold;">An Explicit Adaptive Finite Difference Method for the Cahn–Hilliard Equation</span>. Seokjun Ham, Yibao Li, Darae Jeong, Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Journal of Nonlinear Science* 32(6) (2022) 80. [DOI](https://doi.org/10.1007/s00332-022-09844-3) [[PDF]](../papers/s00332-022-09844-3.pdf)
 
-1. <span style="color:#808080; font-weight: bold;">Three-dimensional volume reconstruction from multi-slice data using a shape transformation[Formula presented]</span>. Hyundong Kim, Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Sangkwon Kim, Yongho Choi, Junseok Kim. *Computers and Mathematics with Applications* 113 (2022) 52–58. [DOI](https://doi.org/10.1016/j.camwa.2022.03.018) [[PDF]](../papers/1-s2.0-S0898122122001031-main.pdf)
+1. <span style="color:#808080; font-weight: bold;">Three-dimensional volume reconstruction from multi-slice data using a shape transformation</span>. Hyundong Kim, Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Sangkwon Kim, Yongho Choi, Junseok Kim. *Computers and Mathematics with Applications* 113 (2022) 52–58. [DOI](https://doi.org/10.1016/j.camwa.2022.03.018) [[PDF]](../papers/1-s2.0-S0898122122001031-main.pdf)
 
 1. <span style="color:#808080; font-weight: bold;">Finite volume scheme for the lattice Boltzmann method on curved surfaces in 3D</span>. Junxiang Yang, Zhijun Tan, Sangkwon Kim, Chaeyoung Lee, **Soobin Kwak**, Junseok Kim. *Engineering with Computers* 38(6) (2022) 5507-5518. [DOI](https://doi.org/10.1007/s00366-022-01671-0) [[PDF]](../papers/s00366-022-01671-0.pdf)
 
