@@ -13,7 +13,8 @@ hide_title: true
 ## Dissertation
 
 <div style="text-align: center;">
-Various numerical schemes and analysis for the conservative Allen–Cahn equation. (2024). <a href="../papers/000000289434_20250801133251.pdf">[PDF]</div>
+Various numerical schemes and analysis for the conservative Allen–Cahn equation. (2024). <a href="../papers/000000289434_20250801133251.pdf">[PDF]</a>
+</div>
 
 ## Publications
 
