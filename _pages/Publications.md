@@ -12,7 +12,8 @@ hide_title: true
 
 ## Dissertation
 
-Various numerical schemes and analysis for the conservative Allen–Cahn equation. **Soobin Kwak**. (2024). [[PDF]](../papers/000000289434_20250801133251.pdf)
+<div style="text-align: center;">
+Various numerical schemes and analysis for the conservative Allen–Cahn equation. (2024). [[PDF]](../papers/000000289434_20250801133251.pdf)</div>
 
 ## Publications
 
@@ -165,3 +166,11 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 1. <span style="color:#808080; font-weight: bold;">Calibration of Local Volatility Surfaces from Observed Market Call and Put Option Prices</span>. Changwoo Yoo, **Soobin Kwak**, Youngjin Hwang, Hanbyeol Jang, Hyundong Kim, Junseok Kim. *Computational Economics* 65(3) (2025) 115010 1147–1168. [DOI](https://doi.org/10.1007/s10614-024-10590-9) [[PDF]](../papers/)
 
 1. <span style="color:#808080; font-weight: bold;">An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation</span>. Hyundong Kim, Seokjun Ham, **Soobin Kwak**, Junseok Kim. *Computer Physics Communications* 315 (2025) 109712. [DOI](https://doi.org/10.1016/j.cpc.2025.109712) [[PDF]](../papers/1-s2.0-S0010465525002140-main.pdf)
+
+## ESCI
+
+1. <span style="color:#808080; font-weight: bold;">Fast pricing of four asset equoty-linked securities using Brownian bridge</span>. Changwoo Yoo, Yongho Choi, Sangkwon Kim, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Journal of the Korean Society for Industrial and Applied Mathematics* 25(3) (2021) 82–92. [DOI](https://doi.org/10.12941/jksiam.2021.25.082) [[PDF]](../papers/jksiam.2021.25.082.pdf)
+
+1. <span style="color:#808080; font-weight: bold;">An efficient and accurate adaptive time-stepping method for the Black–Scholes equations. Hyeongseok Hwang, **Soobin Kwak*, Yunjae Nam, Seokjun Ham, Zhengang Li, Hyundong Kim, Junseok Kim. *Journal of the Korean Society for Industrial and Applied Mathematics* 28(3) (2024) 88–95. [DOI](https://doi.org/10.12941/jksiam.2024.28.088) [[PDF]](../papers/jksiam.2024.28.088.pdf)
+
+1. <span style="color:#808080; font-weight: bold;">Practical implementation of boundary conditions in the Thomas algorithm. **Soobin Kwak**. *Journal of the Korean Society for Industrial and Applied Mathematics* 29(2) (2025) 171–183. [DOI](https://doi.org/10.12941/jksiam.2025.29.171) [[PDF]](../papers/jksiam.2025.29.171.pdf)
