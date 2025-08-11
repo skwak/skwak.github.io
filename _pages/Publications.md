@@ -167,7 +167,7 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 1. <span style="color:#808080; font-weight: bold;">An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation</span>. Hyundong Kim, Seokjun Ham, **Soobin Kwak**, Junseok Kim. *Computer Physics Communications* 315 (2025) 109712. [DOI](https://doi.org/10.1016/j.cpc.2025.109712) [[PDF]](../papers/1-s2.0-S0010465525002140-main.pdf)
 
-## ESCI
+### ESCI
 
 1. <span style="color:#808080; font-weight: bold;">Fast pricing of four asset equoty-linked securities using Brownian bridge</span>. Changwoo Yoo, Yongho Choi, Sangkwon Kim, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Journal of the Korean Society for Industrial and Applied Mathematics* 25(3) (2021) 82–92. [DOI](https://doi.org/10.12941/jksiam.2021.25.082) [[PDF]](../papers/jksiam.2021.25.082.pdf)
 
