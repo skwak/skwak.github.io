@@ -15,7 +15,6 @@ hide_title:
     display: flex;
     align-items: flex-start;
     margin-bottom: 20px;
-    list-style: none;
   }
 
   .book-cover {
