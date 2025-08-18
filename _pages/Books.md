@@ -7,30 +7,46 @@ hide_title:
 
 <style>
   .book-list {
+    counter-reset: book-counter;
     list-style-type: decimal;
-    padding-left: 1.5em;
+    padding-left: 0;
   }
 
   .book-list li {
     display: flex;
     align-items: flex-start;
+    gap: 12px;
     margin-bottom: 20px;
+    list-style: none;
+  }
+
+  .book-list li::before {
+    content: counter(book-counter) ".";
+    font-weight: 700;
+    font-size: 1.05rem;
+    line-height: 1.2;
+    width: 2.2ch;               /* 번호 폭 고정으로 정렬 예쁨 */
+    text-align: right;
+    margin-right: 6px;
+    align-self: center;         /* 번호 세로 가운데 */
+    flex: 0 0 auto;
   }
 
   .book-cover {
     width: 5%;
     height: auto;
     min-width:100px;
-    max-width:300px;
+    max-width:500px;
     margin-right: 20px;
   }
 
   .book-info {
     flex: 1;
+    max-width: 2000px;
   }
 </style>
 
-<ol class="book-list">
+<ol class="book-list";>
   <li>
     <img src="../images/ISBN_9791194145226.jpg" alt="Image" class="book-cover">
     <div class="book-info">
@@ -104,3 +120,7 @@ hide_title:
   </li>
 
 </ol>
+
+<div style="text-align: right; font-size: 0.9em; color: gray;">
+Last updated: {{ site.time | date: "%Y-%m-%d" }}
+</div>

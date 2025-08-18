@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 hide_title: true
 ---
+
 ## ORCID
 
 <div style="text-align: center;">
@@ -260,3 +261,7 @@ Published: 2024. 09. 25.
 
 1. <span style="color:#808080; font-weight: bold;">Practical implementation of boundary conditions in the Thomas algorithm</span>. **Soobin Kwak**. *Journal of the Korean Society for Industrial and Applied Mathematics* 29(2) (2025) 171–183. [DOI](https://doi.org/10.12941/jksiam.2025.29.171) [[PDF]](../papers/jksiam.2025.29.171.pdf)  
 Published: 2025. 06. 25.
+
+<div style="text-align: right; font-size: 0.9em; color: gray;">
+Last updated: {{ site.time | date: "%Y-%m-%d" }}
+</div>

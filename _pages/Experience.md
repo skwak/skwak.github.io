@@ -4,7 +4,6 @@ title: Experience
 permalink: /experience/
 hide_title:
 ---
-
 ## Presentations
 
 - Estimating unconfirmed infected population with SUC model. *2020 KMS Annual Meeting*
@@ -33,3 +32,7 @@ type. *2023 연세대학교 고려대학교 이학 학술고연전* (Poster)
 ## Awards
 
 - KMS Excellent Poster Award. KMS (Korean Mathematical Society). 2024.
+
+<div style="text-align: right; font-size: 0.9em; color: gray;">
+Last updated: {{ site.time | date: "%Y-%m-%d" }}
+</div>
