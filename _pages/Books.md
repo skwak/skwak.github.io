@@ -7,7 +7,6 @@ hide_title:
 
 <style>
   .book-list {
-    counter-reset: book-counter;
     list-style-type: decimal;
     padding-left: 0;
   }
@@ -18,18 +17,6 @@ hide_title:
     gap: 12px;
     margin-bottom: 20px;
     list-style: none;
-  }
-
-  .book-list li::before {
-    content: counter(book-counter) ".";
-    font-weight: 700;
-    font-size: 1.05rem;
-    line-height: 1.2;
-    width: 2.2ch;               /* 번호 폭 고정으로 정렬 예쁨 */
-    text-align: right;
-    margin-right: 6px;
-    align-self: center;         /* 번호 세로 가운데 */
-    flex: 0 0 auto;
   }
 
   .book-cover {
