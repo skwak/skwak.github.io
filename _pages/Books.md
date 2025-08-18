@@ -14,7 +14,6 @@ hide_title:
   .book-list li {
     display: flex;
     align-items: flex-start;
-    gap: 12px;
     margin-bottom: 20px;
     list-style: none;
   }
