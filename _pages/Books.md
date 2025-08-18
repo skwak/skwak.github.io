@@ -21,7 +21,7 @@ hide_title:
     width: 5%;
     height: auto;
     min-width:100px;
-    max-width:300px;
+    max-width:500px;
     margin-right: 20px;
   }
 
