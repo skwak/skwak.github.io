@@ -27,7 +27,7 @@ hide_title:
 
   .book-info {
     flex: 1;
-    max-width: 2000px;
+    max-width: 1000px;
   }
 </style>
 
