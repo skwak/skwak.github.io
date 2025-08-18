@@ -7,7 +7,7 @@ hide_title:
 
 <style>
   .book-list {
-    list-style-type: decimal;
+    list-style-type: none;
     padding-left: 0;
   }
 
