@@ -203,9 +203,6 @@ Published: 2025. 01. 01.
 1. <span style="color:#808080; font-weight: bold;">A fourth-order finite difference method for the Allen–Cahn equation</span>. Seokjun Ham, Seungyoon Kang, Youngjin Hwang, Gyeonggyu Lee, **Soobin Kwak**, Jyoti, Junseok Kim. *Journal of Computational and Applied Mathematics* 453 (2025) 116159. [DOI](https://doi.org/10.1016/j.cam.2024.116159) [[PDF]](../papers/1-s2.0-S0377042724004084-main.pdf)  
 Published: 2025. 01. 01.
 
-1. <span style="color:#808080; font-weight: bold;">Effective perpendicular boundary conditions in phase-field models using Dirichlet boundary conditions</span>. **Soobin Kwak**, Seokjun Ham, Jian Wang, Hyundong Kim, Junseok Kim. *Engineering with Computers*  (2025) 107179. [DOI](https://doi.org/10.1007/s00366-025-02109-z) [[PDF]](../papers/s00366-025-02109-z.pdf)  
-Published: 2025. 01. 25.
-
 1. <span style="color:#808080; font-weight: bold;">Fast numerical algorithm for the reaction-diffusion equations using an interpolating method</span>. Sungha Yoon, Chaeyoung Lee, **Soobin Kwak**, Seungyoon Kang, Junseok Kim. *Computational and Applied Mathematics* 44(1) (2025) 51. [DOI](https://doi.org/10.1007/s40314-024-03024-7) [[PDF]](../papers/s40314-024-03024-7.pdf)  
 Published: 2025. 02.
 
@@ -221,9 +218,6 @@ Published: 2025. 03.
 1. <span style="color:#808080; font-weight: bold;">Positivity preserving and unconditionally stable numerical scheme for the three-dimensional modified Fisher–Kolmogorov–Petrovsky–Piskunov equation</span>. Seungyoon Kang, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Journal of Computational and Applied Mathematics* 457 (2025) 116273. [DOI](https://doi.org/10.1016/j.cam.2024.116273) [[PDF]](../papers/1-s2.0-S0377042724005223-main.pdf)  
 Published: 2025. 03. 15.
 
-1. <span style="color:#808080; font-weight: bold;">A convergent fourth-order finite difference scheme for the Black–Scholes equation</span>. Seungyoon Kang, **Soobin Kwak**, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim. *Computational Economics*  (2025) 127168. [DOI](https://doi.org/10.1007/s10614-025-10945-w) [[PDF]](../papers/)  
-Published: 2025. 04. 24.
-
 1. <span style="color:#808080; font-weight: bold;">An efficient computational method for simulating incompressible fluid flows on a virtual cubic surface</span>. Junxiang Yang, Seungyoon Kang, Sangkwon Kim, Youngjin Hwang, **Soobin Kwak**, Seokjun Ham, Junseok Kim. *Communications in Nonlinear Science and Numerical Simulation* 144 (2025) 108676. [DOI](https://doi.org/10.1016/j.cnsns.2025.108676) [[PDF]](../papers/1-s2.0-S1007570425000875-main.pdf)  
 Published: 2025. 05.
 
@@ -236,9 +230,6 @@ Published: 2025. 07.
 1. <span style="color:#808080; font-weight: bold;">A review of the numerical methods for solving the binary Allen–Cahn equation</span>. Hyun Geun Lee, Yibao Li, Junxiang Yang, **Soobin Kwak**, Youngjin Hwang, Seokjun Ham, Hyundong Kim, Jyoti, Yunjae Nam, Junseok Kim. *Physica A: Statistical Mechanics and its Applications* 670 (2025) 130625. [DOI](https://doi.org/10.1016/j.physa.2025.130625) [[PDF]](../papers/1-s2.0-S0378437125002778-main.pdf)  
 Published: 2025. 07. 15.
 
-1. <span style="color:#808080; font-weight: bold;">An efficient operator splitting method for a normalized time-fractional Allen–Cahn equation</span>. Jian Wang, Qin Liu, Keyong Chen, Junxiang Yang, Ziwei Han, **Soobin Kwak**, Yunjae Nam, Seokjun Ham, Junseok Kim. *Fractals* (2025). [DOI](https://doi.org/10.1142/S0218348X25500859) [[PDF]](../papers/)  
-Published: 2025. 07.(Early Access)
-
 1. <span style="color:#808080; font-weight: bold;">Simulation of dendritic growth on a spherical surface using a multi-component phase-field model</span>. Sangkwon Kim, **Soobin Kwak**, Seokjun Ham, Youngjin Hwang, Junseok Kim. *International Communications in Heat and Mass Transfer* 167 (2025) 109195. [DOI](https://doi.org/10.1016/j.icheatmasstransfer.2025.109195) [[PDF]](../papers/1-s2.0-S0735193325006219-main.pdf)  
 Published: 2025. 09.
 
@@ -247,6 +238,18 @@ Published: 2025. 09.
 
 1. <span style="color:#808080; font-weight: bold;">An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation</span>. Hyundong Kim, Seokjun Ham, **Soobin Kwak**, Junseok Kim. *Computer Physics Communications* 315 (2025) 109712. [DOI](https://doi.org/10.1016/j.cpc.2025.109712) [[PDF]](../papers/1-s2.0-S0010465525002140-main.pdf)  
 Published: 2025. 10.
+
+1. <span style="color:#808080; font-weight: bold;">Effective perpendicular boundary conditions in phase-field models using Dirichlet boundary conditions</span>. **Soobin Kwak**, Seokjun Ham, Jian Wang, Hyundong Kim, Junseok Kim. *Engineering with Computers*  (2025) 107179. [DOI](https://doi.org/10.1007/s00366-025-02109-z) [[PDF]](../papers/s00366-025-02109-z.pdf)  
+Published: Early Access
+
+1. <span style="color:#808080; font-weight: bold;">An efficient operator splitting method for a normalized time-fractional Allen–Cahn equation</span>. Jian Wang, Qin Liu, Keyong Chen, Junxiang Yang, Ziwei Han, **Soobin Kwak**, Yunjae Nam, Seokjun Ham, Junseok Kim. *Fractals* (2025). [DOI](https://doi.org/10.1142/S0218348X25500859) [[PDF]](../papers/)  
+Published: Early Access
+
+1. <span style="color:#808080; font-weight: bold;">A convergent fourth-order finite difference scheme for the Black–Scholes equation</span>. Seungyoon Kang, **Soobin Kwak**, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim. *Computational Economics*  (2025) 127168. [DOI](https://doi.org/10.1007/s10614-025-10945-w) [[PDF]](../papers/)  
+Published: Early Access
+
+1. <span style="color:#808080; font-weight: bold;">Numerical simulation of a normalized time-fractional SUC epidemic model</span>. Chaeyoung Lee, Jyoti, **Soobin Kwak**, Yunjae Nam, Hyundong Kim, Junseok Kim. *Computer Methods in Biomechanics and Biomedical Engineering* [DOI](https://doi.org) [[PDF]](../papers/)
+Published: Accepted
 
 ### ESCI
 
