@@ -19,7 +19,7 @@ hide_title: true
 
 1. <span style="color:#808080; font-weight: bold;">A positivity-preserving numerical method for the ternary  Allen–Cahn equation</span>. **Soobin Kwak**, Seokjun Ham, Junseok Kim. *Mathematical Methods in the Applied Sciences*
 
-1. <span style="color:#808080; font-weight: bold;">Pinning phenomena in numerical schemes of the  Allen–Cahn equation</span>. Junseok Kim, Zhengang Li, Xinpei Wu, Soobin Kwak. *Computers and Mathematics with Application*(https://track.authorhub.elsevier.com/?uuid=abaf2f79-af5c-40cd-9ffb-22886ffc7a2c)
+1. <span style="color:#808080; font-weight: bold;">Pinning phenomena in numerical schemes of the  Allen–Cahn equation</span>. Junseok Kim, Zhengang Li, Xinpei Wu, **Soobin Kwak**. [*Computers and Mathematics with Application*](https://track.authorhub.elsevier.com/?uuid=abaf2f79-af5c-40cd-9ffb-22886ffc7a2c)
 
 1. <span style="color:#808080; font-weight: bold;">Numerical investigation of reverse equity-linked securities</span>. Yunjae Nam, Jian Wang, Hyundong Kim, **Soobin Kwak**, Minjoon Bang, Zhengang Li, Junseok Kim. *Computational Economics*
 
