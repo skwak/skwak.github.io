@@ -248,11 +248,11 @@ Published: Early Access
 1. <span style="color:#808080; font-weight: bold;">A convergent fourth-order finite difference scheme for the Black–Scholes equation</span>. Seungyoon Kang, **Soobin Kwak**, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim. *Computational Economics* (2025) 127168. [DOI](https://doi.org/10.1007/s10614-025-10945-w) [[PDF]](../papers/)  
 Published: Early Access
 
-1. <span style="color:#808080; font-weight: bold;">Numerical simulation of a normalized time-fractional SUC epidemic model</span>. Chaeyoung Lee, Jyoti, **Soobin Kwak**, Yunjae Nam, Hyundong Kim, Junseok Kim. *Computer Methods in Biomechanics and Biomedical Engineering* [DOI](https://doi.org) [[PDF]](../papers/)  
-Published: Accepted
+1. <span style="color:#808080; font-weight: bold;">Numerical simulation of a normalized time-fractional SUC epidemic model</span>. Chaeyoung Lee, Jyoti, **Soobin Kwak**, Yunjae Nam, Hyundong Kim, Junseok Kim. *Computer Methods in Biomechanics and Biomedical Engineering* [DOI](https://doi.org/10.1080/10255842.2025.2556313) [[PDF]](../papers/Numerical simulation of a normalized time-fractional SUC epidemic model.pdf)  
+Published: Early Access
 
 1. <span style="color:#808080; font-weight: bold;">Stability analysis for maximum principle preserving explicit isotropic schemes of the Allen–Cahn equation</span>. Jyoti, Seokjun Ham, **Soobin Kwak**, Youngjin Hwang, Seungyoon Kang, Junseok Kim. *Journal of Computational Mathematics* [DOI](https://doi.org) [[PDF]](../papers/)  
-Published: Accepted
+Published: Early Access
 
 ### ESCI
 
