@@ -36,11 +36,7 @@ hide_title:
 
 - KMS Excellent Poster Award. KMS (Korean Mathematical Society). 2024.
 
-
-
 ---
-
-## Conference & Seminar Presentations
 
 | **Title** | **Conference / Event** | **Period** | **Date of Presentation** | **Type** |
 |------------|------------------------|-------------|----------------------------|-----------|
@@ -50,13 +46,3 @@ hide_title:
 | Fractional Allen–Cahn model for biological tissue interface | The Korean Society for Industrial and Applied Mathematics (KSIAM) Spring Conference 2023 | May 11–13, 2023 | May 12, 2023 | Oral |
 | Phase-field modeling of two-phase flow with curvature effects | Korea University Applied Mathematics Seminar | Mar 20, 2023 | Mar 20, 2023 | Oral |
 | A study on the numerical stability of Crank–Nicolson scheme for parabolic PDEs | Korea University Graduate Student Seminar | Dec 14, 2022 | Dec 14, 2022 | Oral |
-
----
-
-## Invited / Guest Lectures
-
-| **Title** | **Institution / Event** | **Date** | **Type** |
-|------------|------------------------|-----------|-----------|
-| Numerical simulation methods for curvature-driven dynamics | Korea University Math Graduate Seminar | Sep 2024 | Invited Talk |
-| Modeling biological interface motion using phase-field equations | Seoul Science High School Research Program | Aug 2023 | Guest Lecture |
-
