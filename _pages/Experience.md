@@ -18,12 +18,15 @@ hide_title:
 
 - A novel conservative Allen–Cahn system with structure-preserving property. *ICIAM 2023 TOKYO* (Poster)
 
-- A novel structure-preserving model of Allen–Cahn
-type. *2023 연세대학교 고려대학교 이학 학술고연전* (Poster)
+- A novel structure-preserving model of Allen–Cahn type. *2023 연세대학교 고려대학교 이학 학술고연전* (Poster)
 
 - The curvature-dependent conservative Allen–Cahn using isotropic curvature. *2024 KMS Annual Meeting* (Poster)
 
 - Modeling curvature-driven tissue growth on surfaces via the phase-field. *2025 KSAIM Spring Conference*
+
+- Computational reconstruction of initial data in normalized time-fractional diffusion models. *2025 KMS Annual Meeting*
+
+- Saul’yev-type second-order explicit scheme for the Allen–Cahn equation. *2025 KSAIM Annual Meeting*
 
 ## Certificates
 
@@ -33,6 +36,30 @@ type. *2023 연세대학교 고려대학교 이학 학술고연전* (Poster)
 
 - KMS Excellent Poster Award. KMS (Korean Mathematical Society). 2024.
 
-<div style="text-align: right; font-size: 0.9em; color: gray;">
-Last updated: {{ site.time | date: "%Y-%m-%d" }}
-</div>
+
+
+---
+layout: page
+title: Talks & Presentations
+---
+
+## Conference & Seminar Presentations
+
+| **Title** | **Conference / Event** | **Period** | **Date of Presentation** | **Type** |
+|------------|------------------------|-------------|----------------------------|-----------|
+| Modeling curvature-driven tissue growth on surfaces via the phase-field method | KSIAM Spring Conference 2025, Jeju, Korea | May 8–10, 2025 | May 9, 2025 | Oral |
+| Conservative Allen–Cahn equation with curvature-dependent Lagrange multiplier | KSIAM Fall Conference 2024, Busan, Korea | Oct 24–26, 2024 | Oct 25, 2024 | Poster |
+| A numerical study on surface diffusion via phase-field approach | KMS Annual Meeting 2024, Daejeon, Korea | Apr 18–20, 2024 | Apr 19, 2024 | Poster |
+| Fractional Allen–Cahn model for biological tissue interface | The Korean Society for Industrial and Applied Mathematics (KSIAM) Spring Conference 2023 | May 11–13, 2023 | May 12, 2023 | Oral |
+| Phase-field modeling of two-phase flow with curvature effects | Korea University Applied Mathematics Seminar | Mar 20, 2023 | Mar 20, 2023 | Oral |
+| A study on the numerical stability of Crank–Nicolson scheme for parabolic PDEs | Korea University Graduate Student Seminar | Dec 14, 2022 | Dec 14, 2022 | Oral |
+
+---
+
+## Invited / Guest Lectures
+
+| **Title** | **Institution / Event** | **Date** | **Type** |
+|------------|------------------------|-----------|-----------|
+| Numerical simulation methods for curvature-driven dynamics | Korea University Math Graduate Seminar | Sep 2024 | Invited Talk |
+| Modeling biological interface motion using phase-field equations | Seoul Science High School Research Program | Aug 2023 | Guest Lecture |
+
