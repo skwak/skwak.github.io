@@ -9,7 +9,7 @@ hide_title: true
 - **Korea University** – *Fall 2025*  
   **Course:** Numerical Analysis (MATE252)
 
-- **Korea University Center for Gifted Education (고려대학교 영재교육원)** – *Fall 2024*
+- **Korea University Center for Gifted Education (고려대학교 영재교육원)** – *Fall 2024*  
   **Course:** 몬테카를로 시뮬레이션을 이용한 옵션 가격결정 안드로이드 앱 제작  
   Development of an Android application for option pricing using Monte Carlo simulation
 
@@ -21,6 +21,7 @@ hide_title: true
   **Course:** Calculus
 
 ---
+
 ## Project Assistant (R & E Programs)
 
 - **Seoul Science High School R&E Program**
