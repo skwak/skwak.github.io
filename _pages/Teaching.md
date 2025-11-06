@@ -13,11 +13,14 @@ hide_title: true
   **Course:** 몬테카를로 시뮬레이션을 이용한 옵션 가격결정 안드로이드 앱 제작  
   Development of an Android application for option pricing using Monte Carlo simulation
 
+---
+
 ## Teaching Assistant
 
 - **Korea University** – *Spring 2020*  
   **Course:** Calculus
 
+---
 ## Project Assistant (R & E Programs)
 
 - **Seoul Science High School R&E Program**
