@@ -39,9 +39,6 @@ hide_title:
 
 
 ---
-layout: page
-title: Talks & Presentations
----
 
 ## Conference & Seminar Presentations
 

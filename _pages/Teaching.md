@@ -11,8 +11,7 @@ hide_title: true
 
 - **Korea University Center for Gifted Education (고려대학교 영재교육원)** — *Fall 2024*  
   **Course:** 몬테카를로 시뮬레이션을 이용한 옵션 가격결정 안드로이드 앱 제작  
-  Designed and instructed a course for gifted students on Monte Carlo simulation for option pricing, integrating mathematical modeling and Android app implementation.
-
+  Development of an Android application for option pricing using Monte Carlo simulation
 
 ## Teaching Assistant
 
