@@ -234,10 +234,13 @@ Published: 2025. 06. 04. (Early Access)
 Published: 2025. 09. (Early Access)
 
 1. <span style="color:#808080; font-weight: bold;">Restoration of partially damaged fingerprints using a partial differential equation</span>. Sangkwon Kim, Yibao Li, **Soobin Kwak**, Junseok Kim. *Pattern Recognition* [DOI](https://doi.org/) [[PDF]](../papers/)  
-Published: Accepted
+Published: Accepted.
 
 1. <span style="color:#808080; font-weight: bold;">Pinning phenomena in numerical schemes of the Allen–Cahn equation</span>. Junseok Kim, Zhengang Li, Xinpei Wu, **Soobin Kwak**. *Computers and Mathematics with Applications* [DOI](https://doi.org/) [[PDF]](../papers/)  
-Published: [Accepted](https://authors.elsevier.com/tracking/article/details.do?aid=12210&jid=CAMWA&surname=Kwak)
+Published: [Accepted.](https://authors.elsevier.com/tracking/article/details.do?aid=12210&jid=CAMWA&surname=Kwak)
+
+1. <span style="color:#808080; font-weight: bold;">A second-order finite difference method for the Black–Scholes model without far-field boundary conditions</span>. Jian Wang, Xinpei Wu, Youngjin Hwang, Yunjae Nam, **Soobin Kwak**, Taehui Lee, Junseok Kim. *Journal of Financial Stability*  
+Published: Accepted.
 
 ---
 
@@ -276,6 +279,9 @@ Published: 2025. 01.
 1. <span style="color:#808080; font-weight: bold;">Practical implementation of boundary conditions in the Thomas algorithm</span>. **Soobin Kwak**. *Journal of the Korean Society for Industrial and Applied Mathematics* 29(2) (2025) 171–183. [DOI](https://doi.org/10.12941/jksiam.2025.29.171) [[PDF]](../papers/jksiam.2025.29.171.pdf)  
 Published: 2025. 06. 25.
 
+1. <span style="color:#808080; font-weight: bold;">Numerical analysis of the Allen–Cahn equation on non-uniform cell sizes</span>. Binhu Xia, Kun Wang, Yunjae Nam, Zhengang Li, Xinpei Wu, **Soobin Kwak**, Juho Ma, Junseok Kim. *Computational and Applied Mathematics*  
+Published: Accepted.
+
 ---
 
 ## Under review / Submitted papers
@@ -301,8 +307,6 @@ Published: 2025. 06. 25.
 1. <span style="color:#808080; font-weight: bold;"> Isotropic discretization of a mathematical model for dendritic growth without artificial curvature</span>. Seokjun Ham, **Soobin Kwak**, Xinpei Wu, Junseok Kim. *The European Physical Journal E*
 
 1. <span style="color:#808080; font-weight: bold;">Traveling wave solutions for a normalized time-fractional predator-prey model</span>. Seokjun Ham, **Soobin Kwak**, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim. *Journal of Computational Mathematics*
-
-1. <span style="color:#808080; font-weight: bold;">Numerical analysis of the  Allen–Cahn equation on non-uniform cell sizes</span>. Binhu Xia, Kun Wang, Yunjae Nam, Zhengang Li, Xinpei Wu, **Soobin Kwak**, Juho Ma, Junseok Kim. *Computational and Applied Mathematics*
 
 1. <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures</span>. Seungyoon Kang, Yibao Li, **Soobin Kwak**, Yongho Choi, Junseok Kim. *International Journal for Numerical Methods in Biomedical Engineering*
 
