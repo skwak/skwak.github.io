@@ -236,8 +236,8 @@ Published: 2025. 09. (Early Access)
 1. <span style="color:#808080; font-weight: bold;">Restoration of partially damaged fingerprints using a partial differential equation</span>. Sangkwon Kim, Yibao Li, **Soobin Kwak**, Junseok Kim. *Pattern Recognition* [DOI](https://doi.org/) [[PDF]](../papers/)  
 Published: Accepted.
 
-1. <span style="color:#808080; font-weight: bold;">Pinning phenomena in numerical schemes of the Allen–Cahn equation</span>. Junseok Kim, Zhengang Li, Xinpei Wu, **Soobin Kwak**. *Computers and Mathematics with Applications* [DOI](https://doi.org/) [[PDF]](../papers/)  
-Published: [Accepted.](https://authors.elsevier.com/tracking/article/details.do?aid=12210&jid=CAMWA&surname=Kwak)
+1. <span style="color:#808080; font-weight: bold;">Pinning phenomena in numerical schemes of the Allen–Cahn equation</span>. Junseok Kim, Zhengang Li, Xinpei Wu, **Soobin Kwak**. *Computers and Mathematics with Applications* [DOI](https://doi.org/10.1016/j.camwa.2025.11.001) [[PDF]](../papers/1-s2.0-S0898122125004675-main.pdf)  
+Published: Accepted.
 
 1. <span style="color:#808080; font-weight: bold;">A second-order finite difference method for the Black–Scholes model without far-field boundary conditions</span>. Jian Wang, Xinpei Wu, Youngjin Hwang, Yunjae Nam, **Soobin Kwak**, Taehui Lee, Junseok Kim. *Journal of Financial Stability*  
 Published: Accepted.
