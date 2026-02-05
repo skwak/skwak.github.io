@@ -64,8 +64,10 @@ Published: 2022. 06.
 1. <span style="color:#808080; font-weight: bold;">Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate</span>. Hyundong Kim, Junxiang Yang, Sangkwon Kim, Chaeyoung Lee, Sungha Yoon, **Soobin Kwak**, Junseok Kim. *Theoretical and Computational Fluid Dynamics* 36(3) (2022) 423–433. [DOI](https://doi.org/10.1007/s00162-021-00602-x) [[PDF]](../papers/s00162-021-00602-x.pdf)  
 Published: 2022. 06.
 
+<!-- MDPI paper
 1. <span style="color:#808080; font-weight: bold;">Reconstructing the local volatility surface from market option prices</span>. **Soobin Kwak**, Youngjin Hwang, Yongho Choi, Jian Wang, Sangkwon Kim, Junseok Kim. *Mathematics* 10(14) (2022) 2537. [DOI](https://doi.org/10.3390/math10142537) [[PDF]](../papers/mathematics-10-02537-v2.pdf)  
 Published: 2022. 07.
+-->
 
 1. <span style="color:#808080; font-weight: bold;">Motion by mean curvature with constraints using a modified Allen–Cahn equation</span>. **Soobin Kwak**, Hyun Geun Lee, Yibao Li, Junxiang Yang, Chaeyoung Lee, Hyundong Kim, Seungyoon Kang, Junseok Kim. *Journal of Scientific Computing* 92(1) (2022) 16. [DOI](https://doi.org/10.1007/s10915-022-01862-3) [[PDF]](../papers/s10915-022-01862-3.pdf)  
 Published: 2022. 07.
@@ -85,8 +87,10 @@ Published: 2022. 12.
 1. <span style="color:#808080; font-weight: bold;">Three-dimensional volume reconstruction from multi-slice data using a shape transformation</span>. Hyundong Kim, Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Sangkwon Kim, Yongho Choi, Junseok Kim. *Computers and Mathematics with Applications* 113 (2022) 52–58. [DOI](https://doi.org/10.1016/j.camwa.2022.03.018) [[PDF]](../papers/1-s2.0-S0898122122001031-main.pdf)  
 Published: 2022. 12.
 
+<!-- MDPI paper
 1. <span style="color:#808080; font-weight: bold;">Optimal orientation of solar panels for multi-apartment buildings</span>. Sungha Yoon, Jintae Park, Chaeyoung Lee, Sangkwon Kim, Yongho Choi, **Soobin Kwak**, Hyundong Kim, Junseok Kim . *Mathematics* 11(4) (2023) 938. [DOI](https://doi.org/10.3390/math11040938) [[PDF]](../papers/mathematics-11-00938-v2.pdf)  
 Published: 2023. 02.
+-->
 
 1. <span style="color:#808080; font-weight: bold;">Accurate and efficient finite difference method for the Black–Scholes model with no far-field boundary conditions</span>. Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Computational Economics* 61(3) (2023) 1207–1224. [DOI](https://doi.org/10.1007/s10614-022-10242-w) [[PDF]](../papers/)  
 Published: 2023. 03.
@@ -224,6 +228,15 @@ Published: 2025. 09.
 1. <span style="color:#808080; font-weight: bold;">An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation</span>. Hyundong Kim, Seokjun Ham, **Soobin Kwak**, Junseok Kim. *Computer Physics Communications* 315 (2025) 109712. [DOI](https://doi.org/10.1016/j.cpc.2025.109712) [[PDF]](../papers/1-s2.0-S0010465525002140-main.pdf)  
 Published: 2025. 10.
 
+1. <span style="color:#808080; font-weight: bold;">A second-order finite difference method for the Black–Scholes model without far-field boundary conditions</span>. Jian Wang, Xinpei Wu, Youngjin Hwang, Yunjae Nam, **Soobin Kwak**, Taehui Lee, Junseok Kim. *Journal of Financial Stability* 81 (2025) 101477. [DOI](https://doi.org/10.1016/j.jfs.2025.101477) [[PDF]](../papers/1-s2.0-S1572308925001068-main.pdf)  
+Published: 2025. 12.
+
+1. <span style="color:#808080; font-weight: bold;">Pinning phenomena in numerical schemes of the Allen–Cahn equation</span>. Junseok Kim, Zhengang Li, Xinpei Wu, **Soobin Kwak**. *Computers and Mathematics with Applications* 201 (2026) 248–258. [DOI](https://doi.org/10.1016/j.camwa.2025.11.001) [[PDF]](../papers/1-s2.0-S0898122125004675-main.pdf)  
+Published: 2026. 01. 01.
+
+1. <span style="color:#808080; font-weight: bold;">Restoration of partially damaged fingerprints using a partial differential equation</span>. Sangkwon Kim, Yibao Li, **Soobin Kwak**, Junseok Kim. *Pattern Recognition* 172 (2026) 112694. [DOI](https://doi.org/10.1016/j.patcog.2025.112694) [[PDF]](../papers/1-s2.0-S0031320325013573-main.pdf)  
+Published: 2026. 04.
+
 1. <span style="color:#808080; font-weight: bold;">A convergent fourth-order finite difference scheme for the Black–Scholes equation</span>. Seungyoon Kang, **Soobin Kwak**, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim. *Computational Economics* (2025) 127168. [DOI](https://doi.org/10.1007/s10614-025-10945-w) [[PDF]](../papers/)  
 Published: 2025. 04. (Early Access)
 
@@ -232,15 +245,6 @@ Published: 2025. 06. 04. (Early Access)
 
 1. <span style="color:#808080; font-weight: bold;">Numerical simulation of a normalized time-fractional SUC epidemic model</span>. Chaeyoung Lee, Jyoti, **Soobin Kwak**, Yunjae Nam, Hyundong Kim, Junseok Kim. *Computer Methods in Biomechanics and Biomedical Engineering* [DOI](https://doi.org/10.1080/10255842.2025.2556313) [[PDF]](../papers/Numerical simulation of a normalized time-fractional SUC epidemic model.pdf)  
 Published: 2025. 09. (Early Access)
-
-1. <span style="color:#808080; font-weight: bold;">Restoration of partially damaged fingerprints using a partial differential equation</span>. Sangkwon Kim, Yibao Li, **Soobin Kwak**, Junseok Kim. *Pattern Recognition* [DOI](https://doi.org/) [[PDF]](../papers/)  
-Published: Accepted.
-
-1. <span style="color:#808080; font-weight: bold;">Pinning phenomena in numerical schemes of the Allen–Cahn equation</span>. Junseok Kim, Zhengang Li, Xinpei Wu, **Soobin Kwak**. *Computers and Mathematics with Applications* [DOI](https://doi.org/10.1016/j.camwa.2025.11.001) [[PDF]](../papers/1-s2.0-S0898122125004675-main.pdf)  
-Published: Accepted.
-
-1. <span style="color:#808080; font-weight: bold;">A second-order finite difference method for the Black–Scholes model without far-field boundary conditions</span>. Jian Wang, Xinpei Wu, Youngjin Hwang, Yunjae Nam, **Soobin Kwak**, Taehui Lee, Junseok Kim. *Journal of Financial Stability*  
-Published: Accepted.
 
 ---
 
