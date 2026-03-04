@@ -116,8 +116,7 @@ Published: 2023. 07. 31.
 1. <span style="color:#808080; font-weight: bold;">Semi-automatic fingerprint image restoration algorithm using a partial differential equation</span>. Chaeyoung Lee, Sangkwon Kim, **Soobin Kwak**, Youngjin Hwang, Seokjun Ham, Seungyoon Kang, Junseok Kim. *AIMS Mathematics* 8(11) (2023) 27528–27541. [DOI](https://doi.org/10.3934/math.20231408) [[PDF]](../papers/10.3934_math.20231408.pdf)  
 Published: 2023. 09. 27.
 
-1. <span style="color:#808080; font-weight: bold;">Monte Carlo simulation of the coffee-ring effect on porous papers</span>. Youngjin Hwang, Sangkwon Kim, Chaeyoung Lee, **Soobin Kwak**, Gyeonggyu Lee, Junseok Kim. *Theoretical and Computational Fluid Dynamics* 37(5) (2023) 627–637. [DOI](https://doi.org/10.1007/s00162-023-00662-1) [[PDF]](../papers/s00162-023-00662- 
-1.pdf)  
+1. <span style="color:#808080; font-weight: bold;">Monte Carlo simulation of the coffee-ring effect on porous papers</span>. Youngjin Hwang, Sangkwon Kim, Chaeyoung Lee, **Soobin Kwak**, Gyeonggyu Lee, Junseok Kim. *Theoretical and Computational Fluid Dynamics* 37(5) (2023) 627–637. [DOI](https://doi.org/10.1007/s00162-023-00662-1) [[PDF]](../papers/s00162-023-00662-1.pdf)  
 Published: 2023. 10.
 
 1. <span style="color:#808080; font-weight: bold;">An explicit fourth-order accurate compact method for the Allen–Cahn equation</span>. Chaeyoung Lee, Seokjun Ham, Youngjin Hwang, **Soobin Kwak**, Junseok Kim. *AIMS Mathematics* 9(1) (2024) 735–762. [DOI](https://doi.org/10.3934/math.2024038) [[PDF]](../papers/10.3934_math.2024038.pdf)  
@@ -246,6 +245,9 @@ Published: 2025. 06. 04. (Early Access)
 1. <span style="color:#808080; font-weight: bold;">Numerical simulation of a normalized time-fractional SUC epidemic model</span>. Chaeyoung Lee, Jyoti, **Soobin Kwak**, Yunjae Nam, Hyundong Kim, Junseok Kim. *Computer Methods in Biomechanics and Biomedical Engineering* [DOI](https://doi.org/10.1080/10255842.2025.2556313) [[PDF]](../papers/Numerical simulation of a normalized time-fractional SUC epidemic model.pdf)  
 Published: 2025. 09. (Early Access)
 
+1. <span style="color:#808080; font-weight: bold;">A positivity-preserving numerical method for the ternary  Allen–Cahn equation</span>. **Soobin Kwak**, Seokjun Ham, Junseok Kim. *Mathematical Methods in the Applied Sciences* [DOI](https://doi.org/10.1002/mma.70675) [[PDF]](../papers/)  
+Accepted
+
 ---
 
 ### ESCI/SCOPUS
@@ -311,8 +313,6 @@ Published: Accepted.
 1. <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures</span>. Seungyoon Kang, Yibao Li, **Soobin Kwak**, Yongho Choi, Junseok Kim. *Computer Vision and Image Understanding*
 
 1. <span style="color:#808080; font-weight: bold;">A multigrid solver for the  Allen–Cahn equation on a virtual cubic surface</span>. Junxiang Yang, **Soobin Kwak**, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Junseok Kim. *Extreme Mechanics Letters*
-
-1. <span style="color:#808080; font-weight: bold;">A positivity-preserving numerical method for the ternary  Allen–Cahn equation</span>. **Soobin Kwak**, Seokjun Ham, Junseok Kim. *Mathematical Methods in the Applied Sciences*
 
 <div style="text-align: right; font-size: 0.9em; color: gray;">
 Last updated: {{ site.time | date: "%Y-%m-%d" }}
