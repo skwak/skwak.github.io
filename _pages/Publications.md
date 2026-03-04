@@ -63,12 +63,10 @@ Published: 2022. 06.
 
 1. <span style="color:#808080; font-weight: bold;">Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate</span>. Hyundong Kim, Junxiang Yang, Sangkwon Kim, Chaeyoung Lee, Sungha Yoon, **Soobin Kwak**, Junseok Kim. *Theoretical and Computational Fluid Dynamics* 36(3) (2022) 423–433. [DOI](https://doi.org/10.1007/s00162-021-00602-x) [[PDF]](../papers/s00162-021-00602-x.pdf)  
 Published: 2022. 06.
-
 <!-- MDPI paper
 1. <span style="color:#808080; font-weight: bold;">Reconstructing the local volatility surface from market option prices</span>. **Soobin Kwak**, Youngjin Hwang, Yongho Choi, Jian Wang, Sangkwon Kim, Junseok Kim. *Mathematics* 10(14) (2022) 2537. [DOI](https://doi.org/10.3390/math10142537) [[PDF]](../papers/mathematics-10-02537-v2.pdf)  
 Published: 2022. 07.
 -->
-
 1. <span style="color:#808080; font-weight: bold;">Motion by mean curvature with constraints using a modified Allen–Cahn equation</span>. **Soobin Kwak**, Hyun Geun Lee, Yibao Li, Junxiang Yang, Chaeyoung Lee, Hyundong Kim, Seungyoon Kang, Junseok Kim. *Journal of Scientific Computing* 92(1) (2022) 16. [DOI](https://doi.org/10.1007/s10915-022-01862-3) [[PDF]](../papers/s10915-022-01862-3.pdf)  
 Published: 2022. 07.
 
@@ -292,27 +290,27 @@ Published: Accepted.
 
 ## Under review / Submitted papers
 
-1. <span style="color:#808080; font-weight: bold;">Reconstruction of convexity-preserving local volatility functions</span>. Sangkwon Kim, Jian Wang, **Soobin Kwak**, Hyundong Kim, Yunjae Nam, Junseok Kim. *Journal of Computational Science*
+1. <span style="color:#808080; font-weight: bold;">Reconstruction of convexity-preserving local volatility functions</span>. Sangkwon Kim, Jian Wang, **Soobin Kwak**, Hyundong Kim, Yunjae Nam, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">A space-adaptive, unconditionally stable, and maximum bound preserving scheme for the 3D Allen–Cahn equation</span>. **Soobin Kwak**, Junseok Kim. *Applied Mathematical Modelling*
+1. <span style="color:#808080; font-weight: bold;">A space-adaptive, unconditionally stable, and maximum bound preserving scheme for the 3D Allen–Cahn equation</span>. **Soobin Kwak**, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Optimal calibration of the temporally varying volatility function</span>. Jian Wang, Youngjin Hwang, Hyundong Kim, **Soobin Kwak**, Junseok Kim. *International Review of Finance*
+1. <span style="color:#808080; font-weight: bold;">Optimal calibration of the temporally varying volatility function</span>. Jian Wang, Youngjin Hwang, Hyundong Kim, **Soobin Kwak**, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Numerical investigation of reverse equity-linked securities</span>. Yunjae Nam, Jian Wang, Hyundong Kim, **Soobin Kwak**, Minjoon Bang, Zhengang Li, Junseok Kim. *Computational Economics*
+1. <span style="color:#808080; font-weight: bold;">Numerical investigation of reverse equity-linked securities</span>. Yunjae Nam, Jian Wang, Hyundong Kim, **Soobin Kwak**, Minjoon Bang, Zhengang Li, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">An efficient finite volume lattice Boltzmann method on nonuniform triangular meshes for curved surfaces</span>. Youngjin Hwang, **Soobin Kwak**, Seokjun Ham, Junseok Kim. *Engineering with Computers*
+1. <span style="color:#808080; font-weight: bold;">An efficient finite volume lattice Boltzmann method on nonuniform triangular meshes for curved surfaces</span>. Youngjin Hwang, **Soobin Kwak**, Seokjun Ham, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">A time-fractional diffusion model with normalization and short memory effect</span>. Junxiang Yang, Seokjun Ham, **Soobin Kwak**, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim. *Communications​ ​in​ ​Computational​ ​Physics*
+1. <span style="color:#808080; font-weight: bold;">A time-fractional diffusion model with normalization and short memory effect</span>. Junxiang Yang, Seokjun Ham, **Soobin Kwak**, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Modified Allen–Cahn equation for curvature-dependent tissue growth on three-dimensional surfaces</span>. **Soobin Kwak**, Yunjae Nam, Jyoti, Juho Ma, and Junseok Kim. *Engineering with Computers*
+1. <span style="color:#808080; font-weight: bold;">Modified Allen–Cahn equation for curvature-dependent tissue growth on three-dimensional surfaces</span>. **Soobin Kwak**, Yunjae Nam, Jyoti, Juho Ma, and Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;"> Isotropic discretization of a mathematical model for dendritic growth without artificial curvature</span>. Seokjun Ham, **Soobin Kwak**, Xinpei Wu, Junseok Kim. *The European Physical Journal E*
+1. <span style="color:#808080; font-weight: bold;"> Isotropic discretization of a mathematical model for dendritic growth without artificial curvature</span>. Seokjun Ham, **Soobin Kwak**, Xinpei Wu, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Traveling wave solutions for a normalized time-fractional predator-prey model</span>. Seokjun Ham, **Soobin Kwak**, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim. *Journal of Computational Mathematics*
+1. <span style="color:#808080; font-weight: bold;">Traveling wave solutions for a normalized time-fractional predator-prey model</span>. Seokjun Ham, **Soobin Kwak**, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures</span>. Seungyoon Kang, Yibao Li, **Soobin Kwak**, Yongho Choi, Junseok Kim. *Computer Vision and Image Understanding*
+1. <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures</span>. Seungyoon Kang, Yibao Li, **Soobin Kwak**, Yongho Choi, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">A multigrid solver for the  Allen–Cahn equation on a virtual cubic surface</span>. Junxiang Yang, **Soobin Kwak**, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Junseok Kim. *Extreme Mechanics Letters*
+1. <span style="color:#808080; font-weight: bold;">A multigrid solver for the  Allen–Cahn equation on a virtual cubic surface</span>. Junxiang Yang, **Soobin Kwak**, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Junseok Kim.
 
 <div style="text-align: right; font-size: 0.9em; color: gray;">
 Last updated: {{ site.time | date: "%Y-%m-%d" }}
