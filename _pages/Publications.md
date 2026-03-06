@@ -227,6 +227,9 @@ Published: 2025. 10.
 1. <span style="color:#808080; font-weight: bold;">A second-order finite difference method for the Black–Scholes model without far-field boundary conditions</span>. Jian Wang, Xinpei Wu, Youngjin Hwang, Yunjae Nam, **Soobin Kwak**, Taehui Lee, Junseok Kim. *Journal of Financial Stability* 81 (2025) 101477. [DOI](https://doi.org/10.1016/j.jfs.2025.101477) [[PDF]](../papers/1-s2.0-S1572308925001068-main.pdf)  
 Published: 2025. 12.
 
+1. <span style="color:#808080; font-weight: bold;">Numerical analysis of the Allen–Cahn equation on non-uniform cell sizes</span>. Binhu Xia, Kun Wang, Yunjae Nam, Zhengang Li, Xinpei Wu, **Soobin Kwak**, Juho Ma, Junseok Kim. *Computational and Applied Mathematics* 45(4) (2026) 161. [DOI](https://doi.org/10.1007/s40314-025-03490-7) [[PDF]](../papers/s40314-025-03490-7.pdf)  
+Published: 2025. 12. 18.
+
 1. <span style="color:#808080; font-weight: bold;">Pinning phenomena in numerical schemes of the Allen–Cahn equation</span>. Junseok Kim, Zhengang Li, Xinpei Wu, **Soobin Kwak**. *Computers and Mathematics with Applications* 201 (2026) 248–258. [DOI](https://doi.org/10.1016/j.camwa.2025.11.001) [[PDF]](../papers/1-s2.0-S0898122125004675-main.pdf)  
 Published: 2026. 01. 01.
 
@@ -281,9 +284,6 @@ Published: 2025. 01.
 
 1. <span style="color:#808080; font-weight: bold;">Practical implementation of boundary conditions in the Thomas algorithm</span>. **Soobin Kwak**. *Journal of the Korean Society for Industrial and Applied Mathematics* 29(2) (2025) 171–183. [DOI](https://doi.org/10.12941/jksiam.2025.29.171) [[PDF]](../papers/jksiam.2025.29.171.pdf)  
 Published: 2025. 06. 25.
-
-1. <span style="color:#808080; font-weight: bold;">Numerical analysis of the Allen–Cahn equation on non-uniform cell sizes</span>. Binhu Xia, Kun Wang, Yunjae Nam, Zhengang Li, Xinpei Wu, **Soobin Kwak**, Juho Ma, Junseok Kim. *Computational and Applied Mathematics*  
-Published: Accepted.
 
 ---
 
