@@ -11,11 +11,15 @@ hide_title: true
 <a href="https://orcid.org/0000-0001-7693-8992">0000-0001-7693-8992</a>
 </div>
 
+---
+
 ## Dissertation
 
 <div style="text-align: center;">
 Various numerical schemes and analysis for the conservative Allen–Cahn equation. (2024). <a href="../papers/000000289434_20250801133251.pdf">[PDF]</a>
 </div>
+
+---
 
 ## SCIE/SSCI
 
