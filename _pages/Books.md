@@ -7,8 +7,11 @@ hide_title:
 
 <style>
   .book-list {
+    <!-- 
     list-style-type: decimal;
-    padding-left: 1.5em;
+    padding-left: 1.5em; -->
+    width: fit-content;
+    margin: 0 auto;
   }
 
   .book-list li {
