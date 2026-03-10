@@ -7,11 +7,8 @@ hide_title:
 
 <style>
   .book-list {
-    <!-- 
     list-style-type: decimal;
-    padding-left: 1.5em; -->
-    width: fit-content;
-    margin: 0 auto;
+    padding-left: 1.5em;
   }
 
   .book-list li {
@@ -33,8 +30,9 @@ hide_title:
     max-width: 1000px;
   }
 </style>
-<!--<ol class="book-list"> -->
-<ol style="margin-left: auto; margin-right: auto;">
+
+<ol class="book-list">
+<!--<ol style="margin-left: auto; margin-right: auto;">-->
   <li>
     <img src="../images/ISBN_9791194145226.jpg" alt="Image" class="book-cover">
     <div class="book-info">
