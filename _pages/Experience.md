@@ -5,6 +5,7 @@ permalink: /experience/
 hide_title:
 ---
 ## Presentations
+
 | **Title** | **Conference / Event** | **Period** | **Date of Presentation** | **Type** |  
 |-----------|------------------------|------------|--------------------------|----------|  
 | Estimating unconfirmed infected population with SUC model | [*2020 KMS Annual Meeting*](https://www.kms.or.kr/meetings/fall2020/) | October 23–24, 2020 | October 24, 2020 | Oral |  
