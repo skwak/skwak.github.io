@@ -17,7 +17,7 @@ hide_title:
 | A novel structure-preserving model of Allen–Cahn type | [*2023 연세대학교 고려대학교 이학 학술고연전*](https://cos.korea.ac.kr/70/category/%EA%B3%A0%EC%97%B0-%EC%9D%B4%ED%95%99-%ED%95%99%EC%88%A0%EC%A0%9C) | November 10, 2023 | November 10, 2023 | Poster |  
 | The curvature-dependent conservative Allen–Cahn using isotropic curvature | [*2024 KMS Annual Meeting*](https://www.kms.or.kr/conference/2024_fall/) | October 24–26, 2024 | October 25, 2024 | Poster |  
 | Modeling curvature-driven tissue growth on surfaces via the phase-field | [*2025 KSIAM Spring Conference*](https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20250301&B_CATE=BBC1) | May 16–18, 2025 | May 16, 2025 | Oral |  
-| Computational reconstruction of initial data in normalized time-fractional diffusion models | [*2025 KMS Annual Meeting*](https://www.kms.or.kr/conference/meeting/?period=90) Seoul, Kore | October 22–24, 2025 | October 24, 2025 | Oral |  
+| Computational reconstruction of initial data in normalized time-fractional diffusion models | [*2025 KMS Annual Meeting*](https://www.kms.or.kr/conference/meeting/?period=90) | October 22–24, 2025 | October 24, 2025 | Oral |  
 | Saul’yev-type second-order explicit scheme for the Allen–Cahn equation | [*2025 KSIAM Annual Meeting*](https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20250901&B_CATE=BBC1) | November 27–30, 2025 | November 28, 2025 | Oral |
 
 ## Certificates
