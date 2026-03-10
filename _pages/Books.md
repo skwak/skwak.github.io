@@ -33,8 +33,8 @@ hide_title:
     max-width: 1000px;
   }
 </style>
-
-<ol class="book-list">
+<!--<ol class="book-list"> -->
+<ol style="display: table; margin-left: auto; margin-right: auto;">
   <li>
     <img src="../images/ISBN_9791194145226.jpg" alt="Image" class="book-cover">
     <div class="book-info">
