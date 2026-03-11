@@ -69,7 +69,7 @@ hide_title:
     <img src="../images/9791191346077.jpg" alt="Image" class="book-cover">
     <div class="book-info">
       코딩수학 파이썬 1<br>
-      김상권, 김현동, <b>곽수빈</b>*, 황영진, 김준석 | <em>지오아카데미</em> | 2021. 09. 01. | ISBN: 9791191346077
+      김상권, 김현동, <b>곽수빈</b>, 황영진, 김준석 | <em>지오아카데미</em> | 2021. 09. 01. | ISBN: 9791191346077
     </div>
   </li>
 

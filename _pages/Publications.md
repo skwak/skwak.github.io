@@ -252,6 +252,9 @@ Published: 2025. 09. (Early Access)
 1. <span style="color:#808080; font-weight: bold;">A positivity-preserving numerical method for the ternary  Allen–Cahn equation</span>. **Soobin Kwak**, Seokjun Ham, Junseok Kim. *Mathematical Methods in the Applied Sciences* [DOI](https://doi.org/10.1002/mma.70675) [[PDF]](../papers/)  
 Accepted
 
+1. <span style="color:#808080; font-weight: bold;">Traveling wave solutions for a normalized time-fractional predator-prey model</span>. Seokjun Ham, **Soobin Kwak**, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim. *Indian​ ​Journal​ ​of​ ​Physics* <!--[DOI](https://doi.org/) [[PDF]](../papers/)-->  
+Accepted
+
 ---
 
 ### ESCI/SCOPUS
@@ -308,8 +311,6 @@ Published: 2025. 06. 25.
 1. <span style="color:#808080; font-weight: bold;">Modified Allen–Cahn equation for curvature-dependent tissue growth on three-dimensional surfaces</span>. **Soobin Kwak**, Yunjae Nam, Jyoti, Juho Ma, and Junseok Kim.
 
 1. <span style="color:#808080; font-weight: bold;"> Isotropic discretization of a mathematical model for dendritic growth without artificial curvature</span>. Seokjun Ham, **Soobin Kwak**, Xinpei Wu, Junseok Kim.
-
-1. <span style="color:#808080; font-weight: bold;">Traveling wave solutions for a normalized time-fractional predator-prey model</span>. Seokjun Ham, **Soobin Kwak**, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim.
 
 1. <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures</span>. Seungyoon Kang, Yibao Li, **Soobin Kwak**, Yongho Choi, Junseok Kim.
 
