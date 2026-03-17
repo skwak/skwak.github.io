@@ -21,7 +21,7 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 ---
 
-## SCIE/SSCI
+## SCIE / SSCI
 
 1. <span style="color:#808080; font-weight: bold;">Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains</span>. Sangkwon Kim, Jintae Park, Chaeyoung Lee, Darae Jeong, Yongho Choi, **Soobin Kwak**, Junseok Kim. *Chaos, Solitons and Fractals* 139 (2020) 110300. [DOI](https://doi.org/10.1016/j.chaos.2020.110300) [[PDF]](../papers/1-s2.0-S0960077920306962-main.pdf)  
 Published: 2020. 10.
@@ -257,7 +257,7 @@ Accepted
 
 ---
 
-### ESCI/SCOPUS
+### ESCI / SCOPUS
 
 1. <span style="color:#808080; font-weight: bold;">Controlling COVID-19 outbreaks with financial incentives</span>. Chaeyoung Lee, **Soobin Kwak**, Junseok Kim. *International Journal of Environmental Research and Public Health* 18(2) (2021) 724 1–13. [DOI](https://doi.org/10.3390/ijerph18020724) [[PDF]](../papers/ijerph-18-00724-v2.pdf)  
 Published: 2021. 01. 15.
