@@ -66,11 +66,13 @@ Published: 2022. 05. 04.
 Published: 2022. 06.
 
 1. <span style="color:#808080; font-weight: bold;">Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate</span>. Hyundong Kim, Junxiang Yang, Sangkwon Kim, Chaeyoung Lee, Sungha Yoon, **Soobin Kwak**, Junseok Kim. *Theoretical and Computational Fluid Dynamics* 36(3) (2022) 423–433. [DOI](https://doi.org/10.1007/s00162-021-00602-x) [[PDF]](../papers/s00162-021-00602-x.pdf)  
-Published: 2022. 06.
+Published: 2022. 06.  
+
 <!-- MDPI paper
 1. <span style="color:#808080; font-weight: bold;">Reconstructing the local volatility surface from market option prices</span>. **Soobin Kwak**, Youngjin Hwang, Yongho Choi, Jian Wang, Sangkwon Kim, Junseok Kim. *Mathematics* 10(14) (2022) 2537. [DOI](https://doi.org/10.3390/math10142537) [[PDF]](../papers/mathematics-10-02537-v2.pdf)  
 Published: 2022. 07.
--->
+-->  
+
 1. <span style="color:#808080; font-weight: bold;">Motion by mean curvature with constraints using a modified Allen–Cahn equation</span>. **Soobin Kwak**, Hyun Geun Lee, Yibao Li, Junxiang Yang, Chaeyoung Lee, Hyundong Kim, Seungyoon Kang, Junseok Kim. *Journal of Scientific Computing* 92(1) (2022) 16. [DOI](https://doi.org/10.1007/s10915-022-01862-3) [[PDF]](../papers/s10915-022-01862-3.pdf)  
 Published: 2022. 07.
 
@@ -87,11 +89,12 @@ Published: 2022. 12.
 Published: 2022. 12.
 
 1. <span style="color:#808080; font-weight: bold;">Three-dimensional volume reconstruction from multi-slice data using a shape transformation</span>. Hyundong Kim, Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Sangkwon Kim, Yongho Choi, Junseok Kim. *Computers and Mathematics with Applications* 113 (2022) 52–58. [DOI](https://doi.org/10.1016/j.camwa.2022.03.018) [[PDF]](../papers/1-s2.0-S0898122122001031-main.pdf)  
-Published: 2022. 12.
+Published: 2022. 12.  
+
 <!-- MDPI paper
 1. <span style="color:#808080; font-weight: bold;">Optimal orientation of solar panels for multi-apartment buildings</span>. Sungha Yoon, Jintae Park, Chaeyoung Lee, Sangkwon Kim, Yongho Choi, **Soobin Kwak**, Hyundong Kim, Junseok Kim . *Mathematics* 11(4) (2023) 938. [DOI](https://doi.org/10.3390/math11040938) [[PDF]](../papers/mathematics-11-00938-v2.pdf)  
 Published: 2023. 02.
--->
+-->  
 
 1. <span style="color:#808080; font-weight: bold;">Accurate and efficient finite difference method for the Black–Scholes model with no far-field boundary conditions</span>. Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Computational Economics* 61(3) (2023) 1207–1224. [DOI](https://doi.org/10.1007/s10614-022-10242-w) [[PDF]](../papers/)  
 Published: 2023. 03.
