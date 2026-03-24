@@ -66,10 +66,7 @@ Published: 2022. 05. 04.
 Published: 2022. 06.
 
 1. <span style="color:#808080; font-weight: bold;">Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate</span>. Hyundong Kim, Junxiang Yang, Sangkwon Kim, Chaeyoung Lee, Sungha Yoon, **Soobin Kwak**, Junseok Kim. *Theoretical and Computational Fluid Dynamics* 36(3) (2022) 423–433. [DOI](https://doi.org/10.1007/s00162-021-00602-x) [[PDF]](../papers/s00162-021-00602-x.pdf)  
-Published: 2022. 06.  
-<!-- MDPI paper
-1. <span style="color:#808080; font-weight: bold;">Reconstructing the local volatility surface from market option prices</span>. **Soobin Kwak**, Youngjin Hwang, Yongho Choi, Jian Wang, Sangkwon Kim, Junseok Kim. *Mathematics* 10(14) (2022) 2537. [DOI](https://doi.org/10.3390/math10142537) [[PDF]](../papers/mathematics-10-02537-v2.pdf)
-Published: 2022. 07.-->  
+Published: 2022. 06.  <!-- MDPI paper 1. <span style="color:#808080; font-weight: bold;">Reconstructing the local volatility surface from market option prices</span>. **Soobin Kwak**, Youngjin Hwang, Yongho Choi, Jian Wang, Sangkwon Kim, Junseok Kim. *Mathematics* 10(14) (2022) 2537. [DOI](https://doi.org/10.3390/math10142537) [[PDF]](../papers/mathematics-10-02537-v2.pdf)  Published: 2022. 07.-->
 
 1. <span style="color:#808080; font-weight: bold;">Motion by mean curvature with constraints using a modified Allen–Cahn equation</span>. **Soobin Kwak**, Hyun Geun Lee, Yibao Li, Junxiang Yang, Chaeyoung Lee, Hyundong Kim, Seungyoon Kang, Junseok Kim. *Journal of Scientific Computing* 92(1) (2022) 16. [DOI](https://doi.org/10.1007/s10915-022-01862-3) [[PDF]](../papers/s10915-022-01862-3.pdf)  
 Published: 2022. 07.
