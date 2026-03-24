@@ -8,7 +8,7 @@ hide_title: true
 ## ORCID
 
 <div style="text-align: center;">
-<a href="https://orcid.org/0000-0001-7693-8992">0000-0001-7693-8992</a>
+<a href="https://orcid.org/0000-0001-7693-8992" target="_blank" rel="noopener noreferrer">0000-0001-7693-8992</a>
 </div>
 
 ---
