@@ -25,11 +25,11 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 ## SCIE / SSCI
 
 <ol class="publication-list" reversed>
-  {% assign fixed_pubs = site.data.publications | where_exp: "pub", "pub.volume == nil or pub.volume == ''" %}
+  {% assign fixed_pubs = site.data.publications | where_exp: "pub", "pub.published == nil or pub.published == ''" %}
   {% for pub in fixed_pubs %}
     {% include publication.html pub=pub %}
   {% endfor %}
-  {% assign pubs = site.data.publications | where_exp: "pub", "pub.volume != nil and pub.volume != ''" | sort: "published" | reverse %}
+  {% assign pubs = site.data.publications | where_exp: "pub", "pub.published != nil and pub.published != ''" | sort: "published" | reverse %}
   {% for pub in pubs %}
     {% include publication.html pub=pub %}
   {% endfor %}
