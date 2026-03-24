@@ -24,6 +24,13 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 ## SCIE / SSCI
 
+<ol class="publication-list">
+  {% assign pubs = site.data.publications | sort: "year" | reverse %}
+  {% for pub in pubs %}
+    {% include publication.html pub=pub %}
+  {% endfor %}
+</ol>
+
 1. [<span style="color:#808080; font-weight: bold;">Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains</span>](../papers/1-s2.0-S0960077920306962-main.pdf). Sangkwon Kim, Jintae Park, Chaeyoung Lee, Darae Jeong, Yongho Choi, **Soobin Kwak**, Junseok Kim. *Chaos, Solitons and Fractals* 139 (2020) 110300.  
 DOI: [10.1016/j.chaos.2020.110300](https://doi.org/10.1016/j.chaos.2020.110300)  
 Published: 2020. 10.
