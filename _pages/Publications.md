@@ -23,7 +23,7 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 ## SCIE / SSCI
 
-1. <span style="color:#808080; font-weight: bold;">Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains</span>. Sangkwon Kim, Jintae Park, Chaeyoung Lee, Darae Jeong, Yongho Choi, **Soobin Kwak**, Junseok Kim. *Chaos, Solitons and Fractals* 139 (2020) 110300. [DOI](https://doi.org/10.1016/j.chaos.2020.110300) [[PDF]](../papers/1-s2.0-S0960077920306962-main.pdf)  
+1. [<span style="color:#808080; font-weight: bold;">Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains</span>](https://doi.org/10.1016/j.chaos.2020.110300). Sangkwon Kim, Jintae Park, Chaeyoung Lee, Darae Jeong, Yongho Choi, **Soobin Kwak**, Junseok Kim. *Chaos, Solitons and Fractals* 139 (2020) 110300. [DOI](https://doi.org/10.1016/j.chaos.2020.110300) [[PDF]](../papers/1-s2.0-S0960077920306962-main.pdf)  
 Published: 2020. 10.
 
 1. <span style="color:#808080; font-weight: bold;">An unconditionally stable scheme for the Allen–Cahn equation with high-order polynomial free energy</span>. Chaeyoung Lee, Hyundong Kim, Sungha Yoon, Sangkwon Kim, Dongsun Lee, Jinate Park, **Soobin Kwak**, Junxiang Yang, Jian Wang, Junseok Kim. *Communications in Nonlinear Science and Numerical Simulation* 95 (2021) 105658. [DOI](https://doi.org/10.1016/j.cnsns.2020.105658) [[PDF]](../papers/1-s2.0-S1007570420304883-main.pdf)  
