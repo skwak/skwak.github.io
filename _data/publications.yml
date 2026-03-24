@@ -733,7 +733,7 @@
   authors: "Seungyoon Kang, <strong>Soobin Kwak</strong>, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim"
   journal: "Computational Economics"
   volume:
-  year: "2025"
+  year:
   pages: "127168"
   doi: "10.1007/s10614-025-10945-w"
   pdf:
@@ -753,7 +753,7 @@
   authors: "Chaeyoung Lee, Jyoti, <strong>Soobin Kwak</strong>, Yunjae Nam, Hyundong Kim, Junseok Kim"
   journal: "Computer Methods in Biomechanics and Biomedical Engineering"
   volume:
-  year:
+  year: 
   pages:
   doi: "10.1080/10255842.2025.2556313"
   pdf: "Numerical simulation of a normalized time-fractional SUC epidemic model"
@@ -767,7 +767,7 @@
   pages:
   doi: "10.1002/mma.70675"
   pdf:
-  published: 
+  published: "2026. 03. 09. (Early Access)"
 
 - title: "Traveling wave solutions for a normalized time-fractional predator-prey model"
   authors: "Seokjun Ham, <strong>Soobin Kwak</strong>, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim"
