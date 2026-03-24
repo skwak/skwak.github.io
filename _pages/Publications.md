@@ -15,8 +15,9 @@ hide_title: true
 
 ## Dissertation
 
-<div style="text-align: center;">
-Various numerical schemes and analysis for the conservative Allen–Cahn equation. (2024). <a href="../papers/000000289434_20250801133251.pdf">[PDF]</a>
+<div style="text-align: center; color:#000000">
+<a href="../papers/000000289434_20250801133251.pdf" style="color:#000000; font-weight: bold;">
+Various numerical schemes and analysis for the conservative Allen–Cahn equation</a>. (2024)
 </div>
 
 ---
@@ -27,7 +28,8 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 DOI: [10.1016/j.chaos.2020.110300](https://doi.org/10.1016/j.chaos.2020.110300)  
 Published: 2020. 10.
 
-1. <span style="color:#808080; font-weight: bold;">An unconditionally stable scheme for the Allen–Cahn equation with high-order polynomial free energy</span>. Chaeyoung Lee, Hyundong Kim, Sungha Yoon, Sangkwon Kim, Dongsun Lee, Jinate Park, **Soobin Kwak**, Junxiang Yang, Jian Wang, Junseok Kim. *Communications in Nonlinear Science and Numerical Simulation* 95 (2021) 105658. [DOI](https://doi.org/10.1016/j.cnsns.2020.105658) [[PDF]](../papers/1-s2.0-S1007570420304883-main.pdf)  
+1. [<span style="color:#808080; font-weight: bold;">An unconditionally stable scheme for the Allen–Cahn equation with high-order polynomial free energy</span>](../papers/1-s2.0-S1007570420304883-main.pdf). Chaeyoung Lee, Hyundong Kim, Sungha Yoon, Sangkwon Kim, Dongsun Lee, Jinate Park, **Soobin Kwak**, Junxiang Yang, Jian Wang, Junseok Kim. *Communications in Nonlinear Science and Numerical Simulation* 95 (2021) 105658.  
+DOI: [10.1016/j.cnsns.2020.105658](https://doi.org/10.1016/j.cnsns.2020.105658)  
 Published: 2021. 04.
 
 1. <span style="color:#808080; font-weight: bold;">An unconditionally stable positivity-preserving scheme for the one-dimensional Fisher–Kolmogorov–Petrovsky–Piskunov equation</span>. Sangkwon Kim, Chaeyoung Lee, Hyun Geun Lee, Hyundong Kim, **Soobin Kwak**, Youngjin Hwang, Seungyoon Kang, Seokjun Ham, Junseok Kim. *Discrete Dynamics in Nature and Society* 2021 (2021) 7300471. [DOI](https://doi.org/10.1155/2021/7300471) [[PDF]](../papers/Discrete Dynamics in Nature and Society - 2021 - Kim - An Unconditionally Stable Positivity‐Preserving Scheme for the.pdf)  
@@ -253,37 +255,37 @@ Accepted
 
 ### ESCI / SCOPUS
 
-1. <span style="color:#808080; font-weight: bold;">Controlling COVID-19 outbreaks with financial incentives</span>. Chaeyoung Lee, **Soobin Kwak**, Junseok Kim. *International Journal of Environmental Research and Public Health* 18(2) (2021) 724 1–13. [DOI](https://doi.org/10.3390/ijerph18020724) [[PDF]](../papers/ijerph-18-00724-v2.pdf)  
+2. <span style="color:#808080; font-weight: bold;">Controlling COVID-19 outbreaks with financial incentives</span>. Chaeyoung Lee, **Soobin Kwak**, Junseok Kim. *International Journal of Environmental Research and Public Health* 18(2) (2021) 724 1–13. [DOI](https://doi.org/10.3390/ijerph18020724) [[PDF]](../papers/ijerph-18-00724-v2.pdf)  
 Published: 2021. 01. 15.
 
-1. <span style="color:#808080; font-weight: bold;">Fast pricing of four asset equity-linked securities using Brownian bridge</span>. Changwoo Yoo, Yongho Choi, Sangkwon Kim, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Journal of the Korean Society for Industrial and Applied Mathematics* 25(3) (2021) 82–92. [DOI](https://doi.org/10.12941/jksiam.2021.25.082) [[PDF]](../papers/jksiam.2021.25.082.pdf)  
+2. <span style="color:#808080; font-weight: bold;">Fast pricing of four asset equity-linked securities using Brownian bridge</span>. Changwoo Yoo, Yongho Choi, Sangkwon Kim, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Journal of the Korean Society for Industrial and Applied Mathematics* 25(3) (2021) 82–92. [DOI](https://doi.org/10.12941/jksiam.2021.25.082) [[PDF]](../papers/jksiam.2021.25.082.pdf)  
 Published: 2021. 09. 25.
 
-1. <span style="color:#808080; font-weight: bold;">Efficient and accurate finite difference method for the four underlying asset ELS</span>. Hyeongseok Hwang, Yongho Choi, **Soobin Kwak**, Youngjin Hwang, Sangkwon Kim, Junseok Kim. *Journal of the Korean Society of Mathematical Education Series B-Theoretical Matheamtics and Pedagogical MatheMatics* 28(4) (2021) 329–341. [DOI](https://doi.org/10.7468/jksmeb.2021.28.4.329) [[PDF]](../papers/jksmeb.2021.28.4.329.pdf)  
+2. <span style="color:#808080; font-weight: bold;">Efficient and accurate finite difference method for the four underlying asset ELS</span>. Hyeongseok Hwang, Yongho Choi, **Soobin Kwak**, Youngjin Hwang, Sangkwon Kim, Junseok Kim. *Journal of the Korean Society of Mathematical Education Series B-Theoretical Matheamtics and Pedagogical MatheMatics* 28(4) (2021) 329–341. [DOI](https://doi.org/10.7468/jksmeb.2021.28.4.329) [[PDF]](../papers/jksmeb.2021.28.4.329.pdf)  
 Published: 2021. 11. 30.
 
-1. <span style="color:#808080; font-weight: bold;">Nonuniform finite difference scheme for the three-dimensional time-fractional Black–Scholes equation</span>. Sangkwon Kim, Chaeyoung Lee, Wonjin Lee, **Soobin Kwak**, Darae Jeong, Junseok Kim. *Journal of Function Spaces* 2021 (2021) 9984473. [DOI](https://doi.org/10.1155/2021/9984473) [[PDF]](../papers/Journal of Function Spaces - 2021 - Kim - Nonuniform Finite Difference Scheme for the Three‐Dimensional Time‐Fractional.pdf)  
+2. <span style="color:#808080; font-weight: bold;">Nonuniform finite difference scheme for the three-dimensional time-fractional Black–Scholes equation</span>. Sangkwon Kim, Chaeyoung Lee, Wonjin Lee, **Soobin Kwak**, Darae Jeong, Junseok Kim. *Journal of Function Spaces* 2021 (2021) 9984473. [DOI](https://doi.org/10.1155/2021/9984473) [[PDF]](../papers/Journal of Function Spaces - 2021 - Kim - Nonuniform Finite Difference Scheme for the Three‐Dimensional Time‐Fractional.pdf)  
 Published: 2021. 12. 24.
 
-1. <span style="color:#808080; font-weight: bold;">Linear Stability Analysis of the Cahn–Hilliard Equation in Spinodal Region</span>. Seokjun Ham, Darae Jeong, Hyundong Kim, Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Journal of Function Spaces* 2022 (2022) 2970876. [DOI](https://doi.org/10.1155/2022/2970876) [[PDF]](../papers/Journal of Function Spaces - 2022 - Ham - Linear Stability Analysis of the Cahn Hilliard Equation in Spinodal Region.pdf)  
+2. <span style="color:#808080; font-weight: bold;">Linear Stability Analysis of the Cahn–Hilliard Equation in Spinodal Region</span>. Seokjun Ham, Darae Jeong, Hyundong Kim, Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Journal of Function Spaces* 2022 (2022) 2970876. [DOI](https://doi.org/10.1155/2022/2970876) [[PDF]](../papers/Journal of Function Spaces - 2022 - Ham - Linear Stability Analysis of the Cahn Hilliard Equation in Spinodal Region.pdf)  
 Published: 2022. 06. 24.
 
-1. <span style="color:#808080; font-weight: bold;">An adaptive time-stepping algorithm for the Allen–Cahn equation</span>. Chaeyoung Lee, Jintae Park, **Soobin Kwak**, Sangkwon Kim, Yongho Choi, Seokjun Ham, Junseok Kim. *Journal of Function Spaces* 2022 (2022) 2731593. [DOI](https://doi.org/10.1155/2022/2731593) [[PDF]](../papers/Journal of Function Spaces - 2022 - Lee - An Adaptive Time‐Stepping Algorithm for the Allen Cahn Equation.pdf)  
+2. <span style="color:#808080; font-weight: bold;">An adaptive time-stepping algorithm for the Allen–Cahn equation</span>. Chaeyoung Lee, Jintae Park, **Soobin Kwak**, Sangkwon Kim, Yongho Choi, Seokjun Ham, Junseok Kim. *Journal of Function Spaces* 2022 (2022) 2731593. [DOI](https://doi.org/10.1155/2022/2731593) [[PDF]](../papers/Journal of Function Spaces - 2022 - Lee - An Adaptive Time‐Stepping Algorithm for the Allen Cahn Equation.pdf)  
 Published: 2022. 07. 16.
 
-1. <span style="color:#808080; font-weight: bold;">Numerical study of an indicator function for front-tracking methods</span>. Darae Jeong, Seokjun Ham, Junxiang Yang, Youngjin Hwang, **Soobin Kwak**, Haobo Hua, Xuan Xin, Junseok Kim. *Mathematical Problems in Engineering* 2022 (2022) 7381115. [DOI](https://doi.org/10.1155/2022/7381115) [[PDF]](../papers/Mathematical Problems in Engineering - 2022 - Jeong - Numerical Study of an Indicator Function for Front‐Tracking Methods.pdf)  
+2. <span style="color:#808080; font-weight: bold;">Numerical study of an indicator function for front-tracking methods</span>. Darae Jeong, Seokjun Ham, Junxiang Yang, Youngjin Hwang, **Soobin Kwak**, Haobo Hua, Xuan Xin, Junseok Kim. *Mathematical Problems in Engineering* 2022 (2022) 7381115. [DOI](https://doi.org/10.1155/2022/7381115) [[PDF]](../papers/Mathematical Problems in Engineering - 2022 - Jeong - Numerical Study of an Indicator Function for Front‐Tracking Methods.pdf)  
 Published: 2022. 07. 31.
 
-1. <span style="color:#808080; font-weight: bold;">Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives</span>. Sangkwon Kim, Youngjin Hwang, Chaeyoung Lee, **Soobin Kwak**, Junseok Kim. *International Journal of Environmental Research and Public Health* 20(2) (2023) 1217. [DOI](https://doi.org/10.3390/ijerph20021217) [[PDF]](../papers/ijerph-20-01217-v2.pdf)  
+2. <span style="color:#808080; font-weight: bold;">Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives</span>. Sangkwon Kim, Youngjin Hwang, Chaeyoung Lee, **Soobin Kwak**, Junseok Kim. *International Journal of Environmental Research and Public Health* 20(2) (2023) 1217. [DOI](https://doi.org/10.3390/ijerph20021217) [[PDF]](../papers/ijerph-20-01217-v2.pdf)  
 Published: 2023. 01.
 
-1. <span style="color:#808080; font-weight: bold;">An efficient and accurate adaptive time-stepping method for the Black–Scholes equations</span>. Hyeongseok Hwang, **Soobin Kwak**, Yunjae Nam, Seokjun Ham, Zhengang Li, Hyundong Kim, Junseok Kim. *Journal of the Korean Society for Industrial and Applied Mathematics* 28(3) (2024) 88–95. [DOI](https://doi.org/10.12941/jksiam.2024.28.088) [[PDF]](../papers/jksiam.2024.28.088.pdf)  
+2. <span style="color:#808080; font-weight: bold;">An efficient and accurate adaptive time-stepping method for the Black–Scholes equations</span>. Hyeongseok Hwang, **Soobin Kwak**, Yunjae Nam, Seokjun Ham, Zhengang Li, Hyundong Kim, Junseok Kim. *Journal of the Korean Society for Industrial and Applied Mathematics* 28(3) (2024) 88–95. [DOI](https://doi.org/10.12941/jksiam.2024.28.088) [[PDF]](../papers/jksiam.2024.28.088.pdf)  
 Published: 2024. 09. 25.
 
-1. <span style="color:#808080; font-weight: bold;">An efficient and accurate adaptive time-stepping method for the Landau–Lifshitz equation</span>. Hyundong Kim, **Soobin Kwak**, Moumni Mohammed, Seungyoon Kang, Seokjun Ham, Junseok Kim. *Algorithms* 18(1) (2025) 1. [DOI](https://doi.org/10.3390/a18010001) [[PDF]](../papers/algorithms-18-00001.pdf)  
+2. <span style="color:#808080; font-weight: bold;">An efficient and accurate adaptive time-stepping method for the Landau–Lifshitz equation</span>. Hyundong Kim, **Soobin Kwak**, Moumni Mohammed, Seungyoon Kang, Seokjun Ham, Junseok Kim. *Algorithms* 18(1) (2025) 1. [DOI](https://doi.org/10.3390/a18010001) [[PDF]](../papers/algorithms-18-00001.pdf)  
 Published: 2025. 01.
 
-1. <span style="color:#808080; font-weight: bold;">Practical implementation of boundary conditions in the Thomas algorithm</span>. **Soobin Kwak**. *Journal of the Korean Society for Industrial and Applied Mathematics* 29(2) (2025) 171–183. [DOI](https://doi.org/10.12941/jksiam.2025.29.171) [[PDF]](../papers/jksiam.2025.29.171.pdf)  
+2. <span style="color:#808080; font-weight: bold;">Practical implementation of boundary conditions in the Thomas algorithm</span>. **Soobin Kwak**. *Journal of the Korean Society for Industrial and Applied Mathematics* 29(2) (2025) 171–183. [DOI](https://doi.org/10.12941/jksiam.2025.29.171) [[PDF]](../papers/jksiam.2025.29.171.pdf)  
 Published: 2025. 06. 25.
 
 ---
