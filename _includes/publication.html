@@ -1,19 +1,34 @@
 <li>
-	<span class="pub-title">
-		{% if include.pub.pdf %}
-			<a href="../papers/{{ include.pub.pdf }}.pdf">{{ include.pub.title }}</a>
-		{% else %}
-			{{ include.pub.title }}.
-		{% endif %}
-	</span><br>
-	{{ include.pub.authors }}. <em>{{ include.pub.journal }}</em> {{ include.pub.volume }} ({{ include.pub.year }}) {{ include.pub.pages }}. 
-	{% if include.pub.doi %}
-		DOI: <a href="https://doi.org/{{ include.pub.doi }}">{{ include.pub.doi }}</a>
-	{% endif %}<br>
-	<span class="pub-meta">
-		{% if include.pub.doi %}
+	{% if include.pub.volume %}
+		<span class="pub-title">
+			{% if include.pub.pdf %}
+				<a href="../papers/{{ include.pub.pdf }}.pdf">{{ include.pub.title }}</a>.
+			{% else %}
+				{{ include.pub.title }}.
+			{% endif %}
+		</span><br>
+		{{ include.pub.authors }}. <em>{{ include.pub.journal }}</em> {{ include.pub.volume }} ({{ include.pub.year }}) {{ include.pub.pages }}. DOI: <a href="https://doi.org/{{ include.pub.doi }}">{{ include.pub.doi }}</a><br>
+		<span class="pub-meta">
 			Published: {{ include.pub.published }}
-		{% else %}
-			Accepted
-	</span>
+		</span>
+	{% else %}
+		<span class="pub-title">
+			{% if include.pub.pdf %}
+				<a href="../papers/{{ include.pub.pdf }}.pdf">{{ include.pub.title }}</a>.
+			{% else %}
+				{{ include.pub.title }}.
+			{% endif %}
+		</span><br>
+		{{ include.pub.authors }}. <em>{{ include.pub.journal }}</em> 
+		{% if include.pub.doi %}
+			DOI: <a href="https://doi.org/{{ include.pub.doi }}">{{ include.pub.doi }}</a>
+		{% endif %}<br>
+		<span class="pub-meta">
+			{% if include.pub.published %}
+				Published: {{ include.pub.published }}
+			{% else %}
+				Accepted
+			{% endif %}
+		</span>
+	{% endif %}
 </li>
