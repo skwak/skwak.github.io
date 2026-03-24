@@ -1,0 +1,840 @@
+
+- title: An unconditionally stable splitting method for the Allen–Cahn equation with logarithmic free energy
+  authors: Jintae Park, Chaeyoung Lee, Yongho Choi, Hyun Geun Lee, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim.
+  journal: Journal of Engineering Mathematics
+  volume: 132(1)
+  year: 2022
+  pages: 18
+  doi: 10.1007/s10665-021-10203-6
+  pdf: s10665-021-10203-6  
+  published: 2022. 02.
+
+- title: Unconditionally stable second-order accurate scheme for a parabolic sine-Gordon equationsSeokjun Ham, Youngjin Hwang, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: AIP Advances
+  volume: 12(2)
+  year: 2022
+  pages: 25203
+  doi: 10.1063/5.0081229
+  pdf: 025203_1_online  
+  published: 2022. 02. 01.
+
+- title: An explicit conservative Saul'yev scheme for the Cahn–Hilliard equation
+  authors: Junxiang Yang, Yibao Li, Chaeyoung Lee, Hyun Geun Lee, <strong>Soobin Kwak</strong>, Youngjin Hwang, Xuan Xin, Junseok Kim.
+  journal: International Journal of Mechanical Sciences
+  volume: 217
+  year: 2022
+  pages: 106985
+  doi: 10.1016/j.ijmecsci.2021.106985
+  pdf: 1-s2.0-S0020740321006913-main  
+  published: 2022. 03. 01.
+
+- title: A conservative Allen–Cahn equation with a curvature-dependent Lagrange multiplier
+  authors: <strong>Soobin Kwak</strong>, Junxiang Yang, Junseok Kim.
+  journal: Applied Mathematics Letters
+  volume: 126
+  year: 2022
+  pages: 107838
+  doi: 10.1016/j.aml.2021.107838
+  pdf: 1-s2.0-S0893965921004559-main  
+  published: 2022. 04.
+
+- title: Finite volume scheme for the lattice Boltzmann method on curved surfaces in 3D
+  authors: Junxiang Yang, Zhijun Tan, Sangkwon Kim, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Engineering with Computers
+  volume: 38(6)
+  year: 2022
+  pages: 5507-5518
+  doi: 10.1007/s00366-022-01671-0
+  pdf: s00366-022-01671-0
+  published: 2022. 05.
+
+- title: Calibration of the temporally varying volatility and interest rate functions
+  authors: Eunchae Park, Jisang Lyu, Sangkwon Kim, Chaeyoung Lee, Wonjin Lee, Yongho Choi, <strong>Soobin Kwak</strong>, Changwoo Yoo, Hyeongseok Hwang, Junseok Kim.
+  journal: International Journal of Computer Mathematics
+  volume: 99(5)
+  year: 2022
+  pages: 1066–1079
+  doi: 10.1080/00207160.2021.1948539
+  pdf: Calibration of the temporally varying volatility and interest rate functions  
+  published: 2022. 05. 04.
+
+- title: Classification of ternary data using the ternary Allen–Cahn system for small datasets
+  authors: Donghun Lee, Sangkwon Kim, Hyun Geun Lee, <strong>Soobin Kwak</strong>, Jian Wang, Junseok Kim.
+  journal: AIP Advances
+  volume: 12(6)
+  year: 2022
+  pages: 65324
+  doi: 10.1063/5.0094551
+  pdf: 065324_1_online  
+  published: 2022. 06.
+
+- title: Numerical simulation of the coffee-ring effect inside containers with time-dependent evaporation rate
+  authors: Hyundong Kim, Junxiang Yang, Sangkwon Kim, Chaeyoung Lee, Sungha Yoon, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Theoretical and Computational Fluid Dynamics
+  volume: 36(3)
+  year: 2022
+  pages: 423–433.
+  doi: 10.1007/s00162-021-00602-x
+  pdf: s00162-021-00602-x  
+  published: 2022. 06.
+  <!-- MDPI paper - title: Reconstructing the local volatility surface from market option prices
+  authors: <strong>Soobin Kwak</strong>, Youngjin Hwang, Yongho Choi, Jian Wang, Sangkwon Kim, Junseok Kim.
+  journal: Mathematics
+  volume: 10(14)
+  year: 2022
+  pages: 2537. 
+  doi: 10.3390/math10142537)
+  pdf: mathematics-10-02537-v2    published: 2022. 07.-->
+
+- title: Motion by mean curvature with constraints using a modified Allen–Cahn equation
+  authors: <strong>Soobin Kwak</strong>, Hyun Geun Lee, Yibao Li, Junxiang Yang, Chaeyoung Lee, Hyundong Kim, Seungyoon Kang, Junseok Kim.
+  journal: Journal of Scientific Computing
+  volume: 92(1)
+  year: 2022
+  pages: 16
+  doi: 10.1007/s10915-022-01862-3
+  pdf: s10915-022-01862-3  
+  published: 2022. 07.
+
+- title: Effective time step analysis for the Allen–Cahn equation with a high-order polynomial free energy
+  authors: Seunggyu Lee, Sungha Yoon, Chaeyoung Lee, Sangkwon Kim, Hyundong Kim, Junxiang Yang, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim.
+  journal: International Journal for Numerical Methods in Engineering
+  volume: 123(19)
+  year: 2022
+  pages: 4726–4743
+  doi: 10.1002/nme.7053
+  pdf: Numerical Meth Engineering - 2022 - Lee - Effective time step analysis for the Allen Cahn equation with a high‐order  
+  published: 2022. 10. 15.
+
+- title: Phase-field computations of anisotropic ice crystal growth on a spherical surface
+  authors: Chaeyoung Lee, Sungha Yoon, Jintae Park, Hyundong Kim, Yibao Li, Darae Jeong, Sangkwon Kim, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Computers and Mathematics with Applications
+  volume: 125
+  year: 2022
+  pages: 25–33
+  doi: 10.1016/j.camwa.2022.08.035
+  pdf: 1-s2.0-S0898122122003613-main  
+  published: 2022. 11. 01.
+
+- title: Weighted 3D volume reconstruction from series of slice data using a modified Allen–Cahn equation
+  authors: Yibao Li, Xin Song, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Pattern Recognition
+  volume: 132
+  year: 2022
+  pages: 108914
+  doi: 10.1016/j.patcog.2022.108914
+  pdf: 1-s2.0-S0031320322003958-main  
+  published: 2022. 12.
+
+- title: An explicit adaptive finite difference method for the Cahn–Hilliard equation
+  authors: Seokjun Ham, Yibao Li, Darae Jeong, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim.
+  journal: Journal of Nonlinear Science
+  volume: 32(6)
+  year: 2022
+  pages: 80
+  doi: 10.1007/s00332-022-09844-3
+  pdf: s00332-022-09844-3  
+  published: 2022. 12.
+
+- title: Three-dimensional volume reconstruction from multi-slice data using a shape transformation
+  authors: Hyundong Kim, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Youngjin Hwang, Sangkwon Kim, Yongho Choi, Junseok Kim.
+  journal: Computers and Mathematics with Applications
+  volume: 113
+  year: 2022
+  pages: 52–58
+  doi: 10.1016/j.camwa.2022.03.018
+  pdf: 1-s2.0-S0898122122001031-main  
+  published: 2022. 12.
+  <!-- MDPI paper - title: Optimal orientation of solar panels for multi-apartment buildings
+  authors: Sungha Yoon, Jintae Park, Chaeyoung Lee, Sangkwon Kim, Yongho Choi, <strong>Soobin Kwak</strong>, Hyundong Kim, Junseok Kim .
+  journal: Mathematics
+  volume: 11(4)
+  year: 2023
+  pages: 938. 
+  doi: 10.3390/math11040938)
+  pdf: mathematics-11-00938-v2    published: 2023. 02.-->
+
+- title: Accurate and efficient finite difference method for the Black–Scholes model with no far-field boundary conditions
+  authors: Chaeyoung Lee, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim.
+  journal: Computational Economics
+  volume: 61(3)
+  year: 2023
+  pages: 1207–1224
+  doi: 10.1007/s10614-022-10242-w
+  pdf:
+  published: 2023. 03.
+
+- title: A phase-field model without artificial curvature effect for the crystal growth simulation
+  authors: Yibao Li, Qian Yu, Seokjun Ham, <strong>Soobin Kwak</strong>, Chaeyoung Lee, Junseok Kim.
+  journal: International Journal of Heat and Mass Transfer
+  volume: 203
+  year: 2023
+  pages: 123847
+  doi: 10.1016/j.ijheatmasstransfer.2023.123847
+  pdf: 1-s2.0-S0017931023000030-main  
+  published: 2023. 04.
+
+- title: A second-order time-accurate unconditionally stable method for a gradient flow for the Modica–Mortola functional
+  authors: Seokjun Ham, <strong>Soobin Kwak</strong>, Chaeyoung Lee, Gyeonggyu Lee, Junseok Kim.
+  journal: Journal of Scientific Computing
+  volume: 95(2)
+  year: 2023
+  pages: 63
+  doi: 10.1007/s10915-023-02198-2
+  pdf: s10915-023-02198-2  
+  published: 2023. 05.
+
+- title: Estimation and prediction of the multiply exponentially decaying daily case fatality rate of COVID-19
+  authors: <strong>Soobin Kwak</strong>, Seokjun Ham, Youngjin Hwang, Junseok Kim.
+  journal: Journal of Supercomputing
+  volume: 79(10)
+  year: 2023
+  pages: 11159–11169
+  doi: 10.1007/s11227-023-05119-0
+  pdf: s11227-023-05119-0  
+  published: 2023. 07.
+
+- title: Unconditionally stable monte carlo simulation for solving the multi-dimensional Allen–Cahn equation
+  authors: Youngjin Hwang, Ildoo Kim, <strong>Soobin Kwak</strong>, Seokjun Ham, Sangkwon Kim, Junseok Kim.
+  journal: Electronic Research Archive
+  volume: 31(8)
+  year: 2023
+  pages: 5104–5123
+  doi: 10.3934/era.2023261
+  pdf: 10.3934_era.2023261  
+  published: 2023. 07. 17.
+
+- title: An unconditionally stable difference scheme for the two-dimensional modified Fisher–Kolmogorov–Petrovsky–Piscounov equation
+  authors: <strong>Soobin Kwak</strong>, Seungyoon Kang, Seokjun Ham, Youngjin Hwang, Gyeonggyu Lee, Junseok Kim.
+  journal: Journal of Mathematics
+  volume: 2023
+  year: 2023
+  pages: 5527728
+  doi: 10.1155/2023/5527728
+  pdf: Journal of Mathematics - 2023 - Kwak - An Unconditionally Stable Difference Scheme for the Two‐Dimensional Modified Fisher  
+  published: 2023. 07. 25.
+
+- title: A maximum principle of the Fourier spectral method for diffusion equations
+  authors: Junseok Kim, <strong>Soobin Kwak</strong>, Hyun Geun Lee, Youngjin Hwang, Seokjun Ham.
+  journal: Electronic Research Archive
+  volume: 31(9)
+  year: 2023
+  pages: 5396–5405
+  doi: 10.3934/ERA.2023273
+  pdf: 10.3934_era.2023273  
+  published: 2023. 07. 31.
+
+- title: Semi-automatic fingerprint image restoration algorithm using a partial differential equation
+  authors: Chaeyoung Lee, Sangkwon Kim, <strong>Soobin Kwak</strong>, Youngjin Hwang, Seokjun Ham, Seungyoon Kang, Junseok Kim.
+  journal: AIMS Mathematics
+  volume: 8(11)
+  year: 2023
+  pages: 27528–27541
+  doi: 10.3934/math.20231408
+  pdf: 10.3934_math.20231408  
+  published: 2023. 09. 27.
+
+- title: Monte Carlo simulation of the coffee-ring effect on porous papers
+  authors: Youngjin Hwang, Sangkwon Kim, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Gyeonggyu Lee, Junseok Kim.
+  journal: Theoretical and Computational Fluid Dynamics
+  volume: 37(5)
+  year: 2023
+  pages: 627–637
+  doi: 10.1007/s00162-023-00662-1
+  pdf: s00162-023-00662-1  
+  published: 2023. 10.
+
+- title: An explicit fourth-order accurate compact method for the Allen–Cahn equation
+  authors: Chaeyoung Lee, Seokjun Ham, Youngjin Hwang, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: AIMS Mathematics
+  volume: 9(1)
+  year: 2024
+  pages: 735–762
+  doi: 10.3934/math.2024038
+  pdf: 10.3934_math.2024038  
+  published: 2023. 12. 04.
+
+- title: Fast and efficient numerical method for solving the Allen–Cahn equation on the cubic surface
+  authors: Youngjin Hwang, Junxiang Yang, Gyeongyu Lee, Seokjun Ham, Seungyoon Kang, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Mathematics and Computers in Simulation
+  volume: 215
+  year: 2024
+  pages: 338–356
+  doi: 10.1016/j.matcom.2023.07.024
+  pdf: 1-s2.0-S0378475423003191-main  
+  published: 2024. 01.
+
+- title: A fast and efficient numerical algorithm for image segmentation and denoising
+  authors: Yuzi Jin, <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+  journal: AIMS Mathematics
+  volume: 9(2)
+  year: 2024
+  pages: 5015–5027
+  doi: 10.3934/math.2024243
+  pdf: 10.3934_math.2024243  
+  published: 2024. 01. 24.
+
+- title: An efficient and fast adaptive numerical method for a novel phase-field model of crystal growth
+  authors: Seokjun Ham, Yibao Li, <strong>Soobin Kwak</strong>, Darae Jeong, Junseok Kim.
+  journal: Communications in Nonlinear Science and Numerical Simulation
+  volume: 131
+  year: 2024
+  pages: 107822
+  doi: 10.1016/j.cnsns.2024.107822
+  pdf: 1-s2.0-S100757042400008X-main  
+  published: 2024. 04.
+
+- title: The Allen–Cahn equation with a space-dependent mobility and a source term for general motion by mean curvature
+  authors: Junxiang Yang, Seungyoon Kang, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Journal of Computational Science
+  volume: 77
+  year: 2024
+  pages: 102252
+  doi: 10.1016/j.jocs.2024.102252
+  pdf: 1-s2.0-S1877750324000450-main  
+  published: 2024. 04.
+
+- title: Dispersion and Phase Exchange Process of Chemically Reactive Solute Through Circular Tube
+  authors: Jyoti, <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+  journal: Journal of Applied Fluid Mechanics
+  volume: 17(4)
+  year: 2024
+  pages: 726–741
+  doi: 10.47176/jafm.17.4.2305
+  pdf: JAFM_Volume 17_Issue 4_Pages 726-741  
+  published: 2024. 04.
+
+- title: The Allen–Cahn model with a time-dependent parameter for motion by mean curvature up to the singularity
+  authors: Junxiang Yang, Dongsun Lee, <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+  journal: Chaos, Solitons and Fractals
+  volume: 182
+  year: 2024
+  pages: 114803
+  doi: 10.1016/j.chaos.2024.114803
+  pdf: 1-s2.0-S0960077924003552-main  
+  published: 2024. 05.
+
+- title: A practical algorithm for the design of multiple-sized porous scaffolds with triply periodic structures
+  authors: Yibao Li, Qing Xia, Seungyoon Kang, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Mathematics and Computers in Simulation
+  volume: 220
+  year: 2024
+  pages: 481–495
+  doi: 10.1016/j.matcom.2024.02.004
+  pdf: 1-s2.0-S0378475424000521-main  
+  published: 2024. 06.
+
+- title: Stability analysis of an explicit numerical scheme for the Allen–Cahn equation with high-order polynomial potentials
+  authors: Jaeyong Choi, Seokjun Ham, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim.
+  journal: AIMS Mathematics
+  volume: 9(7)
+  year: 2024
+  pages: 19332–19344
+  doi: 10.3934/math.2024941
+  pdf: 10.3934_math.2024941  
+  published: 2024. 06. 11.
+
+- title: Robust and accurate reconstruction of the time-dependent continuous volatility from option prices
+  authors: Youngjin Hwang, Taehee Lee, <strong>Soobin Kwak</strong>, Seungyoon Kang, Seokjun Ham, Junseok Kim.
+  journal: Computational and Applied Mathematics
+  volume: 43(5)
+  year: 2024
+  pages: 307
+  doi: 10.1007/s40314-024-02837-w
+  pdf: s40314-024-02837-w  
+  published: 2024. 07.
+
+- title: Analysis of the effect of inert gas on alveolar/venous blood partial pressure by using the operator splitting method
+  authors: Jyoti, <strong>Soobin Kwak</strong>, Seokjun Ham, Youngjin Hwang, Seungyoon Kang, Junseok Kim.
+  journal: International Journal for Numerical Methods in Biomedical Engineering
+  volume: 40(8)
+  year: 2024
+  pages: e3839. 
+  doi: 10.1002/cnm.3839
+  pdf: Numer Methods Biomed Eng - 2024 - Jyoti - Analysis of the effect of inert gas on alveolar venous blood partial pressure by  
+  published: 2024. 08.
+
+- title: Lattice Boltzmann method for variable viscous fluid flow on spherical surface
+  authors: Junxiang Yang, Seungyoon Kang, Youngjin Hwang, <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+  journal: Engineering Analysis with Boundary Elements
+  volume: 165
+  year: 2024
+  pages: 105781
+  doi: 10.1016/j.enganabound.2024.105781
+  pdf: 1-s2.0-S095579972400256X-main  
+  published: 2024. 08.
+
+- title: An operator splitting method for the Cahn–Hilliard equation on nonuniform grids
+  authors: Gyeonggyu Lee, <strong>Soobin Kwak</strong>, Yongho Choi, Seunggyu Lee, Seungyoon Kang, Seokjun Ham, Junseok Kim.
+  journal: Computers and Mathematics with Applications
+  volume: 167
+  year: 2024
+  pages: 207–216
+  doi: 10.1016/j.camwa.2024.05.021
+  pdf: 1-s2.0-S0898122124002402-main  
+  published: 2024. 08. 01.
+
+- title: Optimal time-dependent SUC model for COVID-19 pandemic in India
+  authors: Youngjin Hwang, <strong>Soobin Kwak</strong>, Jyoti, Junseok Kim.
+  journal: BMC Infectious Diseases
+  volume: 24(1)
+  year: 2024
+  pages: 1031
+  doi: 10.1186/s12879-024-09961-2
+  pdf: s12879-024-09961-2  
+  published: 2024. 09. 27.
+
+- title: A structure-preserving explicit numerical scheme for the Allen–Cahn equation with a logarithmic potential
+  authors: Seokjun Ham, Jaeyong Choi, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Journal of Mathematical Analysis and Applications
+  volume: 538(1)
+  year: 2024
+  pages: 128425
+  doi: 10.1016/j.jmaa.2024.128425
+  pdf: 1-s2.0-S0022247X24003470-main  
+  published: 2024. 10. 01.
+
+- title: In silico investigation of the formation of multiple intense zebra stripes using extending domain
+  authors: Hyundong Kim, Jyoti, <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+  journal: Mathematics and Computers in Simulation
+  volume: 225
+  year: 2024
+  pages: 648-658
+  doi: 10.1016/j.matcom.2024.06.010
+  pdf: 1-s2.0-S0378475424002210-main  
+  published: 2024. 11.
+
+- title: A modified Allen–Cahn equation with a mesh size-dependent interfacial parameter on a triangular mesh
+  authors: Junxiang Yang, Jian Wang, <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+  journal: Computer Physics Communications
+  volume: 304
+  year: 2024
+  pages: 109301
+  doi: 10.1016/j.cpc.2024.109301
+  pdf: 1-s2.0-S0010465524002248-main  
+  published: 2024. 11.
+
+- title: Global stability analysis of an extended SUC epidemic mathematical model
+  authors: Mengxin Chen, <strong>Soobin Kwak</strong>, Seokjun Ham, Youngjin Hwang, Junseok Kim.
+  journal: Zeitschrift fur Naturforschung - Section A Journal of Physical Sciences
+  volume: 79(11)
+  year: 2024
+  pages: 1033–1040
+  doi: 10.1515/zna-2024-0152
+  pdf: 10.1515_zna-2024-0152  
+  published: 2024. 11. 26.
+
+- title: An explicit numerical method for the conservative Allen–Cahn equation on a cubic surface
+  authors: Youngjin Hwang, Jyoti, <strong>Soobin Kwak</strong>, Hyundong Kim, Junseok Kim.
+  journal: AIMS Mathematics
+  volume: 9(12)
+  year: 2024
+  pages: 34447–34465
+  doi: 10.3934/math.20241641
+  pdf: 10.3934_math.20241641  
+  published: 2024. 12. 06.
+
+- title: A novel phase-field model for three-dimensional shape transformation
+  authors: Seokjun Ham, Hyundong Kim, Youngjin Hwang, <strong>Soobin Kwak</strong>, Jyoti, Jian Wang, Heming Xu, Wenjing Jiang, Junseok Kim.
+  journal: Computers and Mathematics with Applications
+  volume: 176
+  year: 2024
+  pages: 67–76
+  doi: 10.1016/j.camwa.2024.09.006
+  pdf: 1-s2.0-S0898122124004164-main  
+  published: 2024. 12. 15.
+
+- title: A cell structure implementation of the multigrid method for the two-dimensional diffusion equation
+  authors: Yongho Choi, Youngjin Hwang, <strong>Soobin Kwak</strong>, Seokjun Ham, Jyoti, Hyundong Kim, Junseok Kim.
+  journal: AIP Advances
+  volume: 15(1)
+  year: 2025
+  pages: 15019
+  doi: 10.1063/5.0247042
+  pdf: 015019_1_5.0247042  
+  published: 2025. 01. 01.
+
+- title: A fourth-order finite difference method for the Allen–Cahn equation
+  authors: Seokjun Ham, Seungyoon Kang, Youngjin Hwang, Gyeonggyu Lee, <strong>Soobin Kwak</strong>, Jyoti, Junseok Kim.
+  journal: Journal of Computational and Applied Mathematics
+  volume: 453
+  year: 2025
+  pages: 116159
+  doi: 10.1016/j.cam.2024.116159
+  pdf: 1-s2.0-S0377042724004084-main  
+  published: 2025. 01. 01.
+
+- title: Fast numerical algorithm for the reaction-diffusion equations using an interpolating method
+  authors: Sungha Yoon, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Seungyoon Kang, Junseok Kim.
+  journal: Computational and Applied Mathematics
+  volume: 44(1)
+  year: 2025
+  pages: 51
+  doi: 10.1007/s40314-024-03024-7
+  pdf: s40314-024-03024-7  
+  published: 2025. 02.
+
+- title: Phase-field modeling for curvature-dependent tissue growth on surfaces
+  authors: <strong>Soobin Kwak</strong>, Yongho Choi, Jian Wang, Yunjae Nam, Junseok Kim.
+  journal: Engineering Analysis with Boundary Elements
+  volume: 171
+  year: 2025
+  pages: 106090
+  doi: 10.1016/j.enganabound.2024.106090
+  pdf: 1-s2.0-S0955799724005630-main  
+  published: 2025. 02.
+
+- title: Designing team projects for envy-free group collaboration to overcome free-rider problem
+  authors: Mengyu Luo, Chaeyoung Lee, Jian Wang, <strong>Soobin Kwak</strong>, Hyundong Kim, Junseok Kim.
+  journal: Discrete Dynamics in Nature and Society
+  volume: 2025(1)
+  year: 2025
+  pages: 3370833
+  doi: 10.1155/ddns/3370833
+  pdf: Discrete Dynamics in Nature and Society - 2025 - Luo - Designing Team Projects for Envy‐Free Group Collaboration to  
+  published: 2025. 02. 22.
+
+- title: Calibration of local volatility surfaces from observed market call and put option prices
+  authors: Changwoo Yoo, <strong>Soobin Kwak</strong>, Youngjin Hwang, Hanbyeol Jang, Hyundong Kim, Junseok Kim.
+  journal: Computational Economics
+  volume: 65(3)
+  year: 2025
+  pages: 115010 1147–1168
+  doi: 10.1007/s10614-024-10590-9
+  pdf:
+  published: 2025. 03.
+
+- title: Positivity preserving and unconditionally stable numerical scheme for the three-dimensional modified Fisher–Kolmogorov–Petrovsky–Piskunov equation
+  authors: Seungyoon Kang, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim.
+  journal: Journal of Computational and Applied Mathematics
+  volume: 457
+  year: 2025
+  pages: 116273
+  doi: 10.1016/j.cam.2024.116273
+  pdf: 1-s2.0-S0377042724005223-main  
+  published: 2025. 03. 15.
+
+- title: An efficient computational method for simulating incompressible fluid flows on a virtual cubic surface
+  authors: Junxiang Yang, Seungyoon Kang, Sangkwon Kim, Youngjin Hwang, <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+  journal: Communications in Nonlinear Science and Numerical Simulation
+  volume: 144
+  year: 2025
+  pages: 108676
+  doi: 10.1016/j.cnsns.2025.108676
+  pdf: 1-s2.0-S1007570425000875-main  
+  published: 2025. 05.
+
+- title: A normalized time-fractional Korteweg–de Vries equation
+  authors: Hyun Geun Lee, <strong>Soobin Kwak</strong>, Jyoti, Yunjae Nam, Junseok Kim.
+  journal: Alexandria Engineering Journal
+  volume: 125
+  year: 2025
+  pages: 83–89
+  doi: 10.1016/j.aej.2025.03.137
+  pdf: 1-s2.0-S1110016825004442-main  
+  published: 2025. 06.
+
+- title: Computational analysis of a normalized time-fractional Fisher equation
+  authors: <strong>Soobin Kwak</strong>, Yunjae Nam, Seungyoon Kang, Junseok Kim.
+  journal: Applied Mathematics Letters
+  volume: 166
+  year: 2025
+  pages: 109542
+  doi: 10.1016/j.aml.2025.109542
+  pdf: 1-s2.0-S0893965925000928-main  
+  published: 2025. 07.
+
+- title: An efficient operator splitting method for a normalized time-fractional Allen–Cahn equation
+  authors: Jian Wang, Qin Liu, Keyong Chen, Junxiang Yang, Ziwei Han, <strong>Soobin Kwak</strong>, Yunjae Nam, Seokjun Ham, Junseok Kim.
+  journal: Fractals
+  volume: 33(9)
+  year: 2025
+  pages: 2550085
+  doi: 10.1142/S0218348X25500859
+  pdf:
+  published: 2025. 07. 07.
+
+- title: A review of the numerical methods for solving the binary Allen–Cahn equation
+  authors: Hyun Geun Lee, Yibao Li, Junxiang Yang, <strong>Soobin Kwak</strong>, Youngjin Hwang, Seokjun Ham, Hyundong Kim, Jyoti, Yunjae Nam, Junseok Kim.
+  journal: Physica A: Statistical Mechanics and its Applications
+  volume: 670
+  year: 2025
+  pages: 130625
+  doi: 10.1016/j.physa.2025.130625
+  pdf: 1-s2.0-S0378437125002778-main  
+  published: 2025. 07. 15.
+
+- title: Effective perpendicular boundary conditions in phase-field models using Dirichlet boundary conditions
+  authors: <strong>Soobin Kwak</strong>, Seokjun Ham, Jian Wang, Hyundong Kim, Junseok Kim.
+  journal: Engineering with Computers
+  volume: 41(4)
+  year: 2025
+  pages: 2377–2392
+  doi: 10.1007/s00366-025-02109-z
+  pdf: s00366-025-02109-z  
+  published: 2025. 08.
+
+- title: Simulation of dendritic growth on a spherical surface using a multi-component phase-field model
+  authors: Sangkwon Kim, <strong>Soobin Kwak</strong>, Seokjun Ham, Youngjin Hwang, Junseok Kim.
+  journal: International Communications in Heat and Mass Transfer
+  volume: 167
+  year: 2025
+  pages: 109195
+  doi: 10.1016/j.icheatmasstransfer.2025.109195
+  pdf: 1-s2.0-S0735193325006219-main  
+  published: 2025. 09.
+
+- title: The normalized time-fractional Cahn–Hilliard equation
+  authors: Hyun Geun Lee, <strong>Soobin Kwak</strong>, Seokjun Ham, Youngjin Hwang, Junseok Kim.
+  journal: Chaos, Solitons and Fractals
+  volume: 198
+  year: 2025
+  pages: 116450
+  doi: 10.1016/j.chaos.2025.116450
+  pdf: 1-s2.0-S0960077925004631-main  
+  published: 2025. 09.
+
+- title: An unconditionally stable adaptive finite difference scheme for the Allen–Cahn equation
+  authors: Hyundong Kim, Seokjun Ham, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Computer Physics Communications
+  volume: 315
+  year: 2025
+  pages: 109712
+  doi: 10.1016/j.cpc.2025.109712
+  pdf: 1-s2.0-S0010465525002140-main  
+  published: 2025. 10.
+
+- title: A second-order finite difference method for the Black–Scholes model without far-field boundary conditions
+  authors: Jian Wang, Xinpei Wu, Youngjin Hwang, Yunjae Nam, <strong>Soobin Kwak</strong>, Taehui Lee, Junseok Kim.
+  journal: Journal of Financial Stability
+  volume: 81
+  year: 2025
+  pages: 101477
+  doi: 10.1016/j.jfs.2025.101477
+  pdf: 1-s2.0-S1572308925001068-main  
+  published: 2025. 12.
+
+- title: Numerical analysis of the Allen–Cahn equation on non-uniform cell sizes
+  authors: Binhu Xia, Kun Wang, Yunjae Nam, Zhengang Li, Xinpei Wu, <strong>Soobin Kwak</strong>, Juho Ma, Junseok Kim.
+  journal: Computational and Applied Mathematics
+  volume: 45(4)
+  year: 2026
+  pages: 161
+  doi: 10.1007/s40314-025-03490-7
+  pdf: s40314-025-03490-7  
+  published: 2025. 12. 18.
+
+- title: Pinning phenomena in numerical schemes of the Allen–Cahn equation
+  authors: Junseok Kim, Zhengang Li, Xinpei Wu, <strong>Soobin Kwak</strong>.
+  journal: Computers and Mathematics with Applications
+  volume: 201
+  year: 2026
+  pages: 248–258
+  doi: 10.1016/j.camwa.2025.11.001
+  pdf: 1-s2.0-S0898122125004675-main  
+  published: 2026. 01. 01.
+
+- title: Restoration of partially damaged fingerprints using a partial differential equation
+  authors: Sangkwon Kim, Yibao Li, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: Pattern Recognition
+  volume: 172
+  year: 2026
+  pages: 112694
+  doi: 10.1016/j.patcog.2025.112694
+  pdf: 1-s2.0-S0031320325013573-main  
+  published: 2026. 04.
+
+- title: A convergent fourth-order finite difference scheme for the Black–Scholes equation
+  authors: Seungyoon Kang, <strong>Soobin Kwak</strong>, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim.
+  journal: Computational Economics
+  volume:
+  year: 2025
+  pages: 127168
+  doi: 10.1007/s10614-025-10945-w
+  pdf:
+  published: 2025. 04. (Early Access)
+
+- title: Stability analysis for maximum principle preserving explicit isotropic schemes of the Allen–Cahn equation
+  authors: Jyoti, Seokjun Ham, <strong>Soobin Kwak</strong>, Youngjin Hwang, Seungyoon Kang, Junseok Kim.
+  journal: Journal of Computational Mathematics
+  volume:
+  doi: 10.4208/jcm.2504-m2024-0106
+  pdf: jcm.2504-m2024-0106
+  pages:  
+  published: 2025. 06. 04.(Early Access)
+
+- title: Numerical simulation of a normalized time-fractional SUC epidemic model
+  authors: Chaeyoung Lee, Jyoti, <strong>Soobin Kwak</strong>, Yunjae Nam, Hyundong Kim, Junseok Kim.
+  journal: Computer Methods in Biomechanics and Biomedical Engineering
+  volume:
+  doi: 10.1080/10255842.2025.2556313
+  pdf: Numerical simulation of a normalized time-fractional SUC epidemic model  
+  published: 2025. 09.(Early Access)
+  year:
+
+- title: A positivity-preserving numerical method for the ternary  Allen–Cahn equation
+  authors: <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+  journal: Mathematical Methods in the Applied Sciences
+  volume:
+  doi: 10.1002/mma.70675
+  pdf:
+  pages:  
+
+- title: Traveling wave solutions for a normalized time-fractional predator-prey model
+  authors: Seokjun Ham, <strong>Soobin Kwak</strong>, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim.
+  journal: Indian​ ​Journal​ ​of​ ​Physics
+  volume:
+  doi:
+  pdf:
+
+---
+
+### ESCI / SCOPUS
+
+2. <span style="color:#808080; font-weight: bold;">Controlling COVID-19 outbreaks with financial incentives
+  authors: Chaeyoung Lee, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: International Journal of Environmental Research and Public Health
+  volume: 18(2)
+  year: 2021
+  pages: 724 1–13. 
+  doi: 10.3390/ijerph18020724)
+  pdf: ijerph-18-00724-v2  
+  published: 2021. 01. 15.
+
+2. <span style="color:#808080; font-weight: bold;">Fast pricing of four asset equity-linked securities using Brownian bridge
+  authors: Changwoo Yoo, Yongho Choi, Sangkwon Kim, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim.
+  journal: Journal of the Korean Society for Industrial and Applied Mathematics
+  volume: 25(3)
+  year: 2021
+  pages: 82–92. 
+  doi: 10.12941/jksiam.2021.25.082)
+  pdf: jksiam.2021.25.082  
+  published: 2021. 09. 25.
+
+2. <span style="color:#808080; font-weight: bold;">Efficient and accurate finite difference method for the four underlying asset ELS
+  authors: Hyeongseok Hwang, Yongho Choi, <strong>Soobin Kwak</strong>, Youngjin Hwang, Sangkwon Kim, Junseok Kim.
+  journal: Journal of the Korean Society of Mathematical Education Series B-Theoretical Matheamtics and Pedagogical MatheMatics
+  volume: 28(4)
+  year: 2021
+  pages: 329–341. 
+  doi: 10.7468/jksmeb.2021.28.4.329)
+  pdf: jksmeb.2021.28.4.329  
+  published: 2021. 11. 30.
+
+2. <span style="color:#808080; font-weight: bold;">Nonuniform finite difference scheme for the three-dimensional time-fractional Black–Scholes equation
+  authors: Sangkwon Kim, Chaeyoung Lee, Wonjin Lee, <strong>Soobin Kwak</strong>, Darae Jeong, Junseok Kim.
+  journal: Journal of Function Spaces
+  volume: 2021
+  year: 2021
+  pages: 9984473. 
+  doi: 10.1155/2021/9984473)
+  pdf: Journal of Function Spaces - 2021 - Kim - Nonuniform Finite Difference Scheme for the Three‐Dimensional Time‐Fractional  
+  published: 2021. 12. 24.
+
+2. <span style="color:#808080; font-weight: bold;">Linear Stability Analysis of the Cahn–Hilliard Equation in Spinodal Region
+  authors: Seokjun Ham, Darae Jeong, Hyundong Kim, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim.
+  journal: Journal of Function Spaces
+  volume: 2022
+  year: 2022
+  pages: 2970876. 
+  doi: 10.1155/2022/2970876)
+  pdf: Journal of Function Spaces - 2022 - Ham - Linear Stability Analysis of the Cahn Hilliard Equation in Spinodal Region  
+  published: 2022. 06. 24.
+
+2. <span style="color:#808080; font-weight: bold;">An adaptive time-stepping algorithm for the Allen–Cahn equation
+  authors: Chaeyoung Lee, Jintae Park, <strong>Soobin Kwak</strong>, Sangkwon Kim, Yongho Choi, Seokjun Ham, Junseok Kim.
+  journal: Journal of Function Spaces
+  volume: 2022
+  year: 2022
+  pages: 2731593. 
+  doi: 10.1155/2022/2731593)
+  pdf: Journal of Function Spaces - 2022 - Lee - An Adaptive Time‐Stepping Algorithm for the Allen Cahn Equation  
+  published: 2022. 07. 16.
+
+2. <span style="color:#808080; font-weight: bold;">Numerical study of an indicator function for front-tracking methods
+  authors: Darae Jeong, Seokjun Ham, Junxiang Yang, Youngjin Hwang, <strong>Soobin Kwak</strong>, Haobo Hua, Xuan Xin, Junseok Kim.
+  journal: Mathematical Problems in Engineering
+  volume: 2022
+  year: 2022
+  pages: 7381115. 
+  doi: 10.1155/2022/7381115)
+  pdf: Mathematical Problems in Engineering - 2022 - Jeong - Numerical Study of an Indicator Function for Front‐Tracking Methods  
+  published: 2022. 07. 31.
+
+2. <span style="color:#808080; font-weight: bold;">Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives
+  authors: Sangkwon Kim, Youngjin Hwang, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Junseok Kim.
+  journal: International Journal of Environmental Research and Public Health
+  volume: 20(2)
+  year: 2023
+  pages: 1217. 
+  doi: 10.3390/ijerph20021217)
+  pdf: ijerph-20-01217-v2  
+  published: 2023. 01.
+
+2. <span style="color:#808080; font-weight: bold;">An efficient and accurate adaptive time-stepping method for the Black–Scholes equations
+  authors: Hyeongseok Hwang, <strong>Soobin Kwak</strong>, Yunjae Nam, Seokjun Ham, Zhengang Li, Hyundong Kim, Junseok Kim.
+  journal: Journal of the Korean Society for Industrial and Applied Mathematics
+  volume: 28(3)
+  year: 2024
+  pages: 88–95. 
+  doi: 10.12941/jksiam.2024.28.088)
+  pdf: jksiam.2024.28.088  
+  published: 2024. 09. 25.
+
+2. <span style="color:#808080; font-weight: bold;">An efficient and accurate adaptive time-stepping method for the Landau–Lifshitz equation
+  authors: Hyundong Kim, <strong>Soobin Kwak</strong>, Moumni Mohammed, Seungyoon Kang, Seokjun Ham, Junseok Kim.
+  journal: Algorithms
+  volume: 18(1)
+  year: 2025
+  pages: 1. 
+  doi: 10.3390/a18010001)
+  pdf: algorithms-18-00001  
+  published: 2025. 01.
+
+2. <span style="color:#808080; font-weight: bold;">Practical implementation of boundary conditions in the Thomas algorithm
+  authors: <strong>Soobin Kwak</strong>.
+  journal: Journal of the Korean Society for Industrial and Applied Mathematics
+  volume: 29(2)
+  year: 2025
+  pages: 171–183. 
+  doi: 10.12941/jksiam.2025.29.171)
+  pdf: jksiam.2025.29.171  
+  published: 2025. 06. 25.
+
+---
+
+## Under review / Submitted papers
+
+- <span style="color:#808080; font-weight: bold;">Reconstruction of convexity-preserving local volatility functions
+  authors: Sangkwon Kim, Jian Wang, <strong>Soobin Kwak</strong>, Hyundong Kim, Yunjae Nam, Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;">A space-adaptive, unconditionally stable, and maximum bound preserving scheme for the 3D Allen–Cahn equation
+  authors: <strong>Soobin Kwak</strong>, Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;">Optimal calibration of the temporally varying volatility function
+  authors: Jian Wang, Youngjin Hwang, Hyundong Kim, <strong>Soobin Kwak</strong>, Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;">Numerical investigation of reverse equity-linked securities
+  authors: Yunjae Nam, Jian Wang, Hyundong Kim, <strong>Soobin Kwak</strong>, Minjoon Bang, Zhengang Li, Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;">An efficient finite volume lattice Boltzmann method on nonuniform triangular meshes for curved surfaces
+  authors: Youngjin Hwang, <strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;">A time-fractional diffusion model with normalization and short memory effect
+  authors: Junxiang Yang, Seokjun Ham, <strong>Soobin Kwak</strong>, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;">Modified Allen–Cahn equation for curvature-dependent tissue growth on three-dimensional surfaces
+  authors: <strong>Soobin Kwak</strong>, Yunjae Nam, Juho Ma, and Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;"> Isotropic discretization of a mathematical model for dendritic growth without artificial curvature
+  authors: Seokjun Ham, <strong>Soobin Kwak</strong>, Xinpei Wu, Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures
+  authors: Seungyoon Kang, Yibao Li, <strong>Soobin Kwak</strong>, Yongho Choi, Junseok Kim.
+
+- <span style="color:#808080; font-weight: bold;">A multigrid solver for the  Allen–Cahn equation on a virtual cubic surface
+  authors: Junxiang Yang, <strong>Soobin Kwak</strong>, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Junseok Kim.
+
+<div style="text-align: right; font-size: 0.9em; color: gray;">
+Last updated: {{ site.time | date: "%Y-%m-%d" }}
+</div>

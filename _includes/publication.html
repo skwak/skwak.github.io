@@ -11,6 +11,9 @@
 		DOI: <a href="https://doi.org/{{ include.pub.doi }}">{{ include.pub.doi }}</a>
 	{% endif %}<br>
 	<span class="pub-meta">
-    Published: {{ include.pub.published }}
+		{% if include.pub.doi %}
+			Published: {{ include.pub.published }}
+		{% else %}
+			Accepted
 	</span>
 </li>
