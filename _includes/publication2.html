@@ -3,9 +3,9 @@
 		{% if include.pub.pdf %}
 			<a href="../papers/{{ include.pub.pdf }}.pdf">{{ include.pub.title }}</a>
 		{% else %}
-			{{ include.pub.title }}.
+			{{ include.pub.title }}
 		{% endif %}
-	</span><br>
+	</span>.<br>
 	{{ include.pub.authors }}. <em>{{ include.pub.journal }}</em> {{ include.pub.volume }} ({{ include.pub.year }}) {{ include.pub.pages }}. 
 	{% if include.pub.doi %}
 		DOI: <a href="https://doi.org/{{ include.pub.doi }}">{{ include.pub.doi }}</a>

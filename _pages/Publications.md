@@ -265,6 +265,14 @@ Accepted
 
 ### ESCI / SCOPUS
 
+<ol class="publication-list" reversed>
+  {% assign pubs = site.data.publications | sort: "year" | reverse %}
+  {% for pub in pubs %}
+    {% include publication.html pub=pub %}
+  {% endfor %}
+</ol>
+
+<!--
 2. <span style="color:#808080; font-weight: bold;">Controlling COVID-19 outbreaks with financial incentives</span>. Chaeyoung Lee, **Soobin Kwak**, Junseok Kim. *International Journal of Environmental Research and Public Health* 18(2) (2021) 724 1–13. [DOI](https://doi.org/10.3390/ijerph18020724) [[PDF]](../papers/ijerph-18-00724-v2.pdf)  
 Published: 2021. 01. 15.
 
@@ -296,7 +304,7 @@ Published: 2024. 09. 25.
 Published: 2025. 01.
 
 2. <span style="color:#808080; font-weight: bold;">Practical implementation of boundary conditions in the Thomas algorithm</span>. **Soobin Kwak**. *Journal of the Korean Society for Industrial and Applied Mathematics* 29(2) (2025) 171–183. [DOI](https://doi.org/10.12941/jksiam.2025.29.171) [[PDF]](../papers/jksiam.2025.29.171.pdf)  
-Published: 2025. 06. 25.
+Published: 2025. 06. 25.-->
 
 ---
 

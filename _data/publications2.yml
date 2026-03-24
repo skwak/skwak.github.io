@@ -1,0 +1,119 @@
+#- title: 
+#  author: 
+#  journal: 
+#  volume: 
+#  year: 
+#  pages: 
+#  doi: 
+#  pdf: 
+#  published:
+
+- title: Controlling COVID-19 outbreaks with financial incentives
+  authors: Chaeyoung Lee, <strong>Soobin Kwak</strong>, Junseok Kim
+  journal: International Journal of Environmental Research and Public Health
+  volume: 18(2)
+  year: 2021
+  pages: 724 1–13
+  doi: 10.3390/ijerph18020724
+  pdf: ijerph-18-00724-v2  
+  published: 2021. 01. 15.
+
+- title: Fast pricing of four asset equity-linked securities using Brownian bridge
+  authors: Changwoo Yoo, Yongho Choi, Sangkwon Kim, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim
+  journal: Journal of the Korean Society for Industrial and Applied Mathematics
+  volume: 25(3)
+  year: 2021
+  pages: 82–92
+  doi: 10.12941/jksiam.2021.25.082
+  pdf: jksiam.2021.25.082  
+  published: 2021. 09. 25.
+
+- title: Efficient and accurate finite difference method for the four underlying asset ELS
+  authors: Hyeongseok Hwang, Yongho Choi, <strong>Soobin Kwak</strong>, Youngjin Hwang, Sangkwon Kim, Junseok Kim
+  journal: Journal of the Korean Society of Mathematical Education Series B-Theoretical Matheamtics and Pedagogical MatheMatics
+  volume: 28(4)
+  year: 2021
+  pages: 329–341
+  doi: 10.7468/jksmeb.2021.28.4.329
+  pdf: jksmeb.2021.28.4.329  
+  published: 2021. 11. 30.
+
+- title: Nonuniform finite difference scheme for the three-dimensional time-fractional Black–Scholes equation
+  authors: Sangkwon Kim, Chaeyoung Lee, Wonjin Lee, <strong>Soobin Kwak</strong>, Darae Jeong, Junseok Kim
+  journal: Journal of Function Spaces
+  volume: 2021
+  year: 2021
+  pages: 9984473
+  doi: 10.1155/2021/9984473
+  pdf: Journal of Function Spaces - 2021 - Kim - Nonuniform Finite Difference Scheme for the Three‐Dimensional Time‐Fractional  
+  published: 2021. 12. 24.
+
+- title: Linear Stability Analysis of the Cahn–Hilliard Equation in Spinodal Region
+  authors: Seokjun Ham, Darae Jeong, Hyundong Kim, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Youngjin Hwang, Junseok Kim
+  journal: Journal of Function Spaces
+  volume: 2022
+  year: 2022
+  pages: 2970876
+  doi: 10.1155/2022/2970876
+  pdf: Journal of Function Spaces - 2022 - Ham - Linear Stability Analysis of the Cahn Hilliard Equation in Spinodal Region  
+  published: 2022. 06. 24.
+
+- title: An adaptive time-stepping algorithm for the Allen–Cahn equation
+  authors: Chaeyoung Lee, Jintae Park, <strong>Soobin Kwak</strong>, Sangkwon Kim, Yongho Choi, Seokjun Ham, Junseok Kim
+  journal: Journal of Function Spaces
+  volume: 2022
+  year: 2022
+  pages: 2731593
+  doi: 10.1155/2022/2731593
+  pdf: Journal of Function Spaces - 2022 - Lee - An Adaptive Time‐Stepping Algorithm for the Allen Cahn Equation  
+  published: 2022. 07. 16.
+
+- title: Numerical study of an indicator function for front-tracking methods
+  authors: Darae Jeong, Seokjun Ham, Junxiang Yang, Youngjin Hwang, <strong>Soobin Kwak</strong>, Haobo Hua, Xuan Xin, Junseok Kim
+  journal: Mathematical Problems in Engineering
+  volume: 2022
+  year: 2022
+  pages: 7381115
+  doi: 10.1155/2022/7381115
+  pdf: Mathematical Problems in Engineering - 2022 - Jeong - Numerical Study of an Indicator Function for Front‐Tracking Methods  
+  published: 2022. 07. 31.
+
+- title: Estimation of total cost required in controlling COVID-19 outbreaks by financial incentives
+  authors: Sangkwon Kim, Youngjin Hwang, Chaeyoung Lee, <strong>Soobin Kwak</strong>, Junseok Kim
+  journal: International Journal of Environmental Research and Public Health
+  volume: 20(2)
+  year: 2023
+  pages: 1217
+  doi: 10.3390/ijerph20021217
+  pdf: ijerph-20-01217-v2  
+  published: 2023. 01.
+
+- title: An efficient and accurate adaptive time-stepping method for the Black–Scholes equations
+  authors: Hyeongseok Hwang, <strong>Soobin Kwak</strong>, Yunjae Nam, Seokjun Ham, Zhengang Li, Hyundong Kim, Junseok Kim
+  journal: Journal of the Korean Society for Industrial and Applied Mathematics
+  volume: 28(3)
+  year: 2024
+  pages: 88–95
+  doi: 10.12941/jksiam.2024.28.088
+  pdf: jksiam.2024.28.088  
+  published: 2024. 09. 25.
+
+- title: An efficient and accurate adaptive time-stepping method for the Landau–Lifshitz equation
+  authors: Hyundong Kim, <strong>Soobin Kwak</strong>, Moumni Mohammed, Seungyoon Kang, Seokjun Ham, Junseok Kim
+  journal: Algorithms
+  volume: 18(1)
+  year: 2025
+  pages: 1
+  doi: 10.3390/a18010001
+  pdf: algorithms-18-00001  
+  published: 2025. 01.
+
+- title: Practical implementation of boundary conditions in the Thomas algorithm
+  authors: <strong>Soobin Kwak</strong>
+  journal: Journal of the Korean Society for Industrial and Applied Mathematics
+  volume: 29(2)
+  year: 2025
+  pages: 171–183
+  doi: 10.12941/jksiam.2025.29.171
+  pdf: jksiam.2025.29.171  
+  published: 2025. 06. 25.
