@@ -23,7 +23,8 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 ## SCIE / SSCI
 
-1. [<span style="color:#808080; font-weight: bold;">Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains</span>](https://doi.org/10.1016/j.chaos.2020.110300). Sangkwon Kim, Jintae Park, Chaeyoung Lee, Darae Jeong, Yongho Choi, **Soobin Kwak**, Junseok Kim. *Chaos, Solitons and Fractals* 139 (2020) 110300. [DOI](https://doi.org/10.1016/j.chaos.2020.110300) [[PDF]](../papers/1-s2.0-S0960077920306962-main.pdf)  
+1. [<span style="color:#808080; font-weight: bold;">Periodic travelling wave solutions for a reaction-diffusion system on landscape fitted domains</span>](../papers/1-s2.0-S0960077920306962-main.pdf). Sangkwon Kim, Jintae Park, Chaeyoung Lee, Darae Jeong, Yongho Choi, **Soobin Kwak**, Junseok Kim. *Chaos, Solitons and Fractals* 139 (2020) 110300.  
+DOI: [10.1016/j.chaos.2020.110300](https://doi.org/10.1016/j.chaos.2020.110300)  
 Published: 2020. 10.
 
 1. <span style="color:#808080; font-weight: bold;">An unconditionally stable scheme for the Allen–Cahn equation with high-order polynomial free energy</span>. Chaeyoung Lee, Hyundong Kim, Sungha Yoon, Sangkwon Kim, Dongsun Lee, Jinate Park, **Soobin Kwak**, Junxiang Yang, Jian Wang, Junseok Kim. *Communications in Nonlinear Science and Numerical Simulation* 95 (2021) 105658. [DOI](https://doi.org/10.1016/j.cnsns.2020.105658) [[PDF]](../papers/1-s2.0-S1007570420304883-main.pdf)  
@@ -289,25 +290,25 @@ Published: 2025. 06. 25.
 
 ## Under review / Submitted papers
 
-1. <span style="color:#808080; font-weight: bold;">Reconstruction of convexity-preserving local volatility functions</span>. Sangkwon Kim, Jian Wang, **Soobin Kwak**, Hyundong Kim, Yunjae Nam, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">Reconstruction of convexity-preserving local volatility functions</span>. Sangkwon Kim, Jian Wang, **Soobin Kwak**, Hyundong Kim, Yunjae Nam, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">A space-adaptive, unconditionally stable, and maximum bound preserving scheme for the 3D Allen–Cahn equation</span>. **Soobin Kwak**, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">A space-adaptive, unconditionally stable, and maximum bound preserving scheme for the 3D Allen–Cahn equation</span>. **Soobin Kwak**, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Optimal calibration of the temporally varying volatility function</span>. Jian Wang, Youngjin Hwang, Hyundong Kim, **Soobin Kwak**, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">Optimal calibration of the temporally varying volatility function</span>. Jian Wang, Youngjin Hwang, Hyundong Kim, **Soobin Kwak**, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Numerical investigation of reverse equity-linked securities</span>. Yunjae Nam, Jian Wang, Hyundong Kim, **Soobin Kwak**, Minjoon Bang, Zhengang Li, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">Numerical investigation of reverse equity-linked securities</span>. Yunjae Nam, Jian Wang, Hyundong Kim, **Soobin Kwak**, Minjoon Bang, Zhengang Li, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">An efficient finite volume lattice Boltzmann method on nonuniform triangular meshes for curved surfaces</span>. Youngjin Hwang, **Soobin Kwak**, Seokjun Ham, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">An efficient finite volume lattice Boltzmann method on nonuniform triangular meshes for curved surfaces</span>. Youngjin Hwang, **Soobin Kwak**, Seokjun Ham, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">A time-fractional diffusion model with normalization and short memory effect</span>. Junxiang Yang, Seokjun Ham, **Soobin Kwak**, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">A time-fractional diffusion model with normalization and short memory effect</span>. Junxiang Yang, Seokjun Ham, **Soobin Kwak**, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Modified Allen–Cahn equation for curvature-dependent tissue growth on three-dimensional surfaces</span>. **Soobin Kwak**, Yunjae Nam, Jyoti, Juho Ma, and Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">Modified Allen–Cahn equation for curvature-dependent tissue growth on three-dimensional surfaces</span>. **Soobin Kwak**, Yunjae Nam, Juho Ma, and Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;"> Isotropic discretization of a mathematical model for dendritic growth without artificial curvature</span>. Seokjun Ham, **Soobin Kwak**, Xinpei Wu, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;"> Isotropic discretization of a mathematical model for dendritic growth without artificial curvature</span>. Seokjun Ham, **Soobin Kwak**, Xinpei Wu, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures</span>. Seungyoon Kang, Yibao Li, **Soobin Kwak**, Yongho Choi, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures</span>. Seungyoon Kang, Yibao Li, **Soobin Kwak**, Yongho Choi, Junseok Kim.
 
-1. <span style="color:#808080; font-weight: bold;">A multigrid solver for the  Allen–Cahn equation on a virtual cubic surface</span>. Junxiang Yang, **Soobin Kwak**, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Junseok Kim.
+- <span style="color:#808080; font-weight: bold;">A multigrid solver for the  Allen–Cahn equation on a virtual cubic surface</span>. Junxiang Yang, **Soobin Kwak**, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Junseok Kim.
 
 <div style="text-align: right; font-size: 0.9em; color: gray;">
 Last updated: {{ site.time | date: "%Y-%m-%d" }}

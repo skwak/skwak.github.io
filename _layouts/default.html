@@ -101,6 +101,25 @@
       });
     </script>
 
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const links = document.querySelectorAll("a");
+
+        links.forEach(link => {
+          const href = link.getAttribute("href");
+          if (!href) return;
+
+          const isPDF = href.toLowerCase().endsWith(".pdf");
+          const isDOI = href.includes("doi.org");
+
+          if (isDOI || isPDF) {
+            link.setAttribute("target", "_blank");
+            link.setAttribute("rel", "noopener noreferrer");
+          }
+        });
+      });
+    </script>
+
     {% include analytics.html %}
   </body>
 </html>
