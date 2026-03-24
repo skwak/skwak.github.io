@@ -84,10 +84,7 @@ Published: 2022. 12.
 Published: 2022. 12.
 
 1. <span style="color:#808080; font-weight: bold;">Three-dimensional volume reconstruction from multi-slice data using a shape transformation</span>. Hyundong Kim, Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Sangkwon Kim, Yongho Choi, Junseok Kim. *Computers and Mathematics with Applications* 113 (2022) 52–58. [DOI](https://doi.org/10.1016/j.camwa.2022.03.018) [[PDF]](../papers/1-s2.0-S0898122122001031-main.pdf)  
-Published: 2022. 12.  
-<!-- MDPI paper
-1. <span style="color:#808080; font-weight: bold;">Optimal orientation of solar panels for multi-apartment buildings</span>. Sungha Yoon, Jintae Park, Chaeyoung Lee, Sangkwon Kim, Yongho Choi, **Soobin Kwak**, Hyundong Kim, Junseok Kim . *Mathematics* 11(4) (2023) 938. [DOI](https://doi.org/10.3390/math11040938) [[PDF]](../papers/mathematics-11-00938-v2.pdf)
-Published: 2023. 02.-->  
+Published: 2022. 12.  <!-- MDPI paper 1. <span style="color:#808080; font-weight: bold;">Optimal orientation of solar panels for multi-apartment buildings</span>. Sungha Yoon, Jintae Park, Chaeyoung Lee, Sangkwon Kim, Yongho Choi, **Soobin Kwak**, Hyundong Kim, Junseok Kim . *Mathematics* 11(4) (2023) 938. [DOI](https://doi.org/10.3390/math11040938) [[PDF]](../papers/mathematics-11-00938-v2.pdf)  Published: 2023. 02.-->
 
 1. <span style="color:#808080; font-weight: bold;">Accurate and efficient finite difference method for the Black–Scholes model with no far-field boundary conditions</span>. Chaeyoung Lee, **Soobin Kwak**, Youngjin Hwang, Junseok Kim. *Computational Economics* 61(3) (2023) 1207–1224. [DOI](https://doi.org/10.1007/s10614-022-10242-w) [[PDF]](../papers/)  
 Published: 2023. 03.
