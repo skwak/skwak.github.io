@@ -256,35 +256,6 @@ p > img {
     clear: both;
 }
 
-/****************/
-/* Publications */
-/****************/
-.pub-title {
-  color: #303030;
-  font-weight: 700;
-  font-size: 1.1em;
-}
-
-.pub-title a {
-  text-decoration: none;
-}
-
-.pub-title a:hover {
-  text-decoration: underline;
-}
-
-.pub-meta {
-  font-size: 0.95em;
-}
-
-.pub-meta a {
-  text-decoration: none;
-}
-
-.pub-meta a:hover {
-  text-decoration: underline;
-}
-
 
 /*********************/
 /* LAYOUT / SECTIONS */
@@ -520,6 +491,34 @@ body:after {
 .cd-container h1, .cd-container h2 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
+}
+
+/****************/
+/* Publications */
+/****************/
+.pub-title {
+  color: #303030;
+  font-weight: 700;
+}
+
+.pub-title a {
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  text-decoration: underline;
+}
+
+.pub-meta {
+  font-size: 0.9em;
+}
+
+.pub-meta a {
+  text-decoration: none;
+}
+
+.pub-meta a:hover {
+  text-decoration: underline;
 }
 
 /* --------------------------------

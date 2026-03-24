@@ -5,13 +5,13 @@
 		{% else %}
 			{{ include.pub.title }}
 		{% endif %}
-	</span><br>
-	{{ include.pub.authors }}. <em>{{ include.pub.journal }}</em> {{ include.pub.volume }} ({{ include.pub.year }}) {{ include.pub.pages }}.<br>
-	
-	<span class="pub-meta">
+	</span>.<br>
+	{{ include.pub.authors }}. <em>{{ include.pub.journal }}</em> {{ include.pub.volume }} ({{ include.pub.year }}) {{ include.pub.pages }}. 
 	{% if include.pub.doi %}
 		DOI: <a href="https://doi.org/{{ include.pub.doi }}">{{ include.pub.doi }}</a><br>
-	{% endif %}
+	{% endif %}<br>
+	
+	<span class="pub-meta">
     Published: {{ include.pub.published }}
 	</span>
 </li>

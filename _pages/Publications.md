@@ -24,8 +24,8 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 ## SCIE / SSCI
 
-<ol class="publication-list">
-  {% assign pubs = site.data.publications | sort: "year" | reverse %}
+<ol class="publication-list" reversed>
+  {% assign pubs = site.data.publications | sort: "year" %}
   {% for pub in pubs %}
     {% include publication.html pub=pub %}
   {% endfor %}
