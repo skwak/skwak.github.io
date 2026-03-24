@@ -34,6 +34,14 @@ hide_title:
 <ol class="book-list">
 <!--<ol style="margin-left: auto; margin-right: auto;">-->
   <li>
+    <img src="../images/9791194145592.jpg" alt="Image" class="book-cover">
+    <div class="book-info">
+      파이썬을 활용한 ELS 평가와 로컬 변동성 모형의 수치해석<br>
+      <b>곽수빈</b>, 이정앙, 마주호, 오심배, 남윤재, 이승제, 김현동, 김준석 | <em>지오북스</em> | 2026. 03. 31. | ISBN: 9791194145592
+    </div>
+  </li>
+
+  <li>
     <img src="../images/ISBN_9791194145226.jpg" alt="Image" class="book-cover">
     <div class="book-info">
       챗GPT를 활용한 영어과학논문작성법 (개정판)<br>
@@ -106,7 +114,4 @@ hide_title:
   </li>
 
 </ol>
-
-<div style="text-align: right; font-size: 0.9em; color: gray;">
-Last updated: {{ site.time | date: "%Y-%m-%d" }}
 </div>
