@@ -246,7 +246,7 @@
   year: "2023"
   pages: "1207–1224"
   doi: "10.1007/s10614-022-10242-w"
-  pdf:
+  pdf: "s10614-022-10242-w"
   published: "2023. 03."
 
 - title: "A phase-field model without artificial curvature effect for the crystal growth simulation"
@@ -586,7 +586,7 @@
   year: "2025"
   pages: "115010 1147–1168"
   doi: "10.1007/s10614-024-10590-9"
-  pdf:
+  pdf: "s10614-024-10590-9"
   published: "2025. 03."
 
 - title: "Positivity preserving and unconditionally stable numerical scheme for the three-dimensional modified Fisher–Kolmogorov–Petrovsky–Piskunov equation"
@@ -636,7 +636,7 @@
   year: "2025"
   pages: "2550085"
   doi: "10.1142/S0218348X25500859"
-  pdf:
+  pdf: "S0218348X25500859"
   published: "2025. 07. 07."
 
 - title: "A review of the numerical methods for solving the binary Allen–Cahn equation"
