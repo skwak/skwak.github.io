@@ -584,7 +584,7 @@
   journal: "Computational Economics"
   volume: "65(3)"
   year: "2025"
-  pages: "115010 1147–1168"
+  pages: "1147–1168"
   doi: "10.1007/s10614-024-10590-9"
   pdf: "s10614-024-10590-9"
   published: "2025. 03."
@@ -719,6 +719,16 @@
   pdf: "1-s2.0-S0898122125004675-main"
   published: "2026. 01. 01."
 
+- title: "A convergent fourth-order finite difference scheme for the Black–Scholes equation"
+  authors: "Seungyoon Kang, <strong>Soobin Kwak</strong>, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim"
+  journal: "Computational Economics"
+  volume: "67(3)"
+  year: "2026"
+  pages: "2263–2276"
+  doi: "10.1007/s10614-025-10945-w"
+  pdf:
+  published: "2026. 03."
+
 - title: "Restoration of partially damaged fingerprints using a partial differential equation"
   authors: "Sangkwon Kim, Yibao Li, <strong>Soobin Kwak</strong>, Junseok Kim"
   journal: "Pattern Recognition"
@@ -729,25 +739,15 @@
   pdf: "1-s2.0-S0031320325013573-main"
   published: "2026. 04."
 
-- title: "A convergent fourth-order finite difference scheme for the Black–Scholes equation"
-  authors: "Seungyoon Kang, <strong>Soobin Kwak</strong>, Gyeonggyu Lee, Yougjin Hwang, Seokjun Ham, Junseok Kim"
-  journal: "Computational Economics"
-  volume:
-  year: "2025"
-  pages: "127168"
-  doi: "10.1007/s10614-025-10945-w"
-  pdf:
-  published: "2025. 04. (Early Access)"
-
 - title: "Stability analysis for maximum principle preserving explicit isotropic schemes of the Allen–Cahn equation"
   authors: "Jyoti, Seokjun Ham, <strong>Soobin Kwak</strong>, Youngjin Hwang, Seungyoon Kang, Junseok Kim"
   journal: "Journal of Computational Mathematics"
-  volume:
-  year: "2025"
-  pages:
+  volume: "44(3)"
+  year: "2026"
+  pages: "700–721"
   doi: "10.4208/jcm.2504-m2024-0106"
   pdf: "jcm.2504-m2024-0106"
-  published: "2025. 06. 04. (Early Access)"
+  published: "2026."
 
 - title: "Numerical simulation of a normalized time-fractional SUC epidemic model"
   authors: "Chaeyoung Lee, Jyoti, <strong>Soobin Kwak</strong>, Yunjae Nam, Hyundong Kim, Junseok Kim"
