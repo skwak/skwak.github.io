@@ -789,7 +789,7 @@
   pdf:
   published: 
 
-  - title: "A multigrid solver for the Allen–Cahn equation on a virtual cubic surface"
+- title: "A multigrid solver for the Allen–Cahn equation on a virtual cubic surface"
   authors: "Junxiang Yang, <strong>Soobin Kwak</strong>, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Juho Ma, Junseok Kim"
   journal: "Applied Numerical Mahtematics"
   volume: "228"

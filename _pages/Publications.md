@@ -56,15 +56,11 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 - <span style="color:#808080; font-weight: bold;">An efficient finite volume lattice Boltzmann method on nonuniform triangular meshes for curved surfaces</span>. Youngjin Hwang, **Soobin Kwak**, Seokjun Ham, Junseok Kim.
 
-- <span style="color:#808080; font-weight: bold;">A time-fractional diffusion model with normalization and short memory effect</span>. Junxiang Yang, Seokjun Ham, **Soobin Kwak**, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim.
-
 - <span style="color:#808080; font-weight: bold;">Modified Allen–Cahn equation for curvature-dependent tissue growth on three-dimensional surfaces</span>. **Soobin Kwak**, Yunjae Nam, Juho Ma, and Junseok Kim.
 
 - <span style="color:#808080; font-weight: bold;"> Isotropic discretization of a mathematical model for dendritic growth without artificial curvature</span>. Seokjun Ham, **Soobin Kwak**, Xinpei Wu, Junseok Kim.
 
 - <span style="color:#808080; font-weight: bold;">Practical volume merging method for triply periodic minimal structures</span>. Seungyoon Kang, Yibao Li, **Soobin Kwak**, Yongho Choi, Junseok Kim.
-
-- <span style="color:#808080; font-weight: bold;">A multigrid solver for the  Allen–Cahn equation on a virtual cubic surface</span>. Junxiang Yang, **Soobin Kwak**, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Junseok Kim.
 
 <div style="text-align: right; font-size: 0.9em; color: gray;">
 Last updated: {{ site.time | date: "%Y-%m-%d" }}
