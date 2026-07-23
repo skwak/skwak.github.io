@@ -24,5 +24,7 @@ hide_title:
 
 ## Awards
 
-- KMS Best Poster Award. *Korean Mathematical Society (KMS)*, October 25, 2024.
-- 2025 Outstanding Participant Award for BK21 FOUR. *National Research Foundation of Korea (NRF)*, December 31, 2025.
+- KMS Best Poster Award  
+  *Korean Mathematical Society (KMS)*, October 25, 2024. [Link](https://www.kms.or.kr/board/list.html?code=md_meet&num=24636&period=88&period_url=2024_fall)
+- 2025 Outstanding Participant Award for BK21 FOUR (2025년도 4단계 BK21사업 우수 참여인력 - 한국연구재단 이사장상)  
+  *National Research Foundation of Korea (NRF)*, December 31, 2025.
