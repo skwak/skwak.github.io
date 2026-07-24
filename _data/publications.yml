@@ -779,6 +779,16 @@
   pdf: "1-s2.0-S0168927426001145-main"
   published: "2026. 10."
 
+- title: "An adaptive numerical method for solving the Allen–Cahn equation on curved surfaces"
+  authors: "Hyundong Kim, Qunzhi Jin, Xinpei Wu, <strong>Soobin Kwak</strong>, Zhengang Li, Junseok Kim"
+  journal: "Journal of Computational and Applied Mathematics"
+  volume: "486"
+  year: "2026"
+  pages: "117702"
+  doi: "10.1016/j.cam.2026.117702"
+  pdf: "1-s2.0-S0377042726003444-main"
+  published: "2026. 11."
+
 - title: "Numerical simulation of a normalized time-fractional SUC epidemic model"
   authors: "Chaeyoung Lee, Jyoti, <strong>Soobin Kwak</strong>, Yunjae Nam, Hyundong Kim, Junseok Kim"
   journal: "Computer Methods in Biomechanics and Biomedical Engineering"
