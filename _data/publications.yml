@@ -726,8 +726,18 @@
   year: "2026"
   pages: "2263–2276"
   doi: "10.1007/s10614-025-10945-w"
-  pdf:
+  pdf: "retrieve"
   published: "2026. 03."
+
+- title: "Stability analysis for maximum principle preserving explicit isotropic schemes of the Allen–Cahn equation"
+  authors: "Jyoti, Seokjun Ham, <strong>Soobin Kwak</strong>, Youngjin Hwang, Seungyoon Kang, Junseok Kim"
+  journal: "Journal of Computational Mathematics"
+  volume: "44(3)"
+  year: "2026"
+  pages: "700–721"
+  doi: "10.4208/jcm.2504-m2024-0106"
+  pdf: "jcm.2504-m2024-0106"
+  published: "2026. 03. 11."
 
 - title: "Restoration of partially damaged fingerprints using a partial differential equation"
   authors: "Sangkwon Kim, Yibao Li, <strong>Soobin Kwak</strong>, Junseok Kim"
@@ -739,55 +749,25 @@
   pdf: "1-s2.0-S0031320325013573-main"
   published: "2026. 04."
 
-- title: "Stability analysis for maximum principle preserving explicit isotropic schemes of the Allen–Cahn equation"
-  authors: "Jyoti, Seokjun Ham, <strong>Soobin Kwak</strong>, Youngjin Hwang, Seungyoon Kang, Junseok Kim"
-  journal: "Journal of Computational Mathematics"
-  volume: "44(3)"
+- title: "Traveling wave solutions for a normalized time-fractional predator-prey model"
+  authors: "Seokjun Ham, <strong>Soobin Kwak</strong>, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim"
+  journal: "Indian Journal of Physics"
+  volume: "100(8)"
   year: "2026"
-  pages: "700–721"
-  doi: "10.4208/jcm.2504-m2024-0106"
-  pdf: "jcm.2504-m2024-0106"
-  published: "2026."
-
-- title: "Numerical simulation of a normalized time-fractional SUC epidemic model"
-  authors: "Chaeyoung Lee, Jyoti, <strong>Soobin Kwak</strong>, Yunjae Nam, Hyundong Kim, Junseok Kim"
-  journal: "Computer Methods in Biomechanics and Biomedical Engineering"
-  volume:
-  year: "2025"
-  pages:
-  doi: "10.1080/10255842.2025.2556313"
-  pdf: "Numerical simulation of a normalized time-fractional SUC epidemic model"
-  published: "2025. 09. (Early Access)"
+  pages: "3357–3368"
+  doi: "10.1007/s12648-026-04021-8"
+  pdf: "s12648-026-04021-8"
+  published: "2026. 07."
 
 - title: "A positivity-preserving numerical method for the ternary Allen–Cahn equation"
   authors: "<strong>Soobin Kwak</strong>, Seokjun Ham, Junseok Kim"
   journal: "Mathematical Methods in the Applied Sciences"
-  volume:
+  volume: "49(10)"
   year: "2026"
-  pages:
+  pages: "11501–11515"
   doi: "10.1002/mma.70675"
-  pdf:
-  published: "2026. 03. 09. (Early Access)"
-
-- title: "Traveling wave solutions for a normalized time-fractional predator-prey model"
-  authors: "Seokjun Ham, <strong>Soobin Kwak</strong>, Ana Yun, Jyoti, Yunjae Nam, Junseok Kim"
-  journal: "Indian Journal of Physics"
-  volume:
-  year: "2026"
-  pages:
-  doi: "10.1007/s12648-026-04021-8"
-  pdf:
-  published: "2026. 03. (Early Access)"
-
-- title: "A time-fractional diffusion model with normalization and short memory effect"
-  authors: "Junxiang Yang, Seokjun Ham, <strong>Soobin Kwak</strong>, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim"
-  journal: "Communications in Computational Physics"
-  volume:
-  year: "2026"
-  pages:
-  doi: 
-  pdf:
-  published: 
+  pdf: "Math Methods in App Sciences - 2026 - Kwak - A Positivity Preserving Numerical Method for the Ternary Allen Cahn Equation"
+  published: "2026. 07. 15."
 
 - title: "A multigrid solver for the Allen–Cahn equation on a virtual cubic surface"
   authors: "Junxiang Yang, <strong>Soobin Kwak</strong>, Seokjun Ham, Youngjin Hwang, Hyundong Kim, Juho Ma, Junseok Kim"
@@ -798,3 +778,53 @@
   doi: "10.1016/j.apnum.2026.05.010"
   pdf: "1-s2.0-S0168927426001145-main"
   published: "2026. 10."
+
+- title: "Numerical simulation of a normalized time-fractional SUC epidemic model"
+  authors: "Chaeyoung Lee, Jyoti, <strong>Soobin Kwak</strong>, Yunjae Nam, Hyundong Kim, Junseok Kim"
+  journal: "Computer Methods in Biomechanics and Biomedical Engineering"
+  volume:
+  year: "2026"
+  pages:
+  doi: "10.1080/10255842.2025.2556313"
+  pdf: "Numerical simulation of a normalized time-fractional SUC epidemic model"
+  published: "2025. 09. (Early Access)"
+
+- title: "A cell structure implementation of the multigrid method for the three-dimensional diffusion equation"
+  authors: "Youngjin Hwang, <strong>Soobin Kwak</strong>, Jyoti, Hyunho Shin, Xinpei Wu, Junseok Kim"
+  journal: "International Journal of Computer Mathematics"
+  volume:
+  year: "2026"
+  pages:
+  doi: "10.1080/00207160.2026.2664005"
+  pdf: "A cell structure implementation of the multigrid method for the three-dimensional diffusion equation"
+  published: "2026. 04. (Early Access)"
+
+- title: "A time-fractional diffusion model with normalization and short memory effect"
+  authors: "Junxiang Yang, Seokjun Ham, <strong>Soobin Kwak</strong>, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim"
+  journal: "Communications in Computational Physics"
+  volume:
+  year: "2026"
+  pages:
+  doi:
+  pdf:
+  published:
+
+- title: "Normalized time-fractional predator-prey model with landscape features"
+  authors: "Xinpei Wu, <strong>Soobin Kwak</strong>, Juho Ma, Junseok Kim"
+  journal: "International Journal of Biomathematics"
+  volume:
+  year: "2026"
+  pages:
+  doi:
+  pdf:
+  published:
+
+- title: "Numerical analysis for the normalized time-fractional Modica–Mortola functional"
+  authors: "Zhengang Li, <strong>Soobin Kwak</strong>, Xinpei Wu, Juho Ma, Qunzhi Jin, Junseok Kim"
+  journal: "Numerical Functional Analysis and Optimization"
+  volume:
+  year: "2026"
+  pages:
+  doi:
+  pdf:
+  published:
