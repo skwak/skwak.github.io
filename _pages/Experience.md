@@ -2,8 +2,13 @@
 layout: page
 title: Experience
 permalink: /experience/
-hide_title:
+hide_title: true
 ---
+
+## Editorial Activities
+
+- Guest Editor for the Special Issue: [Phase-field modeling and simulation mathematical analysis, numerical methods, and scientific computing](https://www.aimspress.com/math/article/7220/special-articles), *AIMS Mathematics*, AIMS Press, 2026–present.
+
 ## Presentations
 
 - Estimating unconfirmed infected population with SUC model. [*2020 KMS Annual Meeting*](https://www.kms.or.kr/meetings/fall2020/), October 24, 2020
