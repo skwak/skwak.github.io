@@ -5,7 +5,7 @@ permalink: /experience/
 hide_title: true
 ---
 
-## Editorial Activities
+## Editorial activities
 
 - Guest Editor for the Special Issue: [Phase-field modeling and simulation mathematical analysis, numerical methods, and scientific computing](https://www.aimspress.com/math/article/7220/special-articles), *AIMS Mathematics*, AIMS Press, 2026–present.
 
@@ -23,13 +23,14 @@ hide_title: true
 - Computational reconstruction of initial data in normalized time-fractional diffusion models. [*2025 KMS Annual Meeting*](https://www.kms.or.kr/conference/meeting/?period=90), October 24, 2025
 - Saul’yev-type second-order explicit scheme for the Allen–Cahn equation. [*2025 KSIAM Annual Meeting*](https://ksiam.org/Conference/ConferenceView.asp?AC=0&CODE=CC20250901&B_CATE=BBC1), November 28, 2025
 
-## Certificates
-
-- ADsP (Advanced Data Analytics Semi-Professional)
-
 ## Awards
 
 - KMS Best Poster Award  
   *Korean Mathematical Society (KMS)*, October 25, 2024. [Link](https://www.kms.or.kr/board/list.html?code=md_meet&num=24636&period=88&period_url=2024_fall)
 - 2025 Outstanding Participant Award for BK21 FOUR (2025년도 4단계 BK21사업 우수 참여인력 - 한국연구재단 이사장상)  
   *National Research Foundation of Korea (NRF)*, December 31, 2025.
+
+## Certificates
+
+- ADsP (Advanced Data Analytics Semi-Professional)
+  
