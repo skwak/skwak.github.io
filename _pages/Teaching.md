@@ -35,7 +35,7 @@ hide_title: true
   - Determining the appropriate number of ice cubes for chilling a beverage: A study of mathematical modeling and coding – *2025*
   - Pricing equity-linked securities (ELS) using Monte Carlo simulation – *2024*
 
-### Field reseach program
+### Field research program
 
 - **Incheon Academy of Science and Arts**
   - 편미분 방정식을 이용한 훼손된 지문 복원 알고리즘 분석 및 응용 - *2026*
