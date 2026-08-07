@@ -809,6 +809,16 @@
   pdf: "A cell structure implementation of the multigrid method for the three-dimensional diffusion equation"
   published: "2026. 04. (Early Access)"
 
+- title: "A time-fractional diffusion model with normalization and short memory effect"
+  authors: "Junxiang Yang, Seokjun Ham, <strong>Soobin Kwak</strong>, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim"
+  journal: "Communications in Computational Physics"
+  volume:
+  year: "2026"
+  pages:
+  doi: "10.4208/cicp.OA-2025-0253"
+  pdf:
+  published: "2026. 06. (Early Access)"
+
 - title: "Numerical analysis for the normalized time-fractional Modica–Mortola functional"
   authors: "Zhengang Li, <strong>Soobin Kwak</strong>, Xinpei Wu, Juho Ma, Qunzhi Jin, Junseok Kim"
   journal: "Numerical Functional Analysis and Optimization"
@@ -827,14 +837,4 @@
   pages:
   doi: "10.1142/S1793524526500750"
   pdf:
-  published: "2026. 07. (Early Access)"
-
-- title: "A time-fractional diffusion model with normalization and short memory effect"
-  authors: "Junxiang Yang, Seokjun Ham, <strong>Soobin Kwak</strong>, Yunjae Nam, Zhengang Li, Xinpei Wu, Juho Ma, Junseok Kim"
-  journal: "Communications in Computational Physics"
-  volume:
-  year: "2026"
-  pages:
-  doi:
-  pdf:
-  published:
+  published: "2026. 08. (Early Access)"
