@@ -48,8 +48,6 @@ Various numerical schemes and analysis for the conservative Allen–Cahn equatio
 
 - <span style="color:#808080; font-weight: bold;">Reconstruction of convexity-preserving local volatility functions</span>. Sangkwon Kim, Jian Wang, **Soobin Kwak**, Hyundong Kim, Yunjae Nam, Junseok Kim.
 
-- <span style="color:#808080; font-weight: bold;">A space-adaptive, unconditionally stable, and maximum bound preserving scheme for the 3D Allen–Cahn equation</span>. **Soobin Kwak**, Junseok Kim.
-
 - <span style="color:#808080; font-weight: bold;">Optimal calibration of the temporally varying volatility function</span>. Jian Wang, Youngjin Hwang, Hyundong Kim, **Soobin Kwak**, Junseok Kim.
 
 - <span style="color:#808080; font-weight: bold;">Numerical investigation of reverse equity-linked securities</span>. Yunjae Nam, Jian Wang, Hyundong Kim, **Soobin Kwak**, Minjoon Bang, Zhengang Li, Junseok Kim.
