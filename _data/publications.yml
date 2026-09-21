@@ -789,6 +789,16 @@
   pdf: "1-s2.0-S0377042726003444-main"
   published: "2026. 11."
 
+- title: "A space-adaptive, unconditionally maximum bound preserving scheme for the 3D Allen–Cahn equation"
+  authors: "<strong>Soobin Kwak</strong>, Junseok Kim"
+  journal: "Communications in Nonlinear Science and Numerical Simulation"
+  volume: "163"
+  year: "2026"
+  pages: "110842"
+  doi: "10.1016/j.cnsns.2026.110842"
+  pdf: 
+  published: "2026. 11."
+
 - title: "Numerical simulation of a normalized time-fractional SUC epidemic model"
   authors: "Chaeyoung Lee, Jyoti, <strong>Soobin Kwak</strong>, Yunjae Nam, Hyundong Kim, Junseok Kim"
   journal: "Computer Methods in Biomechanics and Biomedical Engineering"
@@ -838,13 +848,3 @@
   doi: "10.1142/S1793524526500750"
   pdf:
   published: "2026. 08. (Early Access)"
-
-- title: "A space-adaptive, unconditionally maximum bound preserving scheme for the 3D Allen–Cahn equation"
-  authors: "<strong>Soobin Kwak</strong>, Junseok Kim"
-  journal: "Communications in Nonlinear Science and Numerical Simulation"
-  volume:
-  year: "2026"
-  pages:
-  doi: "10.1016/j.cnsns.2026.110842"
-  pdf:
-  published:
