@@ -1,3 +1,4 @@
+# Comment / Uncomment => Ctrl + / #
 #- title: ""
 #  authors: ""
 #  journal: ""
@@ -117,3 +118,13 @@
   doi: "10.12941/jksiam.2025.29.171"
   pdf: "jksiam.2025.29.171"
   published: "2025. 06. 25."
+
+- title: "A discrete sine transform method for the normalized time-fractional diffusion equation"
+  authors: "<strong>Soobin Kwak</strong>"
+  journal: "Journal of the Korean Society for Industrial and Applied Mathematics"
+  volume: "30(3)"
+  year: "2026"
+  pages: "433–445"
+  doi: "10.12941/jksiam.2026.30.433"
+  pdf: "300305"
+  published: "2026. 09. 25."
