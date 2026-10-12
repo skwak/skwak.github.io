@@ -89,7 +89,8 @@
   pdf: "s10665-021-10203-6"
   published: "2022. 02."
 
-- title: "Unconditionally stable second-order accurate scheme for a parabolic sine-Gordon equationsSeokjun Ham, Youngjin Hwang, <strong>Soobin Kwak</strong>, Junseok Kim"
+- title: "Unconditionally stable second-order accurate scheme for a parabolic sine-Gordon equations"
+  authors: "Seokjun Ham, Youngjin Hwang, <strong>Soobin Kwak</strong>, Junseok Kim"
   journal: "AIP Advances"
   volume: "12(2)"
   year: "2022"
