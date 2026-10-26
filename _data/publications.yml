@@ -821,6 +821,16 @@
   pdf: "1-s2.0-S1007570426011950-main"
   published: "2026. 11."
 
+- title: "A three dimensional conservative Allen–Cahn model with a curvature-dependent Lagrange multiplier"
+  authors: "<strong>Soobin Kwak</strong>, Xinpei Wu, Junseok Kim"
+  journal: "International Journal of Engineering Science"
+  volume: "230"
+  year: "2027"
+  pages: "104706"
+  doi: "10.1016/j.ijengsci.2026.104706"
+  pdf: "1-s2.0-S0020722526002429-main"
+  published: "2027. 01. 01."
+
 - title: "Numerical simulation of a normalized time-fractional SUC epidemic model"
   authors: "Chaeyoung Lee, Jyoti, <strong>Soobin Kwak</strong>, Yunjae Nam, Hyundong Kim, Junseok Kim"
   journal: "Computer Methods in Biomechanics and Biomedical Engineering"
@@ -850,13 +860,3 @@
   doi: "10.1142/S1793524526500750"
   pdf:
   published: "2026. 08. (Early Access)"
-
-- title: "A three dimensional conservative Allen–Cahn model with a curvature-dependent Lagrange multiplier"
-  authors: "<strong>Soobin Kwak</strong>, Xinpei Wu, Junseok Kim"
-  journal: "International Journal of Engineering Science"
-  volume: 
-  year: "2026"
-  pages: 
-  doi: 
-  pdf: 
-  published:
